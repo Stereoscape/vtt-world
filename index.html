@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <title>VTT World</title>
+    <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <link rel="stylesheet" href="assets/uikit.css" />
+    <link rel="stylesheet" href="assets/style.css" />
+    <link rel="stylesheet" href="assets/fonts/fonts.css" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.png" />
+    <!--Google Tag Manager -->
+    <script>(function (w, d, s, l, i) { w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-WGW3LXZ');</script>
+    <!--End Google Tag Manager -->
+</head>
+<body>
+
+    <!--Google Tag Manager (noscript) -->
+    <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGW3LXZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!--End Google Tag Manager (noscript) -->
+    
+    <aside>
+        <noscript>We are sorry but VTT world needs JavaScript enabled. Please enable it to continue.</noscript>
+    </aside>
+
+    <header class="uk-position-top" id="top">
+        <a class="skip-main" href="#content">Skip to main content</a>
+
+        <h1 class="visually-hidden">
+            Welcome to VTT World
+        </h1>
+
+        <div class="uk-container uk-container-large ">
+            <div class="uk-navbar-container uk-navbar-transparent uk-margin" data-uk-navbar="dropbar: false;"
+                data-uk-sticky="sel-target: .uk-navbar-container">
+                <!-- LEFT -->
+                <div class="uk-navbar-left">
+                    <!-- <a class="uk-navbar-item uk-logo" href="#">Logo</a> -->
+                    <div class="uk-navbar-item uk-visible@m"><img src="assets/vttlogo.svg" width="150" alt="VTT Logo"
+                            data-uk-img>
+                    </div>
+                    <div class="uk-navbar-item uk-hidden@m"><img src="assets/vttlogo.svg" width="120" alt="VTT Logo"
+                            data-uk-img>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main id="main-content" aria-labelledby="mainLabel" class="uk-container uk-container-expand uk-padding-remove">
+
+        <div id="content" class="uk-width-auto uk-inline-clip uk-text-nowrap">
+            <h1 id="mainLabel" class="visually-hidden">Animated world of VTT</h1>
+
+            <video tabindex="-1" muted id="bg" class="uk-position-absolute" style="left: 0%; top: 0%" playsinline
+                poster="assets/bg.jpg" data-uk-video
+                aria-label="A fullpage background video with navigation elements on it" aria-describedby="transcript">
+                <source type="video/mp4" src="assets/bg.mp4" />
+                <source type="video/webm" src="assets/bg.webm" />
+                <!-- <track label="English captions" kind="captions" src="assets/sample.vtt" />-->
+                <p id="transcript" class="visually-hidden">
+                    <strong>Description of the background video:</strong> here
+                </p>
+            </video>
+
+            <img aria-hidden="true" width="1920" height="3240" src="assets/placeholder_1920x3240.jpg"
+                alt="Placeholder image for background" />
+
+            <nav id="hotspotsNav" aria-labelledby="hotspotsNavLabel">
+                <h1 id="hotspotsNavLabel" class="visually-hidden uk-position-top">Elements of VTT World</h1>
+                <ul id="hotspotsNavUL" style="list-style-type:none;"></ul>
+            </nav>
+
+            <button tabindex="-1" aria-hidden="true" id="focushelper0" class="visually-hidden"></button>
+
+        </div>
+    </main>
+
+    <section id="infocardContainer" role="dialog" aria-modal="true"
+        class="uk-modal-container uk-flex-top uk-overflow-hidden" data-uk-modal>
+
+        <div role="document" class="uk-modal-dialog uk-margin-auto-vertical uk-background-cover"
+            style="background-image: url(assets/infocard-background.svg)">
+
+            <button id="infocardClose" class="uk-modal-close-full uk-close-large" type="button" data-uk-close>
+                <span id="infocardClosetext" class="visually-hidden">
+                    Close dialog
+                </span>
+            </button>
+
+            <div id="infocardHeader" class="uk-modal-header">
+                <h1 id="infocardTitle" class="uk-text-primary uk-margin-small-top uk-helvetica-bold" style="width: 80%">
+                    Integrated Computational Materials Engineering (ICME)
+                </h1>
+            </div>
+
+            <div id="infocardBody" class="uk-modal-body uk-padding-remove-top uk-padding-remove-bottom">
+                <div class="uk-flex-top uk-margin-right" data-uk-grid>
+                    <div class="uk-width-1-2@m">
+                        <p id="infocardDescription" class="uk-helvetica description uk-text-secondary">
+                            The demand for sustainable and renewable materials is increasing. We create new bio-based
+                            materials viable for the circular economy and methods for manufacturing them more
+                            efficiently.<br><br>We research alternatives to fossil-based plastics and develop bio-based
+                            composites that combine properties of natural fibres and thermoplastic materials to create
+                            novel materials for applications, including packaging, furniture and construction. We also
+                            use foam-forming technology to create recyclable and sustainable materials that can be used
+                            for applications such as packaging and construction, lightweight boards, wipes, filters and
+                            hygiene products. Foam forming technology expands the range of raw materials and enables the
+                            production of new, value-added structures. Our unique infrastructure includes multiple
+                            piloting capabilities for these technologies.
+                        </p>
+                    </div>
+                    <div class="uk-width-1-2@m">
+                        <h2 class="visually-hidden">
+                            Carousel containing related images and videos
+                        </h2>
+
+                        <!-- UIKIT working slider BEGIN -->
+
+                        <div id="gallery" data-uk-slideshow>
+
+                            <div id="carousel" aria-live="polite" aria-roledescription="carousel"
+                                class="uk-position-relative">
+
+                                <ul id="galleryItems"
+                                    class="uk-slideshow-items uk-margin-small-left uk-margin-small-right">
+                                    <li>
+                                        <img src="content/images/414S6394.jpg" alt="IntelligentEnergy test bed">
+                                    </li>
+                                    <li>
+                                        <img src="content/images/414S6414.jpg" alt="Space satellite">
+                                    </li>
+                                    <li>
+                                        <img src="content/images/414S6446.jpg" alt="Cleanroom lab worker">
+                                    </li>
+                                </ul>
+
+                                <a aria-label="Previous slide" aria-controls="carousel"
+                                    class="uk-slidenav-large uk-position-center-left-out " href="#"
+                                    data-uk-slidenav-previous data-uk-slideshow-item="previous"></a>
+
+                                <a aria-label="Next slide" aria-controls="carousel"
+                                    class=" uk-slidenav-large uk-position-center-right-out" href="#"
+                                    data-uk-slidenav-next data-uk-slideshow-item="next"></a>
+
+                                <ul id="dotNav2" class="uk-flex-center uk-margin-small uk-dotnav"
+                                    aria-label="carousel control" aria-controls="carousel">
+                                </ul>
+
+                            </div>
+
+
+                        </div>
+
+                        <!-- UIKIT working slider END-->
+
+                    </div>
+                </div>
+            </div>
+
+            <div id="infocardFooter" class="uk-modal-footer uk-text-left">
+                <div data-uk-grid>
+                    <nav aria-labelledby="tagsLabel" class="uk-width-expand">
+                        <h3 id="tagsLabel" class="uk-margin-small uk-helvetica-bold">
+                            Linked technology platforms
+                        </h3>
+                        <ul id="tagContainer" class="uk-navbar-nav uk-navbar-left ">
+                        </ul>
+                    </nav>
+                    <a role="button" id="qrContainer"
+                        class="uk-width-auto uk-padding uk-padding-remove-horizontal uk-padding-remove-bottom "
+                        href="https://www.vttresearch.com/en" target="_blank">
+                        <img id="qrCode" src="content/qr/qr_code.png" width="80" alt="Learn more on VTT's website"
+                            data-uk-img />
+                    </a>
+                </div>
+            </div>
+            <button aria-hidden="true" id="focushelper" class="visually-hidden"></button>
+        </div>
+    </section>
+
+    <script id="hotspot-template" type="text/template">
+        <li id="hotspot" class="uk-position-absolute uk-transform-origin-top-left hotspot" style="left: 0%; top: 0%;">
+
+          <div aria-hidden="true" class="circle pulse" href="#infocardContainer" data-uk-toggle>+</div>
+
+          <button class="uk-button uk-button-primary uk-button-hotspot uk-border-pill uk-text-nowrap"
+              style=" float: none;" href="#infocardContainer" data-uk-toggle>
+              Hotspot button
+          </button>
+
+        </li>
+    </script>
+
+    <script id="tag-template" type="text/template">
+        <button
+          class="tag uk-button uk-button-secondary uk-border-pill uk-button-small uk-margin-small-bottom uk-margin-small-right">
+          Linked technology plaforms button
+        </button>
+    </script>
+
+    <script id="image-template" type="text/template">
+        <li>
+          <img src="" alt="">
+        </li>
+    </script>
+
+    <script id="video-template" type="text/template">
+        <li>
+          <iframe title="Youtube video" class="youtube-video" src="https://www.youtube-nocookie.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en" width="1280" height="720" frameborder="0" allowfullscreen data-uk-responsive data-uk-video="autoplay: false"></iframe> 
+        </li>
+    </script>
+
+    <script src="https://unpkg.com/focus-visible"></script>
+    <script src="content/data.js"></script>
+    <script src="dist/bundle02.js"></script>
+
+</body>
+
+</html>

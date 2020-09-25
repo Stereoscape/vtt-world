@@ -1,0 +1,454 @@
+.uk-modal-header {
+  background: none;
+  border-bottom: none;
+}
+
+.uk-modal-footer {
+  background: none;
+  border-top: none;
+}
+
+.uk-modal-close-full {
+  background: none;
+}
+
+.uk-helvetica {
+  font-family: "Helvetica-Neue-Roman", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  /* font-size: 1.125rem; */
+  /* font-size: 1.5vw; */
+}
+
+.uk-helvetica-bold {
+  font-family: "Helvetica-Neue-Bold", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.uk-button {
+  text-transform: none;
+  font-family: "Helvetica-Neue-Roman", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.uk-button-hotspot {
+  padding: 0 24px;
+  line-height: 48px;
+  font-size: 1.2rem;
+}
+
+@keyframes shadow-pulse {
+  0% {
+    box-shadow: 0 0 0 0px rgba(255, 255, 255, 1);
+  }
+
+  100% {
+    box-shadow: 0 0 0 20px rgba(255, 255, 255, 0);
+  }
+}
+
+.circle {
+  float: left;
+  width: 48px;
+  height: 48px;
+  font-family: "Helvetica-Neue-Roman", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 30px;
+  line-height: 42px;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  display: inline-block;
+  background: rgb(255, 255, 255);
+  border-radius: 50%;
+  border: 2px solid rgb(240, 110, 0);
+  cursor: pointer;
+}
+
+.pulse {
+  animation: shadow-pulse 2s infinite;
+}
+
+/*
+ * Primary
+ */
+.uk-button-primary {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(240, 110, 0);
+}
+
+/* Hover + Focus */
+.uk-button-primary:hover,
+.uk-button-primary:focus {
+  background-color: rgb(240, 110, 0);
+  color: rgb(255, 255, 255);
+
+  -webkit-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+  background-color: #fff;
+  color: #000;
+  -webkit-transform: translate(-0.3125rem, -0.3125rem);
+  transform: translate(-0.3125rem, -0.3125rem);
+  -webkit-box-shadow: 0.3125rem 0.3125rem 0 #f06e00;
+  box-shadow: 0.3125rem 0.3125rem 0 #f06e00;
+}
+
+/* OnClick + Active */
+.uk-button-primary:active,
+.uk-button-primary.uk-active {
+  background-color: rgb(240, 110, 0);
+  color: #fff;
+}
+
+/*
+ * Secondary
+ */
+.uk-button-secondary {
+  background-color: #fff;
+  color: #000;
+  border: 2px solid #000;
+
+  line-height: 36px;
+}
+
+/* Hover + Focus */
+.uk-button-secondary:hover,
+.uk-button-secondary:focus {
+  -webkit-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+  background-color: #fff;
+  color: #000;
+  -webkit-transform: translate(-0.3125rem, -0.3125rem);
+  transform: translate(-0.3125rem, -0.3125rem);
+  -webkit-box-shadow: 0.3125rem 0.3125rem 0 #000;
+  box-shadow: 0.3125rem 0.3125rem 0 #000;
+}
+
+/* OnClick + Active */
+.uk-button-secondary:active,
+.uk-button-secondary.uk-active {
+  background-color: #000;
+  color: #fff;
+}
+
+.uk-marker {
+  padding: 5px;
+  background: rgb(240, 110, 0);
+  color: #fff;
+  border-radius: 500px;
+  border: 2px solid #fff;
+}
+
+/* Hover + Focus */
+.uk-marker:hover,
+.uk-marker:focus {
+  color: #fff;
+  outline: none;
+}
+
+.uk-dotnav>*>* {
+  width: 20px;
+  height: 20px;
+  background: #ccc;
+  border: none;
+}
+
+/* Hover + Focus */
+.uk-dotnav>*> :hover,
+.uk-dotnav>*> :focus {
+  background-color: #ccc;
+}
+
+/* OnClick */
+.uk-dotnav>*> :active {
+  background-color: #ccc;
+}
+
+/* Active */
+.uk-dotnav>.uk-active>* {
+  background-color: rgb(240, 110, 0);
+}
+
+.uk-text-primary {
+  color: rgb(240, 110, 0) !important;
+}
+
+.uk-close {
+  color: #000000;
+}
+
+/* Hover + Focus */
+.uk-close:hover,
+.uk-close:focus {
+  color: #000000;
+}
+
+.uk-slidenav {
+  color: rgba(0, 0, 0, 0.9);
+}
+
+/* Hover + Focus */
+.uk-slidenav:hover,
+.uk-slidenav:focus {
+  color: rgba(0, 0, 0, 0.9);
+}
+
+/* OnClick */
+.uk-slidenav:active {
+  color: rgba(0, 0, 0, 0.9);
+}
+
+.uk-overlay-default {
+  background: rgba(255, 255, 255, 0);
+}
+
+.noselect {
+  -webkit-touch-callout: none;
+  /* iOS Safari */
+  -webkit-user-select: none;
+  /* Safari */
+  -khtml-user-select: none;
+  /* Konqueror HTML */
+  -moz-user-select: none;
+  /* Old versions of Firefox */
+  -ms-user-select: none;
+  /* Internet Explorer/Edge */
+  user-select: none;
+  /* Non-prefixed version, currently
+                                    supported by Chrome, Opera and Firefox */
+}
+
+.uk-margin-small-top-5 {
+  margin-top: 5px !important;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  width: 1px;
+  height: 1px;
+  word-wrap: normal;
+}
+
+.visually-hidden.focusable:active,
+.visually-hidden.focusable:focus {
+  position: static !important;
+  overflow: visible;
+  clip: auto;
+  width: auto;
+  height: auto;
+}
+
+[hidden] {
+  display: none;
+}
+
+.js-focus-visible button:focus:not(.focus-visible) {
+  outline: none;
+}
+
+.js-focus-visible a:focus:not(.focus-visible) {
+  outline: none;
+}
+
+.js-focus-visible div:focus:not(.focus-visible) {
+  outline: none;
+}
+
+/* button:focus {
+  outline-width: 2px;
+  outline-style: dashed;
+  outline-color: red;
+} */
+
+/* ========================================================================
+   Component: Tooltip
+ ========================================================================== */
+/*
+ * 1. Hide by default
+ * 2. Position
+ * 3. Remove tooltip from document flow to keep the UIkit container from changing its size when injected into the document initially
+ * 4. Dimensions
+ * 5. Style
+ */
+.uk-tooltip {
+  /* 1 */
+  display: none;
+  /* 2 */
+  position: absolute;
+  z-index: 1030;
+  /* 3 */
+  top: 0;
+  /* 4 */
+  box-sizing: border-box;
+  max-width: 500px;
+  padding: 1rem 1rem;
+  /* 5 */
+  background: #fff;
+  border: 2px solid rgb(240, 110, 0);
+
+  border-radius: none;
+  color: rgb(0, 0, 0);
+  font-size: 1.25rem;
+  line-height: 1.6;
+}
+
+/* Show */
+.uk-tooltip.uk-active {
+  display: block;
+}
+
+/* Direction / Alignment modifiers
+ ========================================================================== */
+/* Direction */
+[class*="uk-tooltip-top"] {
+  margin-top: -10px;
+}
+
+[class*="uk-tooltip-bottom"] {
+  margin-top: 10px;
+}
+
+[class*="uk-tooltip-left"] {
+  margin-left: -10px;
+}
+
+[class*="uk-tooltip-right"] {
+  margin-left: 10px;
+}
+
+#jump {
+  background-color: white;
+  padding: 20px;
+}
+
+@-moz-document url-prefix() {
+  .glider-track {
+    margin-bottom: 17px;
+  }
+
+  .glider-wrap {
+    overflow: hidden;
+  }
+}
+
+
+/* ------------------ example styles ------------------ */
+.relative {
+  position: relative;
+}
+
+.mod--hidden {
+  overflow: hidden;
+}
+
+.invisible {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
+.news-carrousel__container {
+  white-space: nowrap;
+}
+
+.news-carrousel__control__list {
+  position: absolute;
+  list-style-type: none;
+  top: 100%;
+  right: 0;
+  left: 0;
+  margin-top: -0.5em;
+  padding-left: 0;
+  text-align: center;
+}
+
+.news-carrousel__control__list__item {
+  display: inline-block;
+  margin: 0 .5em;
+}
+
+.news-carrousel__control__list__link {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background: #fff;
+  border: 1px solid #148297;
+  border-radius: 1em;
+  cursor: pointer;
+}
+
+.news-carrousel__button-container {
+  position: absolute;
+}
+
+.news-carrousel__button__previous {
+  top: 50%;
+  margin-top: -18px;
+  left: 0;
+  margin-left: -35px;
+}
+
+.news-carrousel__button__next {
+  top: 50%;
+  margin-top: -18px;
+  right: 0;
+  margin-right: -35px;
+}
+
+.news-carrousel__button__button {
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  border: 0;
+  cursor: pointer;
+}
+
+/* only for minimalist example */
+.carrousel__content[aria-hidden=true] {
+  display: none;
+}
+
+/* ------------------ State rules ------------------ */
+.news-carrousel__control__list__link:focus,
+.news-carrousel__control__list__link:hover,
+.news-carrousel__control__list__link:active,
+.news-carrousel__control__list__link[aria-selected=true] {
+  background: #148297;
+}
+
+.news-carrousel__control__list__link:focus,
+.news-carrousel__control__list__link:hover,
+.news-carrousel__control__list__link:active {
+  outline: 2px dotted #4d287f;
+}
+
+a.skip-main {
+  left: -999px;
+  position: absolute;
+  top: auto;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  z-index: -999;
+}
+
+a.skip-main:focus,
+a.skip-main:active {
+  background: white;
+  color: blue;
+  left: 0;
+  top: 0;
+  width: auto;
+  height: auto;
+  overflow: auto;
+  margin: 10px;
+  padding: 5px;
+  font-size: 1.4em;
+  z-index: 999;
+}

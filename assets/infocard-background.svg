@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+  <g id="infocard-background" transform="translate(-130 -130)">
+    <rect id="Frame" width="1600" height="900" transform="translate(130 130)" fill="#fff"/>
+    <path id="Path_10" data-name="Path 10" d="M105,3251.944,526.054,3569H105Z" transform="translate(25 -2539)" fill="#dbdbdb"/>
+    <path id="Path_11" data-name="Path 11" d="M959.43,2675c.162-1.344,411.57,0,411.57,0v899.4h-73.974S1032.063,2709.943,959.43,2675Z" transform="translate(359 -2544.405)" fill="#f06e00"/>
+    <rect id="Rectangle_39" data-name="Rectangle 39" width="357" height="27" transform="translate(1373 130)" fill="#f06e00"/>
+  </g>
+</svg>
