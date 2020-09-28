@@ -7,4 +7,4 @@ Stereoscape uses this branch for Stereoscape's test deployments. \
 **Staging branch:** 
 Exove uses this branch for deploying to VTT's staging site. \
 **Master branch:** 
-Exove uses this branch for deploying to VTT's live site. \
+Exove uses this branch for deploying to VTT's live site.
