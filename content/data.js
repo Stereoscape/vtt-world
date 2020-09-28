@@ -1,11 +1,11 @@
 window.data = [{
         "id": 0,
         "title": "Nuclear Energy",
-        "description": "At VTT, we develop solutions for nuclear safety within three main areas: reactor safety, nuclear waste management, and materials technologies. In addition to these, we provide interfaces to other technologies in e.g. materials science, probabilistic methods, civil engineering, instrumentation and control. VTT solutions include experimental and computational approaches and analysis, e.g. impact tests for impact-loaded reinforced concrete structures and the Apros environment for computational nuclear safety analysis. We constantly develop new computational and experimental technologies for future needs.<br><br>Infrastructure is housed in the VTT Centre for Nuclear Safety, and includes:<br> Hot cells for testing and characterization of radioactive materials, Analytical microscopy of radioactive materials, Measurements of gamma, beta and alpha radioactivity of materials, Chemical analyses across the periodic table, Aerosol generation and analyses for nuclear severe accident simulations, Bentonite clay handling and testing facilities, including instrumented hot triaxial compression  <br> <br> Read more: <br> <a href='https://www.w3schools.com' target='_blank'>https://www.vttresearch.com/en/ourservices/nuclear-energy</a> <br><a href='https://www.w3schools.com' target='_blank'>https://www.vttresearch.com/en/news-and-ideas</a>",
+        "description": "At VTT, we develop solutions for nuclear safety within three main areas: reactor safety, nuclear waste management, and materials technologies. In addition to these, we provide interfaces to other technologies in e.g. materials science, probabilistic methods, civil engineering, instrumentation and control. VTT solutions include experimental and computational approaches and analysis, e.g. impact tests for impact-loaded reinforced concrete structures and the Apros environment for computational nuclear safety analysis. We constantly develop new computational and experimental technologies for future needs.<br><br>Infrastructure is housed in the VTT Centre for Nuclear Safety, and includes:<br> Hot cells for testing and characterization of radioactive materials, Analytical microscopy of radioactive materials, Measurements of gamma, beta and alpha radioactivity of materials, Chemical analyses across the periodic table, Aerosol generation and analyses for nuclear severe accident simulations, Bentonite clay handling and testing facilities, including instrumented hot triaxial compression",
         "gallery": [{
             "id": 0,
             "type": "video",
-            "src": "https://www.youtube-nocookie.com/embed/N9y7ScpEr7c?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+            "src": "https://www.youtube.com/embed/N9y7ScpEr7c?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
             "poster": "content/posters/VTT_CNS_offline_19032020_new logo.png"
         }],
         "hotspot": {
@@ -31,19 +31,19 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/EHRqsOtgzP0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/EHRqsOtgzP0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_infro_Episode2_Robotics laboratory _offline_V2_10022020.png"
             },
             {
                 "id": 1,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_infro_Episode3_Mixed reality laboratory_offline_V2_10022020.png"
             },
             {
                 "id": 2,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/47EIMTgN45c?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/47EIMTgN45c?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_infro_Episode4_Co-creation space_V2_10022020.png"
             }
         ],
@@ -75,7 +75,7 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/EHRqsOtgzP0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/EHRqsOtgzP0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_infro_Episode2_Robotics laboratory _offline_V2_10022020.png"
             },
             {
@@ -117,7 +117,7 @@ window.data = [{
         "gallery": [{
             "id": 0,
             "type": "video",
-            "src": "https://www.youtube-nocookie.com/embed/SxeHpp--yVY?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+            "src": "https://www.youtube.com/embed/SxeHpp--yVY?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
             "poster": "content/posters/VTT_Industry4.0_ProperTune_EN (1).png"
         }],
         "hotspot": {
@@ -186,7 +186,7 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/QoZ9P9E2Bw0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/QoZ9P9E2Bw0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/Smart_Energy_eng.png"
             },
             {
@@ -232,31 +232,31 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/-ACiigVHfFo?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/-ACiigVHfFo?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_Infra_EP19_Puhdasilma_ONLINE_subs.png"
             },
             {
                 "id": 1,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/yiKxj5eCK08?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/yiKxj5eCK08?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_infro_Episode15_Fuell Cells and Hydrogen_online_subs_18032020.png"
             },
             {
                 "id": 2,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/laPjbVujBKM?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/laPjbVujBKM?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_infro_Episode17_Electric_Vehicles_and_Battery_Technologies_online_subs_31032020.png"
             },
             {
                 "id": 3,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/LpGqG0X5sQo?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/LpGqG0X5sQo?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_infro_Episode17_Electric_Vehicles_and_Battery_Technologies_online_subs_31032020.png"
             },
             {
                 "id": 4,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/k8aZVbYb-VY?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/k8aZVbYb-VY?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_infro_Episode17_Electric_Vehicles_and_Battery_Technologies_online_subs_31032020.png"
             }
         ],
@@ -281,7 +281,7 @@ window.data = [{
         "gallery": [{
             "id": 0,
             "type": "video",
-            "src": "https://www.youtube-nocookie.com/embed/kqGuQfPV2AM?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+            "src": "https://www.youtube.com/embed/kqGuQfPV2AM?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
             "poster": "content/posters/VTT_infra_Eps1_marine_tech_online_subs.png"
         }],
         "hotspot": {
@@ -308,19 +308,19 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/HD5gNYFgi8E?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/HD5gNYFgi8E?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/Dense_finaali6_offline_26032020.png"
             },
             {
                 "id": 1,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/AWwLLQ4p8Lc?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/AWwLLQ4p8Lc?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/Elviira 5G.png"
             },
             {
                 "id": 2,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/QZI7RRs5QCk?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/QZI7RRs5QCk?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_5G_driving_offline_20032020.png"
             },
             {
@@ -373,13 +373,13 @@ window.data = [{
             {
                 "id": 3,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/Silicon_Photonics.jpg"
             },
             {
                 "id": 4,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT-Memsfab-2019_Video.jpg"
             }
         ],
@@ -412,7 +412,7 @@ window.data = [{
         "gallery": [{
             "id": 0,
             "type": "video",
-            "src": "https://www.youtube-nocookie.com/embed/Lmf84KkACHI?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+            "src": "https://www.youtube.com/embed/Lmf84KkACHI?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
             "poster": "content/posters/VTT_eps20_industrial_biotechnology_online_subs_31032020.png"
         }],
         "hotspot": {
@@ -438,13 +438,13 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/m9rrE3QGFPc?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/m9rrE3QGFPc?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_eps14_food_technology_online_sub_02042020.png"
             },
             {
                 "id": 1,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/dmPcvgMNVGI?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/dmPcvgMNVGI?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_eps21_brewery_online_subs_13032020.png"
             }
         ],
@@ -467,13 +467,13 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/RlilPmjlzO0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/RlilPmjlzO0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/1_VTT_Smart_Bioworld_video_ENG_v05r02 (1).png"
             },
             {
                 "id": 1,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/86Akt5wjhvA?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/86Akt5wjhvA?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
             },
             {
@@ -536,7 +536,7 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Sampo",
-                "src": "content/images/SAMPO.jpg"
+                "src": "content/images/sampo.jpg"
             },
             {
                 "id": 2,
@@ -690,7 +690,7 @@ window.data = [{
         "gallery": [{
             "id": 0,
             "type": "video",
-            "src": "https://www.youtube-nocookie.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+            "src": "https://www.youtube.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
             "poster": "content/posters/VTT-Memsfab-2019_Video.jpg"
         }],
         "hotspot": {
@@ -832,7 +832,7 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/xy1vIhPBo8I?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/xy1vIhPBo8I?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
             },
             {
@@ -1011,7 +1011,7 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/3yuE_1a2QKA?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/3yuE_1a2QKA?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_Infra_EP18_Metrologia_online.png"
             },
             {
@@ -1064,7 +1064,7 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/sh62I9fFXgI?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/sh62I9fFXgI?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_Infra_EP18_Metrologia_online.png"
             },
             {
@@ -1108,7 +1108,7 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/HddEFG45XMk?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/HddEFG45XMk?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_Infra_Diagnostics_online_subs.png"
             },
             {
@@ -1163,19 +1163,19 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/rmk_J7QX6r0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/rmk_J7QX6r0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_Infra_Connectivity.png"
             },
             {
                 "id": 1,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/LwVazR3Tp9I?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/LwVazR3Tp9I?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_vision for maritime connectivity.png"
             },
             {
                 "id": 2,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/qawcp_pP_OQ?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/qawcp_pP_OQ?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_vision for maritime connectivity.png"
             },
             {
@@ -1283,13 +1283,13 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/YfQXHHUfr7E?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/YfQXHHUfr7E?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT-Memsfab-2019-VTT-logo.png"
             },
             {
                 "id": 1,
                 "type": "video",
-                "src": "https://www.youtube-nocookie.com/embed/h2U6N9buLO8?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/h2U6N9buLO8?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT-Memsfab-2019-VTT-logo.png"
             },
             {

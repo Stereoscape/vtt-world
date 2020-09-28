@@ -12,8 +12,6 @@
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
-    <link rel="stylesheet" href="assets/uikit.css" />
-    <link rel="stylesheet" href="assets/style.css" />
     <link rel="stylesheet" href="assets/fonts/fonts.css" />
     <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.png" />
     <!--Google Tag Manager -->
@@ -26,60 +24,41 @@
     <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGW3LXZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!--End Google Tag Manager (noscript) -->
     
-    <aside>
-        <noscript>We are sorry but VTT world needs JavaScript enabled. Please enable it to continue.</noscript>
-    </aside>
-
-    <header class="uk-position-top" id="top">
+    <noscript aria-hidden="true">We are sorry but VTT world needs JavaScript enabled. Please enable it to continue.</noscript>
+    
+    <header id="top">
         <a class="skip-main" href="#content">Skip to main content</a>
 
-        <h1 class="visually-hidden">
-            Welcome to VTT World
-        </h1>
-
-        <div class="uk-container uk-container-large ">
-            <div class="uk-navbar-container uk-navbar-transparent uk-margin" data-uk-navbar="dropbar: false;"
-                data-uk-sticky="sel-target: .uk-navbar-container">
-                <!-- LEFT -->
-                <div class="uk-navbar-left">
-                    <!-- <a class="uk-navbar-item uk-logo" href="#">Logo</a> -->
-                    <div class="uk-navbar-item uk-visible@m"><img src="assets/vttlogo.svg" width="150" alt="VTT Logo"
-                            data-uk-img>
-                    </div>
-                    <div class="uk-navbar-item uk-hidden@m"><img src="assets/vttlogo.svg" width="120" alt="VTT Logo"
-                            data-uk-img>
-                    </div>
-
-                </div>
-            </div>
+        <div id="logo" class="uk-position-fixed uk-transform-origin-top-left uk-position-z-index uk-padding-large uk-padding-remove-vertical" >
+            <img class="uk-visible@m" src="assets/vttlogo.svg" width="140px" alt="VTT Logo">
+            <img class="uk-hidden@m" src="assets/vttlogo.svg" width="120px" alt="VTT Logo">              
         </div>
+
     </header>
 
     <main id="main-content" aria-labelledby="mainLabel" class="uk-container uk-container-expand uk-padding-remove">
 
         <div id="content" class="uk-width-auto uk-inline-clip uk-text-nowrap">
-            <h1 id="mainLabel" class="visually-hidden">Animated world of VTT</h1>
+            <h1 id="mainLabel" class="visually-hidden"> Welcome to VTT World</h1>
 
             <video tabindex="-1" muted id="bg" class="uk-position-absolute" style="left: 0%; top: 0%" playsinline
                 poster="assets/bg.jpg" data-uk-video
-                aria-label="A fullpage background video with navigation elements on it" aria-describedby="transcript">
+                aria-label="VTT World presents all VTT key technology platforms and infrastructure.">
                 <source type="video/mp4" src="assets/bg.mp4" />
                 <source type="video/webm" src="assets/bg.webm" />
                 <!-- <track label="English captions" kind="captions" src="assets/sample.vtt" />-->
-                <p id="transcript" class="visually-hidden">
-                    <strong>Description of the background video:</strong> here
-                </p>
+<!--                 <p id="transcript" class="visually-hidden">
+                    <strong>A fullpage scrollable background video with navigation elements on it</strong>
+                </p> -->
             </video>
 
             <img aria-hidden="true" width="1920" height="3240" src="assets/placeholder_1920x3240.jpg"
                 alt="Placeholder image for background" />
 
             <nav id="hotspotsNav" aria-labelledby="hotspotsNavLabel">
-                <h1 id="hotspotsNavLabel" class="visually-hidden uk-position-top">Elements of VTT World</h1>
-                <ul id="hotspotsNavUL" style="list-style-type:none;"></ul>
+                <h1 id="hotspotsNavLabel" class="visually-hidden uk-position-top">Key technology platforms</h1>
+                <ul id="hotspotsNavUL" class="uk-padding-remove uk-margin-remove" style="list-style-type:none;"></ul>
             </nav>
-
-            <button tabindex="-1" aria-hidden="true" id="focushelper0" class="visually-hidden"></button>
 
         </div>
     </main>
@@ -97,7 +76,7 @@
             </button>
 
             <div id="infocardHeader" class="uk-modal-header">
-                <h1 id="infocardTitle" class="uk-text-primary uk-margin-small-top uk-helvetica-bold" style="width: 80%">
+                <h1 aria-live="polite" id="infocardTitle" class="uk-h2 uk-text-primary uk-margin-small-top uk-helvetica-bold" style="width: 80%">
                     Integrated Computational Materials Engineering (ICME)
                 </h1>
             </div>
@@ -105,7 +84,7 @@
             <div id="infocardBody" class="uk-modal-body uk-padding-remove-top uk-padding-remove-bottom">
                 <div class="uk-flex-top uk-margin-right" data-uk-grid>
                     <div class="uk-width-1-2@m">
-                        <p id="infocardDescription" class="uk-helvetica description uk-text-secondary">
+                        <p aria-live="polite" id="infocardDescription" class="uk-helvetica description uk-text-secondary">
                             The demand for sustainable and renewable materials is increasing. We create new bio-based
                             materials viable for the circular economy and methods for manufacturing them more
                             efficiently.<br><br>We research alternatives to fossil-based plastics and develop bio-based
@@ -125,13 +104,13 @@
 
                         <!-- UIKIT working slider BEGIN -->
 
-                        <div id="gallery" data-uk-slideshow>
+                        <div id="gallery" class="uk-padding-small uk-padding-remove-vertical" data-uk-slideshow="ratio: 16:9">
 
                             <div id="carousel" aria-live="polite" aria-roledescription="carousel"
                                 class="uk-position-relative">
 
                                 <ul id="galleryItems"
-                                    class="uk-slideshow-items uk-margin-small-left uk-margin-small-right">
+                                    class="uk-slideshow-items">
                                     <li>
                                         <img src="content/images/414S6394.jpg" alt="IntelligentEnergy test bed">
                                     </li>
@@ -157,7 +136,6 @@
 
                             </div>
 
-
                         </div>
 
                         <!-- UIKIT working slider END-->
@@ -169,21 +147,21 @@
             <div id="infocardFooter" class="uk-modal-footer uk-text-left">
                 <div data-uk-grid>
                     <nav aria-labelledby="tagsLabel" class="uk-width-expand">
-                        <h3 id="tagsLabel" class="uk-margin-small uk-helvetica-bold">
+                        <h2 id="tagsLabel" class="uk-h3 uk-margin-small uk-helvetica-bold">
                             Linked technology platforms
-                        </h3>
+                        </h2>
                         <ul id="tagContainer" class="uk-navbar-nav uk-navbar-left ">
                         </ul>
                     </nav>
-                    <a role="button" id="qrContainer"
+
+<!--                     <a role="button" id="qrContainer"
                         class="uk-width-auto uk-padding uk-padding-remove-horizontal uk-padding-remove-bottom "
                         href="https://www.vttresearch.com/en" target="_blank">
                         <img id="qrCode" src="content/qr/qr_code.png" width="80" alt="Learn more on VTT's website"
                             data-uk-img />
-                    </a>
+                    </a> -->
                 </div>
             </div>
-            <button aria-hidden="true" id="focushelper" class="visually-hidden"></button>
         </div>
     </section>
 
@@ -200,29 +178,8 @@
         </li>
     </script>
 
-    <script id="tag-template" type="text/template">
-        <button
-          class="tag uk-button uk-button-secondary uk-border-pill uk-button-small uk-margin-small-bottom uk-margin-small-right">
-          Linked technology plaforms button
-        </button>
-    </script>
-
-    <script id="image-template" type="text/template">
-        <li>
-          <img src="" alt="">
-        </li>
-    </script>
-
-    <script id="video-template" type="text/template">
-        <li>
-          <iframe title="Youtube video" class="youtube-video" src="https://www.youtube-nocookie.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en" width="1280" height="720" frameborder="0" allowfullscreen data-uk-responsive data-uk-video="autoplay: false"></iframe> 
-        </li>
-    </script>
-
     <script src="https://unpkg.com/focus-visible"></script>
     <script src="content/data.js"></script>
-    <script src="dist/bundle02.js"></script>
-
-</body>
+<script type="text/javascript" src="dist/app.8c935704ea9549173cea.js"></script></body>
 
 </html>
