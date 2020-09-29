@@ -826,7 +826,7 @@ window.data = [{
             "id": 0,
             "type": "image",
             "alt": "Telecommunications antenna tower",
-            "src": "content/images/vtt-radio-tower-wireless.jpg"
+            "src": "content/images/vtt_radio_tower_wireless.jpg"
             },
             {
                 "id": 1,
