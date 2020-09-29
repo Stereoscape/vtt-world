@@ -228,7 +228,7 @@ window.data = [{
     {
         "id": 6,
         "title": "Transport and Stationary Power Systems",
-        "description": "The platform supports the industry and public actors on their path towards low emission power generation and storage systems. Our aim is to find low emission power solutions for transport and stationary systems, as well as clean air solutions for a wide area of industries. New solutions include batteries, fuel cells, alternative fuels, power-to-x and hybrid systems.<br><br>Infrastructure and tools:<br>- Fuel cells and hydrogen<br>- Electric vehicles and battery technologies<br>- Engines and emissions<br>- Clean air testing facilities<br>- Simulation and modelling capabilities<br>- Wind tunnel<br>- Hydrometallurgy",
+        "description": "The platform supports the industry and public actors on their path towards low emission power generation and storage systems. Our aim is to find low emission power solutions for transport and stationary systems, as well as clean air solutions for a wide area of industries. New solutions include batteries, fuel cells, alternative fuels, power-to-x and hybrid systems.<br><br>Infrastructure and tools:<br>- Fuel cells and hydrogen<br>- Electric vehicles and battery technologies<br>- Engines and emissions<br>- Clean air testing facilities<br>- Simulation and modelling capabilities<br>- Wind tunnel",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -296,7 +296,8 @@ window.data = [{
             26,
             6,
             30,
-            32
+            32,
+            16
         ],
         "qrhref": "https://www.vttresearch.com/en/ourservices/smart-ships-and-maritime-technology",
         "qrsrc": "content/qr/QR.007.png"
@@ -327,7 +328,7 @@ window.data = [{
                 "id": 3,
                 "type": "image",
                 "alt": "VTT automated vehicles",
-                "src": "content/images/VTT automated vehicles.jpg"
+                "src": "content/images/vtt_automated_vehicles.jpg"
             }
         ],
         "hotspot": {
@@ -467,44 +468,50 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube.com/embed/RlilPmjlzO0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/GQqp65ML4Ag?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/1_VTT_Smart_Bioworld_video_ENG_v05r02 (1).png"
             },
             {
                 "id": 1,
                 "type": "video",
-                "src": "https://www.youtube.com/embed/86Akt5wjhvA?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/RlilPmjlzO0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
             },
             {
                 "id": 2,
-                "type": "image",
-                "alt": "Fiberline cooking pilot",
-                "src": "content/images/Fiberline cooking pilot.jpg"
-            },
+                "type": "video",
+                "src": "https://www.youtube.com/embed/86Akt5wjhvA?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
+            },            
             {
                 "id": 3,
                 "type": "image",
-                "alt": "Fibre spinning line in VTT Bioruukki",
-                "src": "content/images/fibre spinning line in vtt bioruukki.jpg"
+                "alt": "Fiberline cooking pilot",
+                "src": "content/images/fiberline_cooking_pilot.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
-                "alt": "Sampo",
-                "src": "content/images/SAMPO.jpg"
+                "alt": "Fibre spinning line in VTT Bioruukki",
+                "src": "content/images/fibre_spinning_line_in_vtt_bioruukki.jpg"
             },
             {
                 "id": 5,
                 "type": "image",
-                "alt": "Suora foam forming platform",
-                "src": "content/images/SUORA foam forming platform.jpg"
+                "alt": "Sampo",
+                "src": "content/images/sampo.jpg"
             },
             {
                 "id": 6,
                 "type": "image",
+                "alt": "Suora foam forming platform",
+                "src": "content/images/suora_foam_forming_platform.jpg"
+            },
+            {
+                "id": 7,
+                "type": "image",
                 "alt": "Suora foam forming",
-                "src": "content/images/SUORA foam forming.jpg"
+                "src": "content/images/suora_foam_forming.jpg"
             }
         ],
         "hotspot": {
@@ -530,7 +537,7 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Biocomposite film extrusion",
-                "src": "content/images/Biocomposite film extrusion.png"
+                "src": "content/images/biocomposite_film_extrusion.jpg"
             },
             {
                 "id": 1,
@@ -542,13 +549,13 @@ window.data = [{
                 "id": 2,
                 "type": "image",
                 "alt": "Suora foam forming platform",
-                "src": "content/images/SUORA foam forming platform.jpg"
+                "src": "content/images/suora_foam_forming_platform.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Tandem extrusion line",
-                "src": "content/images/Tandem extrusion line.jpg"
+                "src": "content/images/tandem_extrusion_line.jpg"
             }
         ],
         "hotspot": {
@@ -573,25 +580,25 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Catalyst testing facilities",
-                "src": "content/images/Catalyst testing facilities.jpg"
+                "src": "content/images/catalyst_testing_facilities.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Mobile synthesis unit",
-                "src": "content/images/Mobile Synthesis Unit.jpg"
+                "src": "content/images/mobile_synthesis_unit.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "NMR analytics chemical characterization",
-                "src": "content/images/NMR analytics chemical characterization.jpg"
+                "src": "content/images/nmr_analytics_chemical_characterization.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Polymer development analytics",
-                "src": "content/images/Polymer development analytics.jpg"
+                "src": "content/images/polymer_development_analytics.jpg"
             }
         ],
         "hotspot": {
@@ -615,21 +622,27 @@ window.data = [{
         "description": "Our thermochemical conversion pilot platform supports industries in transforming waste and biomass into sustainable materials: novel fuels, chemicals and plastics. Our unique piloting platforms for gasification and pyrolysis support waste- and bio-based innovations from lab to pilot scale. Our gasification pilot turns waste and residue streams into product gas and through novel gas cleaning further into ultra-purified synthesis gas. Synthesis gas is converted into renewable fuel or chemicals in our mobile synthesis unit. Our pyrolysis converts challenging waste streams into pyrolysis liquids to replace fossil fuels and chemicals. We combine expertise in thermochemical conversion, catalysis, process development and techno-economic evaluation to support customers in commercializing innovations.",
         "gallery": [{
                 "id": 0,
-                "type": "image",
-                "alt": "Gasification in VTT Bioruukki",
-                "src": "content/images/Gasification in Bioruukki.jpg"
-            },
+                "type": "video",
+                "src": "https://www.youtube.com/embed/ZePj33Nfo_s?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
+            },            
             {
                 "id": 1,
                 "type": "image",
-                "alt": "Mobile synthesis unit",
-                "src": "content/images/Mobile Synthesis Unit.jpg"
+                "alt": "Gasification in VTT Bioruukki",
+                "src": "content/images/gasification_in_bioruukki.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
+                "alt": "Mobile synthesis unit",
+                "src": "content/images/mobile_synthesis_unit.jpg"
+            },
+            {
+                "id": 3,
+                "type": "image",
                 "alt": "Pyrolysis in VTT Bioruukki",
-                "src": "content/images/Pyrolysis in Bioruukki.jpg"
+                "src": "content/images/pyrolysis_in_bioruukki.jpg"
             }
         ],
         "hotspot": {
@@ -652,21 +665,27 @@ window.data = [{
         "description": "Helping to extract further value from the planet’s precious resources, hydrometallurgy uses aqueous chemistry for recovering metals from ores, concentrates, and recycled or residual materials. VTT offers expertise in mechanical treatment, hydro- and biohydrometallurgy for the recovery of metals. Our equipment includes reactors for leaching and precipitation, continuous solvent extraction mixer-settler equipment and bioreactors. VTT’s mobile pilot system can be used for batch trials and continuous bench-piloting. Our world-class facilities include the joint Circular Raw Materials Hub laboratory and the Bioruukki pilot centre.",
         "gallery": [{
                 "id": 0,
-                "type": "image",
-                "alt": "Flexmet leaching and precipitation pilot",
-                "src": "content/images/1_12 independent channel configurable bench scale pilot setup.jpg"
-            },
+                "type": "video",
+                "src": "https://www.youtube.com/embed/PsHWaNihbSM?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
+            },               
             {
                 "id": 1,
                 "type": "image",
-                "alt": "Clarifier as part of solid or liquid separation",
-                "src": "content/images/2_Clarifier as a part of solid or liquid separation.jpg"
+                "alt": "Flexmet leaching and precipitation pilot",
+                "src": "content/images/1_12_independent_channel_configurable_bench_scale_pilot_setup.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
+                "alt": "Clarifier as part of solid or liquid separation",
+                "src": "content/images/2_clarifier_as_a_part_of_solid_or_liquid_separation.jpg"
+            },
+            {
+                "id": 3,
+                "type": "image",
                 "alt": "ICP-OES system located near piloting system enables rapid analytics",
-                "src": "content/images/3_ - ICP-OES system located near piloting system enables rapid analytics.jpg"
+                "src": "content/images/icp-oes_system_located_near_piloting_system_enables_rapid_analytics.jpg"
             }
         ],
         "hotspot": {
@@ -726,19 +745,19 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Foam extrusion in polymer pilot",
-                "src": "content/images/Foam extrusion in Polymer pilot.jpg"
+                "src": "content/images/foam_extrusion_in_polymer_pilot.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Feeding thermoplastic material into process",
-                "src": "content/images/Feeding thermoplastic material into process.jpg"
+                "src": "content/images/feeding_thermoplastic_material_into_process.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Compounding process control",
-                "src": "content/images/Compounding process control.jpg"
+                "src": "content/images/compounding_process_control.jpg"
             }
         ],
         "hotspot": {
@@ -763,25 +782,25 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Gasification in VTT Bioruukki",
-                "src": "content/images/Gasification in Bioruukki.jpg"
+                "src": "content/images/gasification_in_bioruukki.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Fibre spinning line in VTT Bioruukki",
-                "src": "content/images/Fibre spinning line in Bioruukki.jpg"
+                "src": "content/images/fibre_spinning_line_in_bioruukki.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Mobile synthesis unit",
-                "src": "content/images/Mobile Synthesis Unit.jpg"
+                "src": "content/images/mobile_synthesis_unit.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Multi purpose process chemistry pilot reactor",
-                "src": "content/images/Multi purpose process chemistry pilot reactor.jpg"
+                "src": "content/images/multi_purpose_process_chemistry_pilot_reactor.jpg"
             }
         ],
         "hotspot": {
@@ -807,8 +826,39 @@ window.data = [{
             "id": 0,
             "type": "image",
             "alt": "Telecommunications antenna tower",
-            "src": "content/images/VTT-Radio-Tower-Wireless.jpg"
-        }],
+            "src": "content/images/vtt-radio-tower-wireless.jpg"
+            },
+            {
+                "id": 1,
+                "type": "image",
+                "alt": "mMWave technology, 1",
+                "src": "content/images/mmwave_technology_1.jpg"
+            },
+            {
+                "id": 2,
+                "type": "image",
+                "alt": "mmWave technology, 2",
+                "src": "content/images/mmwave_technology_2.jpg"
+            },
+            {
+                "id": 3,
+                "type": "image",
+                "alt": "W-Cube nanosatellite",
+                "src": "content/images/w-cube_nanosatellite.jpg"
+            },
+            {
+                "id": 4,
+                "type": "image",
+                "alt": "Drone with integrated payload for millimetre-wave channel measurements",
+                "src": "content/images/drone_with_integrated payload_for_millimetr_wave_channel_measurements.jpg"
+            },
+            {
+                "id": 5,
+                "type": "image",
+                "alt": "E-band phased array enabling gigabit per second range wireless communication",
+                "src": "content/images/e-band-phased-array_enabling_gigabit_per_second_range_wireless_communication.jpg"
+            }                        
+        ],
         "hotspot": {
             "hasHotspot": true,
             "buttonText": "Radio Frequency and mmWave",
@@ -839,7 +889,7 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Silicon photonics",
-                "src": "content/images/Silicon Photonics.png"
+                "src": "content/images/silicon_photonics.jpg"
             }
         ],
         "hotspot": {
@@ -890,13 +940,13 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Data center",
-                "src": "content/images/Data server room.jpg"
+                "src": "content/images/data_server_room.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Data center",
-                "src": "content/images/Quantum technology.jpg"
+                "src": "content/images/quantum_technology.jpg"
             }
         ],
         "hotspot": {
@@ -936,7 +986,25 @@ window.data = [{
                 "type": "image",
                 "alt": "MilliLab laboratory on millimetre wave technology",
                 "src": "content/images/414S6446.jpg"
-            }
+            },
+            {
+                "id": 3,
+                "type": "image",
+                "alt": "W-Cube nanosatellite",
+                "src": "content/images/w-cube_nanosatellite.jpg"
+            },
+            {
+                "id": 4,
+                "type": "image",
+                "alt": "Drone with integrated payload for millimetre-wave channel measurements",
+                "src": "content/images/drone_with_integrated payload_for_millimetr_wave_channel_measurements.jpg"
+            },
+            {
+                "id": 5,
+                "type": "image",
+                "alt": "E-band phased array enabling gigabit per second range wireless communication",
+                "src": "content/images/e-band-phased-array_enabling_gigabit_per_second_range_wireless_communication.jpg"
+            }             
         ],
         "hotspot": {
             "hasHotspot": true,
@@ -961,7 +1029,7 @@ window.data = [{
             "id": 0,
             "type": "image",
             "alt": "Space satellite",
-            "src": "content/images/VTT-Space-Satellite-Earth-Rotate.jpg"
+            "src": "content/images/vtt-space-satellite-earth-rotate.jpg"
         }],
         "hotspot": {
             "hasHotspot": true,
@@ -1018,25 +1086,25 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Metrology facilities in Espoo",
-                "src": "content/images/Metrology facilities in Espoo.jpg"
+                "src": "content/images/metrology_facilities_in_espoo.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Metrology facilities in Espoo",
-                "src": "content/images/Metrology facilities in Otaniemi, Espoo.jpg"
+                "src": "content/images/metrology_facilities_in_otaniemi_espoo.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Metrology facilities in Espoo",
-                "src": "content/images/Metrology facilities.jpg"
+                "src": "content/images/metrology_facilities.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "Metrology facilities in Espoo",
-                "src": "content/images/MIKES facilities in Espoo.jpg"
+                "src": "content/images/mikes_facilities_in_espoo.jpg"
             }
         ],
         "hotspot": {
@@ -1071,19 +1139,19 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "VTT printed and hybrid pilot manufacturing facilities",
-                "src": "content/images/VTT Printed intelligence.jpg"
+                "src": "content/images/vtt_printed_intelligence.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "VTT printed and hybrid pilot manufacturing facilities",
-                "src": "content/images/VTT printed and hybrid manufacturing facilities.jpg"
+                "src": "content/images/vtt_printed_and_hybrid_manufacturing_facilities.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "VTT printed and hybrid pilot manufacturing facilities",
-                "src": "content/images/VTT printed and hybrid manufacturing facilities in Oulu.jpg"
+                "src": "content/images/vtt_printed_and_hybrid_manufacturing_facilities_in_oulu.jpg"
             }
         ],
         "hotspot": {
@@ -1115,31 +1183,31 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Diagnostics",
-                "src": "content/images/Diagnostics.jpg"
+                "src": "content/images/diagnostics.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Elastronics",
-                "src": "content/images/Elastronics.jpg"
+                "src": "content/images/elastronics.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "VTT Flex Dot",
-                "src": "content/images/VTT Flex Dot.jpg"
+                "src": "content/images/vtt_flex_dot.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "Wearable diagnostics",
-                "src": "content/images/Wearable diagnostics.jpg"
+                "src": "content/images/wearable_diagnostics.jpg"
             },
             {
                 "id": 5,
                 "type": "image",
                 "alt": "Wearable technology",
-                "src": "content/images/Wearable technology.jpg"
+                "src": "content/images/wearable_technology.jpg"
             }
         ],
         "hotspot": {
@@ -1182,19 +1250,19 @@ window.data = [{
                 "id": 3,
                 "type": "image",
                 "alt": "Energy efficient telecommunication systems",
-                "src": "content/images/Energy efficient telecommunication systems.jpg"
+                "src": "content/images/energy_efficient_telecommunication_systems.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "VTT test network in Oulu",
-                "src": "content/images/VTT network and test environment in Oulu.jpg"
+                "src": "content/images/vtt_network_and_test_environment_in_oulu.jpg"
             },
             {
                 "id": 5,
                 "type": "image",
                 "alt": "Energy efficient telecommunication systems",
-                "src": "content/images/VTT test network in Oulu.jpg"
+                "src": "content/images/vtt_test_network_in_oulu.jpg"
             }
         ],
         "hotspot": {
@@ -1223,7 +1291,7 @@ window.data = [{
             "id": 0,
             "type": "image",
             "alt": "Automation robots in intelligent industrial factory",
-            "src": "content/images/Intelligent industry.jpg"
+            "src": "content/images/intelligent_industry.jpg"
         }],
         "hotspot": {
             "hasHotspot": true,
@@ -1249,13 +1317,13 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Cyber security",
-                "src": "content/images/Cyber security.jpg"
+                "src": "content/images/cyber_security.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Data center",
-                "src": "content/images/Data center.jpg"
+                "src": "content/images/data_center.jpg"
             }
         ],
         "hotspot": {
@@ -1296,19 +1364,19 @@ window.data = [{
                 "id": 2,
                 "type": "image",
                 "alt": "VTT clean room facility",
-                "src": "content/images/Micronova clean room in Otaniemi.jpg"
+                "src": "content/images/micronova_clean_room_in_otaniemi.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Cleanroom lab workers",
-                "src": "content/images/Micronova clean room.jpg"
+                "src": "content/images/micronova_clean_room.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "Cleanroom lab workers",
-                "src": "content/images/VTT clean room facility.jpg"
+                "src": "content/images/vtt_clean_room_facility.jpg"
             }
         ],
         "hotspot": {
