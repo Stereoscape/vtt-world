@@ -1,7 +1,7 @@
 window.data = [{
         "id": 0,
         "title": "Nuclear Energy",
-        "description": "At VTT, we develop solutions for nuclear safety within three main areas: reactor safety, nuclear waste management, and materials technologies. In addition to these, we provide interfaces to other technologies in e.g. materials science, probabilistic methods, civil engineering, instrumentation and control. VTT solutions include experimental and computational approaches and analysis, e.g. impact tests for impact-loaded reinforced concrete structures and the Apros environment for computational nuclear safety analysis. We constantly develop new computational and experimental technologies for future needs.<br><br>Infrastructure is housed in the VTT Centre for Nuclear Safety, and includes:<br> Hot cells for testing and characterization of radioactive materials, Analytical microscopy of radioactive materials, Measurements of gamma, beta and alpha radioactivity of materials, Chemical analyses across the periodic table, Aerosol generation and analyses for nuclear severe accident simulations, Bentonite clay handling and testing facilities, including instrumented hot triaxial compression",
+        "description": "At VTT, we develop solutions for nuclear safety within three main areas: reactor safety, nuclear waste management, and materials technologies. In addition to these, we provide interfaces to other technologies in e.g. materials science, probabilistic methods, civil engineering, instrumentation and control. VTT solutions include experimental and computational approaches and analysis, e.g. impact tests for impact-loaded reinforced concrete structures and the Apros environment for computational nuclear safety analysis. We constantly develop new computational and experimental technologies for future needs.<br><br>Infrastructure is housed in the <a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-centre-nuclear-safety' target='_blank'>VTT Centre for Nuclear Safety</a>, and includes:<br> Hot cells for testing and characterization of radioactive materials || Analytical microscopy of radioactive materials ||  Measurements of gamma, beta and alpha radioactivity of materials || Chemical analyses across the periodic table || Aerosol generation and analyses for nuclear severe accident simulations || Bentonite clay handling and testing facilities, including instrumented hot triaxial compression",
         "gallery": [{
             "id": 0,
             "type": "video",
@@ -27,7 +27,7 @@ window.data = [{
     {
         "id": 1,
         "title": "Experience Center",
-        "description": "The Experience Center platform covers Augmented Reality (AR) and Virtual Reality (VR) solutions, service robots, and human-robot interaction. Also, Experience Center supports human factors and user experience studies, co-creation work, and participatory design approach. The platform covers emerging technologies that are changing work and user experiences. The Experience Center includes robotics, co-creation, and Virtual Reality laboratories located in the premises of VTT.<br><br>Experience Center offers Infrastructure and tools for:<br>-AR and VR technologies development and research<br>-Service robots development and research<br>-Human-Robot Interaction (HRI) studies<br>-Human Factors (HF) and User Experience (UX) studies<br>-Participatory design facilitation platforms<br>-Co-creation innovation spaces",
+        "description": "The Experience Center platform covers Augmented Reality (AR) and Virtual Reality (VR) solutions, service robots, and human-robot interaction. Also, Experience Center supports human factors and user experience studies, co-creation work, and participatory design approach. The platform covers emerging technologies that are changing work and user experiences. The Experience Center includes robotics, co-creation, and Virtual Reality laboratories located in the premises of VTT.<br><br>Experience Center offers Infrastructure and tools for:<br><a class='link' href='https://www.vttresearch.com/en/ourservices/virtual-and-augmented-reality' target='_blank'>AR and VR technologies development and research</a> || <a class='link' href='https://www.vttresearch.com/en/topics/automation-and-robotics' target='_blank'>Robotics development and research:</a> Service robots, Human-Robot Interaction (HRI) studies, Human Factors (HF and User Experience (UX) studies  ||  Participatory design facilitation platforms || Co-creation innovation spaces",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -71,7 +71,7 @@ window.data = [{
     {
         "id": 2,
         "title": "Digital Design and Manufacturing",
-        "description": "Digital Design and Manufacturing enables implementation, development and research of industry digitalization in the Industry 4.0 framework. The solutions cover virtual and digitized end-to-end product processes (integrated engineering design, product development, production, lifecycle). The platform enables development of advanced custom designed robotic and mechatronic systems. It also covers equipment for noise, vibration and fatigue fields including virtual modelling and experimental activities in component and system level.<br><br>Infrastructure and tools:<br> Digital transformation and maturity tools, Industrial robotics, Mobile robots and logistics, Collaborative robots (cobots), Remote operation, Validation sensors, equipment and labs, Utilising the digital thread platform, Software: design, analysis and manufacturing, Utilising computing platform: HPC cluster",
+        "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/agile-flexible-manufacturing-and-production-industry' target='_blank'>Digital Design and Manufacturing</a> enables implementation, development and research of industry digitalization in the Industry 4.0 framework. The solutions cover virtual and digitized end-to-end product processes (integrated engineering design, product development, production, lifecycle). The platform enables development of advanced custom designed robotic and mechatronic systems. It also covers equipment for noise, vibration and fatigue fields including virtual modelling and experimental activities in component and system level.<br><br>Infrastructure and tools:<br>Digital transformation and maturity tools || <a class='link' href='https://www.vttresearch.com/en/topics/automation-and-robotics' target='_blank'>Robotics:</a> Industrial robotics, Mobile robots and logistics, Collaborative robots (cobots) || Remote operation || Validation sensors, equipment and labs || Utilising the digital thread platform || Software: design, analysis and manufacturing || Utilising computing platform: HPC cluster",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -113,7 +113,7 @@ window.data = [{
     {
         "id": 3,
         "title": "Integrated Computational Materials Engineering",
-        "description": "Modern machines and structures require linking the chain from material to performance. Integrated Computational Materials Engineering (ICME) combines holistic modelling assisted design of material, process and component aspects with materials sciences & engineering perspectives. The resulting service is called VTT ProperTune®: a computational modelling assisted material design, tailoring and performance evaluation methodology and software platform. It can parse massive amounts of data to virtually model and analyse material behavior on component, microstructural and atomic scales. The modularity of the platform makes it suitable for almost all materials.<br><br>ICME is used to optimise a wide variety of material properties such as lifetime endurance, wear and corrosion resistance, and fracture and fatigue durability. VTT ProperTune® service optimises material design, replacing expensive, time consuming testing and shortening time-to-market for new products by an average of 50%.",
+        "description": "Modern machines and structures require linking the chain from material to performance. <a class='link' href='https://www.vttresearch.com/en/ourservices/computational-material-design-vtt-propertune' target='_blank'>Integrated Computational Materials Engineering (ICME)</a> combines holistic modelling assisted design of material, process and component aspects with materials sciences & engineering perspectives. The resulting service is called VTT ProperTune®: a computational modelling assisted material design, tailoring and performance evaluation methodology and software platform. It can parse massive amounts of data to virtually model and analyse material behavior on component, microstructural and atomic scales. The modularity of the platform makes it suitable for almost all materials.<br><br>ICME is used to optimise a wide variety of material properties such as lifetime endurance, wear and corrosion resistance, and fracture and fatigue durability. VTT ProperTune® service optimises material design, replacing expensive, time consuming testing and shortening time-to-market for new products by an average of 50%.",
         "gallery": [{
             "id": 0,
             "type": "video",
@@ -137,7 +137,7 @@ window.data = [{
     {
         "id": 4,
         "title": "Materials Performance",
-        "description": "VTT Materials Performance covers the whole lifecycle from material development to manufacturing, and from operation and maintenance to ageing and lifetime extension. More specifically, it focuses to gain knowledge to understand failure and ageing mechanisms, quantify material performance, to predict component and structural behavior in operation. The target is to develop sustainable material solutions for extended lifespan and improved operational efficiency.  The platform covers materials from metals and ceramics to cementitious materials and provides solutions for a wide range of industrial demands, from nuclear operation & waste, process & energy, marine & offshore industry, aerospace to civil engineering.<br><br>Infrastructure and tools for:<br> Powder piloting, Metallography and microscopy, Additive manufacturing, Infra and Structures, Corrosion and water chemistry, Tribology, Destructive and non-destructive testing",
+        "description": "VTT Materials Performance covers the whole lifecycle from material development to manufacturing, and from operation and maintenance to ageing and lifetime extension. More specifically, it focuses to gain knowledge to understand failure and ageing mechanisms, quantify material performance, to predict component and structural behavior in operation. The target is to develop sustainable material solutions for extended lifespan and improved operational efficiency.  The platform covers materials from metals and ceramics to cementitious materials and provides solutions for a wide range of industrial demands, from nuclear operation & waste, process & energy, marine & offshore industry, aerospace to civil engineering.<br><br>Infrastructure and tools for:<br> <a class='link' href='https://www.vttresearch.com/en/ourservices/powder-piloting' target='_blank'>Powder piloting</a> || Metallography and microscopy || <a class='link' href='https://www.vttresearch.com/en/ourservices/industrial-3d-printing' target='_blank'>Additive manufacturing</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/lifetime-analysis-systems-and-components' target='_blank'>Infra and Structures</a> || Corrosion and water chemistry || Tribology || Destructive and non-destructive testing",
         "gallery": [{
                 "id": 0,
                 "type": "image",
@@ -182,7 +182,7 @@ window.data = [{
     {
         "id": 5,
         "title": "Smart Energy Systems",
-        "description": "Smart energy combines clean, renewable energy sources toward flexible and secure supply for our complex energy needs. Smart Energy Systems platform focuses on integration of various components of the energy system, as well as integration of different energy carriers. It includes for example: smart grid development, electricity network management, integration of renewable energy resources, energy and climate scenarios, next generation district heating networks and energy market models. The platform is increasingly integrating with enabling technologies from ICT (communication, data structures, new sensors, IoT, AI etc.) to provide novel solutions.<br><br>Infrastructure and tools:<br>- IntelligentEnergy testbed (Digital energy research facility extended with (real-time) simulation capabilities)<br>-Energy living lab in new office building (Charging poles, solar panels, sensors)<br>-Modelling and simulation tools (Capacity forecast, grid reliability, energy optimization, systems dynamics)",
+        "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/smart-grids-and-energy-systems' target='_blank'>Smart energy</a> combines clean, renewable energy sources toward flexible and secure supply for our complex energy needs. Smart Energy Systems platform focuses on integration of various components of the energy system, as well as integration of different energy carriers. It includes for example: smart grid development, electricity network management, integration of renewable energy resources, energy and climate scenarios, next generation district heating networks and energy market models. The platform is increasingly integrating with enabling technologies from ICT (communication, data structures, new sensors, IoT, AI etc.) to provide novel solutions.<br><br>Infrastructure and tools:<br>IntelligentEnergy testbed (Digital energy research facility extended with (real-time) simulation capabilities) || Energy living lab in new office building (Charging poles, solar panels, sensors) || Modelling and simulation tools (Capacity forecast, grid reliability, energy optimization, systems dynamics)",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -228,7 +228,7 @@ window.data = [{
     {
         "id": 6,
         "title": "Transport and Stationary Power Systems",
-        "description": "The platform supports the industry and public actors on their path towards low emission power generation and storage systems. Our aim is to find low emission power solutions for transport and stationary systems, as well as clean air solutions for a wide area of industries. New solutions include batteries, fuel cells, alternative fuels, power-to-x and hybrid systems.<br><br>Infrastructure and tools:<br>- Fuel cells and hydrogen<br>- Electric vehicles and battery technologies<br>- Engines and emissions<br>- Clean air testing facilities<br>- Simulation and modelling capabilities<br>- Wind tunnel",
+        "description": "The platform supports the industry and public actors on their path towards low emission power generation and storage systems. Our aim is to find low emission power solutions for transport and stationary systems, as well as clean air solutions for a wide area of industries. New solutions include batteries, fuel cells, alternative fuels, power-to-x and hybrid systems.<br><br>Infrastructure and tools:<br><a class='link' href='https://www.vttresearch.com/en/ourservices/fuel-cells-and-hydrogen' target='_blank'>Fuel cells and hydrogen</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/battery-technologies' target='_blank'>Electric vehicles and battery technologies</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/engine-and-vehicle-emissions' target='_blank'>Engines and emissions</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/clean-air-solutions' target='_blank'>Clean air testing facilities</a> || Simulation and modelling capabilities || <a class='link' href='https://www.vttresearch.com/en/ourservices/wind-power' target='_blank'>Wind tunnel</a>",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -269,7 +269,8 @@ window.data = [{
         "relatedInfocardID": [
             5,
             8,
-            7
+            7,
+            16
         ],
         "qrhref": "https://www.vttresearch.com/en/ourservices/electric-vehicles-and-vehicles-systems",
         "qrsrc": "content/qr/QR.006.png"
@@ -277,7 +278,7 @@ window.data = [{
     {
         "id": 7,
         "title": "Marine",
-        "description": "In the marine sector, novel innovations for emerging megatrends require research, supported by distinguished technology platforms. New solutions for clean and safe transport include zero-emission vessels, autonomous ships, arctic technology and clean power solutions, that is, completely new ship concepts.<br><br>Marine technology platform enables research services through strong experimental and theoretical infrastructure. These services ensure that the novel technologies and systems can be implemented into real ship projects.<br><br>Platform consists of model test basin, numerical methods and test equipment for full scale field research. All these create a unified platform to RDI and verification & validation ranging from hydrodynamic and structural design to various autonomous systems.",
+        "description": "In the marine sector, novel innovations for emerging megatrends require research, supported by distinguished technology platforms. New solutions for clean and safe transport include zero-emission vessels, autonomous ships, arctic technology and clean power solutions, that is, completely new ship concepts.<br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/smart-ships-and-maritime-technology' target='_blank'>Marine technology platform</a> enables research services through strong experimental and theoretical infrastructure. These services ensure that the novel technologies and systems can be implemented into real ship projects.<br><br>Platform consists of model test basin, numerical methods and test equipment for full scale field research. All these create a unified platform to RDI and verification & validation ranging from hydrodynamic and structural design to various autonomous systems.",
         "gallery": [{
             "id": 0,
             "type": "video",
@@ -305,7 +306,7 @@ window.data = [{
     {
         "id": 8,
         "title": "Autonomous Systems for Transport and Logistics",
-        "description": "Autonomous Systems for Transport and Logistics platform offers tools, equipment and facilities to study and develop automated and tele-operated solutions for different vehicle platforms. The platform supports collecting of environment perception sensors data as well as connectivity and testing different kinds of automated driving functions. Our specialty is to support the research of automated driving in harsh environment conditions (fog, rain, snow, ice). The platform offers vehicles, sensors, software and connectivity located in the premises of VTT.",
+        "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/smart-mobility-services-and-automated-driving' target='_blank'>Autonomous Systems for Transport and Logistics</a> platform offers tools, equipment and facilities to study and develop automated and tele-operated solutions for different vehicle platforms. The platform supports collecting of environment perception sensors data as well as connectivity and testing different kinds of automated driving functions. Our specialty is to support the research of automated driving in harsh environment conditions (fog, rain, snow, ice). The platform offers vehicles, sensors, software and connectivity located in the premises of VTT.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -409,7 +410,7 @@ window.data = [{
     {
         "id": 10,
         "title": "Industrial Biotechnology",
-        "description": "The biotechnological revolution is rapidly transforming industrial processes and altering the everyday lives of consumers. We create cell factories that, for example, produce the desired cell biomass, chemicals and proteins for enzyme, food and pharmaceutical applications. Our state-of-the art research and piloting facilities enable efficient genetic code design for organisms, the development of new and efficient production hosts, and scaling production environments.",
+        "description": "The biotechnological revolution is rapidly transforming industrial processes and altering the everyday lives of consumers. <a class='link' href='https://www.vttresearch.com/en/topics/biotechnology' target='_blank'>Biotechnology will disrupt the way we produce raw materials for the variety of goods.</a> We create cell factories that, for example, produce the desired cell biomass, chemicals and proteins for enzyme, food and pharmaceutical applications. Our state-of-the art research and piloting facilities enable efficient genetic code design for organisms, the development of new and efficient production hosts, and scaling production environments.",
         "gallery": [{
             "id": 0,
             "type": "video",
@@ -435,7 +436,7 @@ window.data = [{
     {
         "id": 11,
         "title": "Food and Beverage Technologies",
-        "description": "We research and develop sustainable food systems and tailored food and beverage solutions, with a focus on supporting individual wellbeing. Our R&D services focus on innovations that enable using plant and side-stream as food materials. Biotechnology enables renewal and improvement of food and beverage processes and a transition to cellular agriculture, i.e. to food production without fields or animals. Our expertise also includes development of fermented beverages: particularly high quality, low-alcohol beers. We have R&D facilities from lab to pilot-scale, including comprehensive analytical platforms.",
+        "description": "We research and develop sustainable food systems and <a class='link' href='https://www.vttresearch.com/en/ourservices/food-and-beverage-solutions' target='_blank'>tailored food and beverage solutions,</a> with a focus on supporting individual wellbeing. Our R&D services focus on innovations that enable using plant and side-stream as food materials. <a class='link' href='https://www.vttresearch.com/en/topics/biotechnology' target='_blank'>Biotechnology</a> enables renewal and improvement of food and beverage processes and a transition to cellular agriculture, i.e. to food production without fields or animals. Our expertise also includes development of fermented beverages: particularly high quality, low-alcohol beers. We have R&D facilities from lab to pilot-scale, including comprehensive analytical platforms.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -464,7 +465,7 @@ window.data = [{
     {
         "id": 12,
         "title": "Biomass Processing",
-        "description": "Processing bio-based raw materials and various side streams into valuable products is at the heart of the circular economy. Reducing the use of fossil-based raw materials can help to slow down climate change. We create novel fibre products, textiles, plastic-like products, biochemicals and other components for a wide variety of industrial processes. Our versatile research infrastructure includes biomass pre-treatment for bio-based chemicals and fractionation for cellulose, hemicellulose and lignin-based products.",
+        "description": "<a class='link' href=' https://www.vttresearch.com/en/ourservices/biomass-processing' target='_blank'>Processing bio-based raw materials</a> and various side streams into valuable products is at the heart of the circular economy. Reducing the use of fossil-based raw materials can help to slow down climate change. We create novel fibre products, textiles, plastic-like products, biochemicals and other components for a wide variety of industrial processes. Our versatile research infrastructure includes biomass pre-treatment for bio-based chemicals and fractionation for cellulose, hemicellulose and lignin-based products.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -532,7 +533,7 @@ window.data = [{
     {
         "id": 13,
         "title": "Fiber and Composite Technology",
-        "description": "The demand for sustainable and renewable materials is increasing. We create new bio-based materials viable for the circular economy and methods for manufacturing them more efficiently.<br><br>We research alternatives to fossil-based plastics and develop bio-based composites that combine properties of natural fibres and thermoplastic materials to create novel materials for applications, including packaging, furniture and construction. We also use foam-forming technology to create recyclable and sustainable materials that can be used for applications such as packaging and construction, lightweight boards, wipes,  filters and hygiene products. Foam forming technology expands the range of raw materials and enables the production of new, value-added structures. Our unique infrastructure includes multiple piloting capabilities for these technologies.",
+        "description": "The demand for sustainable and renewable materials is increasing. We create new bio-based materials viable for the circular economy and methods for manufacturing them more efficiently.<br><br>We research alternatives to fossil-based plastics and develop <a class='link' href='https://www.vttresearch.com/en/ourservices/thermoplastic-composites' target='_blank'>bio-based composites</a> that combine properties of natural fibres and thermoplastic materials to create novel materials for applications, including packaging, furniture and construction. We also use <a class='link' href='https://www.vttresearch.com/en/ourservices/foam-forming-platform' target='_blank'>foam-forming</a> technology to create recyclable and sustainable materials that can be used for applications such as packaging and construction, lightweight boards, wipes, filters and hygiene products. Foam forming technology expands the range of raw materials and enables the production of new, value-added structures. Our unique infrastructure includes multiple piloting capabilities for these technologies.",
         "gallery": [{
                 "id": 0,
                 "type": "image",
@@ -575,7 +576,7 @@ window.data = [{
     {
         "id": 14,
         "title": "Sustainable Chemistry",
-        "description": "VTT’s Sustainable Chemistry platform helps customers develop, scale up and demonstrate industrially viable, scalable and environmentally friendly process solutions. We boost the competitiveness of the chemical industry, oil and biorefineries, as well as polymer & packaging industries. We support them in creating sustainable value from complex feeds, such as CO2, biomasses and wastes by creating chemical unit operations that enable circularity for society and provide disruptive industrial renewal.<br><br>Our state-of-the-art demo and pilot facilities include testbeds for catalyst development, chemical and polymer synthesis, and separation technologies especially for water purification and CO2 capture. VTT’s multidisciplinary expertise includes chemical conversion technologies, downstream processing, process modelling and techno-economical assessment to support innovations from lab to pilot scale.",
+        "description": "VTT’s <a class='link' href='https://www.vttresearch.com/en/ourservices/biotechnical-and-chemical-process-development' target='_blank'>Sustainable Chemistry</a> platform helps customers develop, scale up and demonstrate industrially viable, scalable and environmentally friendly process solutions. We boost the competitiveness of the chemical industry, oil and biorefineries, as well as polymer & packaging industries. We support them in creating sustainable value from complex feeds, such as <a class='link' href='https://www.vttresearch.com/en/ourservices/carbon-capture-and-utilisation-or-storage-ccu-and-ccs' target='_blank'>CO2</a>, <a class='link' href='https://www.vttresearch.com/en/ourservices/biochemicals' target='_blank'>biomasses</a> and wastes by creating chemical unit operations that enable circularity for society and provide disruptive industrial renewal.<br><br>Our state-of-the-art demo and pilot facilities include testbeds for catalyst development, chemical and polymer synthesis, and separation technologies especially for water purification and CO2 capture. VTT’s multidisciplinary expertise includes chemical conversion technologies, downstream processing, process modelling and techno-economical assessment to support innovations from lab to pilot scale.",
         "gallery": [{
                 "id": 0,
                 "type": "image",
@@ -619,7 +620,7 @@ window.data = [{
     {
         "id": 15,
         "title": "Thermochemistry",
-        "description": "Our thermochemical conversion pilot platform supports industries in transforming waste and biomass into sustainable materials: novel fuels, chemicals and plastics. Our unique piloting platforms for gasification and pyrolysis support waste- and bio-based innovations from lab to pilot scale. Our gasification pilot turns waste and residue streams into product gas and through novel gas cleaning further into ultra-purified synthesis gas. Synthesis gas is converted into renewable fuel or chemicals in our mobile synthesis unit. Our pyrolysis converts challenging waste streams into pyrolysis liquids to replace fossil fuels and chemicals. We combine expertise in thermochemical conversion, catalysis, process development and techno-economic evaluation to support customers in commercializing innovations.",
+        "description": "Our <a class='link' href='https://www.vttresearch.com/en/ourservices/thermochemical-conversion' target='_blank'>thermochemical conversion</a> pilot platform supports industries in transforming waste and biomass into sustainable materials: novel fuels, chemicals and plastics. Our unique piloting platforms for gasification and pyrolysis support waste- and bio-based innovations from lab to pilot scale. Our gasification pilot turns waste and residue streams into product gas and through novel gas cleaning further into ultra-purified synthesis gas. Synthesis gas is converted into renewable fuel or chemicals in our mobile synthesis unit. Our pyrolysis converts challenging waste streams into pyrolysis liquids to replace fossil fuels and chemicals. We combine expertise in thermochemical conversion, catalysis, process development and techno-economic evaluation to support customers in commercializing innovations.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -662,7 +663,7 @@ window.data = [{
     {
         "id": 16,
         "title": "Hydrometallurgy",
-        "description": "Helping to extract further value from the planet’s precious resources, hydrometallurgy uses aqueous chemistry for recovering metals from ores, concentrates, and recycled or residual materials. VTT offers expertise in mechanical treatment, hydro- and biohydrometallurgy for the recovery of metals. Our equipment includes reactors for leaching and precipitation, continuous solvent extraction mixer-settler equipment and bioreactors. VTT’s mobile pilot system can be used for batch trials and continuous bench-piloting. Our world-class facilities include the joint Circular Raw Materials Hub laboratory and the Bioruukki pilot centre.",
+        "description": "Helping to extract further value from the planet’s precious resources, <a class='link' href='https://www.vttresearch.com/en/ourservices/hydrometallurgy' target='_blank'>hydrometallurgy</a> uses aqueous chemistry for recovering metals from ores, concentrates, and recycled or residual materials. VTT offers expertise in mechanical treatment, hydro- and biohydrometallurgy for the recovery of metals. Our equipment includes reactors for leaching and precipitation, continuous solvent extraction mixer-settler equipment and bioreactors. VTT’s mobile pilot system can be used for batch trials and continuous bench-piloting. Our world-class facilities include the joint Circular Raw Materials Hub laboratory and the Bioruukki pilot centre.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -705,34 +706,24 @@ window.data = [{
     {
         "id": 17,
         "title": "AI Driven Process Development",
-        "description": "Lorem aliquip officia ut nisi irure cillum cillum tempor sit sint laboris nisi velit dolor do nulla minim aliquip elit fugiat adipisicing ipsum ipsum elit fugiat veniam Lorem magna labore consectetur ad labore pariatur exercitation quis Lorem esse est nulla commodo consectetur commodo reprehenderit velit elit laborum sit aliquip minim anim et dolor consectetur sint eu tempor dolor consectetur minim quis pariatur deserunt elit deserunt duis aute incididunt ea incididunt cupidatat sint ex incididunt ex tempor et ut anim adipisicing id aliquip elit magna sit proident exercitation pariatur quis tempor",
+        "description": "Digitalization and AI help speed up the development of process technologies. <a class='link' href='https://www.vttresearch.com/en/ourservices/ai-industry' target='_blank'>Utilising AI</a> and digital twins helps reduce the risks, time and money spent in process and product development. New <a class='link' href='https://www.vttresearch.com/en/ourservices/process-piloting-and-scale' target='_blank'>processes can be scaled up</a> with the help of process design and feasibility studies, computational fluid dynamic evaluations, and hybrid simulation and modelling. The products and processes become commercially viable faster than ever before. Also the way to entirely <a class='link' href='https://www.vttresearch.com/en/industries/chemistry' target='_blank'>new solutions</a> is opened through more informed and automated research processes.",
         "gallery": [{
-            "id": 0,
-            "type": "video",
-            "src": "https://www.youtube.com/embed/VYuy4mPcoug?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
-            "poster": "content/posters/VTT-Memsfab-2019_Video.jpg"
-        }],
+                "id": 0,
+                "type": "image",
+                "alt": "Vtt ai",
+                "src": "content/images/vtt_ai_pic1.jpg"
+            }],
         "hotspot": {
-            "hasHotspot": false,
+            "hasHotspot": true,
             "buttonText": "AI Driven Process Development",
             "posX": 1307,
             "posY": 1218
         },
         "relatedInfocardID": [
-            47,
-            47,
-            22,
-            33,
-            21,
-            30,
-            17,
-            35,
-            7,
-            49,
-            1,
-            16,
-            45,
-            25
+            14,
+            15,
+            12,
+            19
         ],
         "qrhref": "https://www.vttresearch.com/en",
         "qrsrc": ""
@@ -740,7 +731,7 @@ window.data = [{
     {
         "id": 18,
         "title": "Polymer development, processing and recycling",
-        "description": "Improving the material competence and lifespan of plastics is a challenge we at VTT have taken head-on. Utilising our expertise in chemical engineering, we develop processing and recycling technologies for thermoplastics.  This supports product reuse and remanufacturing business models. VTT develops high performance, durable materials and methods to repair the molecular structure of polymers to retain its performance and allow recyclability. We have thermoplastic compounding capacity for R&D and pilot production. Our thermoplastic conversion expertise includes e.g.  film and foam extrusion as well as injection moulding.",
+        "description": "Improving the material competence and lifespan of plastics is a challenge we at VTT have taken head-on. Utilising our expertise in chemical engineering, we develop processing and recycling technologies for thermoplastics.  This supports product reuse and remanufacturing business models. VTT develops high performance, durable materials and methods to repair the molecular structure of polymers to retain its performance and allow recyclability. We have <a class='link' href='https://www.vttresearch.com/en/ourservices/thermoplastic-composites' target='_blank'>thermoplastic compounding</a> capacity for <a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-bioruukki-pilot-centre' target='_blank'>R&D and pilot production</a>. Our thermoplastic conversion expertise includes e.g.  film and foam extrusion as well as injection moulding.",
         "gallery": [{
                 "id": 0,
                 "type": "image",
@@ -777,27 +768,33 @@ window.data = [{
     {
         "id": 19,
         "title": "VTT Bioruukki",
-        "description": "VTT Bioruukki is a piloting centre for new bio-based products and circular economy solutions with unique expertise, modelling and piloting capabilities under one roof. In our lab and pilot plant customers of any size can develop and scale-up bio or waste-based solutions and processes and thus accelerate their product and process innovation cycles. Bioruukki is a unique combination of pilot-scale process development units, multi-purpose reactors integrated to downstream processing units, experts and R&D services for thermochemical conversion, biomass processing, sustainable chemistry and metals recovery.",
+        "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-bioruukki-pilot-centre' target='_blank'>VTT Bioruukki</a> is a piloting centre for new bio-based products and circular economy solutions with unique expertise, modelling and piloting capabilities under one roof. In our lab and pilot plant customers of any size can develop and scale-up bio or waste-based solutions and processes and thus accelerate their product and process innovation cycles. Bioruukki is a unique combination of pilot-scale process development units, multi-purpose reactors integrated to downstream processing units, experts and R&D services for thermochemical conversion, biomass processing, sustainable chemistry and metals recovery.",
         "gallery": [{
                 "id": 0,
+                "type": "video",
+                "src": "https://www.youtube.com/embed/LRs949PDDEQ?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
+            },
+            {
+                "id": 1,
                 "type": "image",
                 "alt": "Gasification in VTT Bioruukki",
                 "src": "content/images/gasification_in_bioruukki.jpg"
             },
             {
-                "id": 1,
+                "id": 2,
                 "type": "image",
                 "alt": "Fibre spinning line in VTT Bioruukki",
                 "src": "content/images/fibre_spinning_line_in_bioruukki.jpg"
             },
             {
-                "id": 2,
+                "id": 3,
                 "type": "image",
                 "alt": "Mobile synthesis unit",
                 "src": "content/images/mobile_synthesis_unit.jpg"
             },
             {
-                "id": 3,
+                "id": 4,
                 "type": "image",
                 "alt": "Multi purpose process chemistry pilot reactor",
                 "src": "content/images/multi_purpose_process_chemistry_pilot_reactor.jpg"
@@ -821,12 +818,12 @@ window.data = [{
     {
         "id": 20,
         "title": "Millimetre wave technologies to RF solutions and antennas",
-        "description": "VTT develops antennas for RF communication and sensing applications. Based on millimetre wave technology, our development work benefits customers from early product phases to final product optimisations.<br><br>Antennas and RF components are the crucial parts of wireless systems, affecting connectivity performance. They enable stable connections from personal wellbeing applications and public safety solutions to autonomous cars, radars, drones and flight systems.<br><br>Our comprehensive expertise can be utilised also in future satellite links, ground segment and in scientific space missions.",
+        "description": "VTT develops antennas for RF communication and sensing applications. Based on <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'>millimetre wave technology</a>, our development work benefits customers from early product phases to final product optimisations.<br><br>Antennas and RF components are the crucial parts of wireless systems, affecting connectivity performance. They enable stable connections from personal wellbeing applications and public safety solutions to autonomous cars, radars, drones and flight systems.<br><br>Our comprehensive expertise can be utilised also in future satellite links, ground segment and in scientific space missions.",
         "gallery": [{
             "id": 0,
             "type": "image",
             "alt": "Telecommunications antenna tower",
-            "src": "content/images/vtt_radio_tower_wireless.jpg"
+            "src": "content/images/vtt-radio-tower-wireless.jpg"
             },
             {
                 "id": 1,
@@ -878,7 +875,7 @@ window.data = [{
     {
         "id": 21,
         "title": "Silicon Photonics",
-        "description": "Silicon photonics technology is revolutionising optical systems, ranging from communication to sensing. It enables extremely dense integration, scalability and low-cost mass production.<br><br>VTT’s unique thick-SOI technology includes features such as ultra-wide bandwidth, high tolerance and low losses. We offer design, fabrication and testing services.<br><br>Silicon photonics can be used for data transfer, lidar technology, medical imaging and gas sensing. Optical circuits support energy efficiency for ICT and cloud services, and improve safety by providing more reliable tools for gas sensing. Also, the technology has an important role in autonomous cars and drone technology development.",
+        "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'>Silicon photonics technology</a> is revolutionising optical systems, ranging from communication to sensing. It enables extremely dense integration, scalability and low-cost mass production.<br><br>VTT’s unique thick-SOI technology includes features such as ultra-wide bandwidth, high tolerance and low losses. We offer design, fabrication and testing services.<br><br>Silicon photonics can be used for data transfer, lidar technology, medical imaging and gas sensing. Optical circuits support energy efficiency for ICT and cloud services, and improve safety by providing more reliable tools for gas sensing. Also, the technology has an important role in autonomous cars and drone technology development.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -909,12 +906,48 @@ window.data = [{
     {
         "id": 22,
         "title": "Microsystems",
-        "description": "The main topics in VTT’s microsystems research are silicon photonics, radio, MEMS, quantum and hyperspectral technologies, as well as various applications related to these technologies.<br><br>Our main customer segments include telecom and consumer electronics, space and NewSpace, industrial sensing and measurement, and defense and security. We have an IPR portfolio that includes over 100 patent families related to microelectronics.<br><br>Our R&D ecosystem includes Micronova, Finland’s national research infrastructure for micro- and nanotechnology, operated together with Aalto University.",
+        "description": "The main topics in <a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'>VTT’s microsystems research are silicon photonics, radio, MEMS, quantum and hyperspectral technologies</a>, as well as various applications related to these technologies.<br><br>Our main customer segments include telecom and consumer electronics, space and NewSpace, industrial sensing and measurement, and defense and security. We have an IPR portfolio that includes over 100 patent families related to microelectronics.<br><br>Our R&D ecosystem includes Micronova, Finland’s national research infrastructure for micro- and nanotechnology, operated together with Aalto University.",
         "gallery": [{
+            "id": 0,
+            "type": "image",
+            "alt": "Cleanroom lab worker looking at chip",
+            "src": "content/images/cleanroom-lab-worker-looking-at-chip.jpg"
+        },
+        {
             "id": 1,
             "type": "image",
-            "alt": "Cleanroom lab worker",
-            "src": "content/images/cleanroom-lab-worker-looking-at-chip.jpg"
+            "alt": "Mount for hybrid laser integration for silicon photonics",
+            "src": "content/images/mount_for_hybrid_laser_integration_for_silicon_photonics.jpg"
+        },
+        {
+            "id": 2,
+            "type": "image",
+            "alt": "Multi port microneedle array SCI",
+            "src": "content/images/multi_port_microneedle_array_sci.jpg"
+        },
+        {
+            "id": 3,
+            "type": "image",
+            "alt": "Silicon grass mesa",
+            "src": "content/images/silicon_grass_mesa.jpg"
+        },
+        {
+            "id": 4,
+            "type": "image",
+            "alt": "Silicon quantum dot",
+            "src": "content/images/silicon_quantum_dot.jpg"
+        },
+        {
+            "id": 5,
+            "type": "image",
+            "alt": "Squid array section from a superconducting magnetometer for brain imaging",
+            "src": "content/images/squid_array_section_from_a_superconducting_magnetometer_for_brain_imaging.jpg"
+        },
+        {
+            "id": 6,
+            "type": "image",
+            "alt": "Suspended multistage superconducting thermionic junction cooler",
+            "src": "content/images/suspended_multistage_superconducting_thermionic_junction_cooler.jpg"
         }],
         "hotspot": {
             "hasHotspot": true,
@@ -935,17 +968,17 @@ window.data = [{
     {
         "id": 23,
         "title": "Quantum",
-        "description": "VTT’s Quantum Technology platform helps customers develop quantum technologies into profitable business cases.<br><br>We provide services to fulfil our customers´ application needs, ranging from process development, device design and prototyping to small-scale manufacturing and system integration. The platform includes state-of-the-art quantum characterisation and metrology facilities.<br><br>We develop solutions for interfacing and controlling quantum systems, and superconducting 3D integration to scale up the systems, for example in three European Quantum Technology Flagship projects.<br><br>We have unique in-house technologies that can be integrated to create unprecedented systems: superconductors, semiconductors, and silicon photonics. We aim to become a leading foundry for quantum technologies and provide the full spectrum of quantum services.",
+        "description": "VTT’s <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'>Quantum Technology platform</a> helps customers develop quantum technologies into profitable business cases.<br><br>We provide services to fulfil our customers´ application needs, ranging from process development, device design and prototyping to small-scale manufacturing and system integration. The platform includes state-of-the-art quantum characterisation and metrology facilities.<br><br>We develop solutions for interfacing and controlling quantum systems, and superconducting 3D integration to scale up the systems, for example in three European Quantum Technology Flagship projects.<br><br>We have unique in-house technologies that can be integrated to create unprecedented systems: superconductors, semiconductors, and silicon photonics. We aim to become a leading foundry for quantum technologies and provide the full spectrum of quantum services.",
         "gallery": [{
                 "id": 0,
                 "type": "image",
-                "alt": "Data center",
+                "alt": "Data server room",
                 "src": "content/images/data_server_room.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
-                "alt": "Data center",
+                "alt": "Quantum technology",
                 "src": "content/images/quantum_technology.jpg"
             }
         ],
@@ -968,7 +1001,7 @@ window.data = [{
     {
         "id": 24,
         "title": "MilliLab",
-        "description": "MilliLab supplies services related to millimeter wave and THz frequencies for industry and academia. MilliLab is the ESA external Laboratory on millimetre wave technology for RF testing and development.<br><br>MilliLab is a joint laboratory with VTT and Aalto University School of Electrical Engineering. We collaborate worldwide with top universities, research organisations and companies.<br><br>Our comprehensive knowledge on millimetre wave technology is utilised for developing future technologies to be used in the European space programmes and for improving competitiveness of the European space industry.",
+        "description": "MilliLab supplies services related to millimeter wave and THz frequencies for industry and academia. <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'>MilliLab is the ESA external Laboratory on millimetre wave technology for RF testing and development.</a><br><br>MilliLab is a joint laboratory with VTT and Aalto University School of Electrical Engineering. We collaborate worldwide with top universities, research organisations and companies.<br><br>Our comprehensive knowledge on millimetre wave technology is utilised for developing future technologies to be used in the European space programmes and for improving competitiveness of the European space industry.",
         "gallery": [{
                 "id": 0,
                 "type": "image",
@@ -1024,12 +1057,24 @@ window.data = [{
     {
         "id": 25,
         "title": "Spectroscopic Devices",
-        "description": "In collaboration with NASA, VTT researchers have developed the world’s first spectrographic imaging systems for professional airborne use. Since then, our know-how has expanded to cover various aspects of spectrography, with a focus especially on combining diverse spectroscopic and machine vision measurement technologies. We are at the forefront of reliable high-performance hyperspectral imaging technologies, capable of establishing the chemistry of materials and changes occurring in them.",
+        "description": "VTT develops customised spectroscopic devices and measurement solutions for online industrial measurements, diagnostics and handheld customer applications. Our clients include the paper, mining, steel, food, agriculture and forest industries as well as other process and manufacturing industries. We provide intelligent solutions for different recycling segments including plastic and electronic waste and composite waste recovery.<br><br>In collaboration with NASA, VTT’s researchers have developed the world’s first spectrographic imaging systems for professional airborne use. Our know-how has expanded to cover various aspects of spectrography, with a focus especially on combining diverse spectroscopic and machine vision measurement technologies with optical innovations. We are at the forefront of <a class='link' href='https://www.vttresearch.com/en/ourservices/hyperspectral-technologies' target='_blank'>reliable high-performance hyperspectral imaging</a>, Raman and IR spectroscopy technologies, capable of establishing the chemistry of materials and changes occurring in them.",
         "gallery": [{
             "id": 0,
             "type": "image",
             "alt": "Space satellite",
             "src": "content/images/vtt-space-satellite-earth-rotate.jpg"
+        },
+        {
+            "id": 1,
+            "type": "image",
+            "alt": "A hand held NIR spectrum measurement instrument",
+            "src": "content/images/a_hand_held_nir_spectrum_measurement_instrument.jpg"
+        },
+        {
+            "id": 2,
+            "type": "image",
+            "alt": "Multi-wavelength NIR measurement instrument ",
+            "src": "content/images/multi_wavelength_nir_measurement_instrument.jpg"
         }],
         "hotspot": {
             "hasHotspot": true,
@@ -1051,7 +1096,7 @@ window.data = [{
     {
         "id": 26,
         "title": "Machine Vision",
-        "description": "Answering to demanding industrial needs, VTT develops the next generation of machine vision by combining AI, novel imaging methods and optical innovations.<br><br>We have unique facilities for the agile development and construction of prototypes enabling us to swiftly deliver complete optical instrumentation solutions from the laboratory phase to real environment.<br><br>We have decades of experience and the expertise to combine diverse spectroscopic and machine vision measurement technologies to solve customers’ needs in various fields, including the steel, mining, paper, defense and process and other process and manufacturing industries.",
+        "description": "Answering to demanding industrial needs, VTT develops the next generation of machine vision by combining AI, novel imaging methods and optical innovations.<br><br>We have unique facilities for the agile development and construction of prototypes enabling us to swiftly deliver complete optical instrumentation solutions from the laboratory phase to real environment.<br><br>We have decades of experience and the expertise to combine <a class='link' href='https://www.vttresearch.com/en/ourservices/industrial-sensing-solutions' target='_blank'>diverse spectroscopic and machine vision measurement technologies</a> to solve customers’ needs in various fields, including the steel, mining, paper, defense and process and other process and manufacturing industries.",
         "gallery": [{
             "id": 0,
             "type": "image",
@@ -1075,7 +1120,7 @@ window.data = [{
     {
         "id": 27,
         "title": "Metrology",
-        "description": "Reliable and accurate measurements are vital for global industry, commerce and safety. New measurement solutions and technologies benefit digitalisation and the circular economy.<br><br>VTT MIKES, the National Metrology Institute of Finland, develops new measurement and calibration technologies and provide high accuracy measurement services. Our fields of expertise include interferometry, high voltage measurements, optical spectroscopy, hyperspectral sensing technology, quantum measurements and metrology applications.<br><br>VTT can help in validating measuring equipment, or when, for example, developing a measurement system or process for quality control.",
+        "description": "Reliable and accurate measurements are vital for global industry, commerce and safety. New measurement solutions and technologies benefit digitalisation and the circular economy.<br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-mikes' target='_blank'>VTT MIKES, the National Metrology Institute of Finland</a>, develops new measurement and calibration technologies and provide high accuracy measurement services. Our fields of expertise include interferometry, high voltage measurements, optical spectroscopy, hyperspectral sensing technology, quantum measurements and metrology applications.<br><br>VTT can help in validating measuring equipment, or when, for example, developing a measurement system or process for quality control.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -1128,7 +1173,7 @@ window.data = [{
     {
         "id": 28,
         "title": "Printed and hybrid functionalities",
-        "description": "VTT researches and actively develops Printed Intelligence solutions such as flexible, lightweight organic solar cells, illuminating surfaces, sensors integrated directly on skin and communicating labels for packaging.<br><br>Our unique combination of over 100 multi-technological experts and awarded pilot factory serve the R&D needs of hundreds of companies every year.<br><br>Our PrintoCent ecosystem has spawned over 30 start-ups since 2011. The PrintoCent Industry Cluster has 40 member companies ranging from automotive to ICT and diagnostic business sectors.",
+        "description": "VTT researches and actively develops <a class='link' href='https://www.vttresearch.com/en/ourservices/printed-intelligence' target='_blank'>Printed Intelligence solutions</a> such as flexible, lightweight organic solar cells, illuminating surfaces, sensors integrated directly on skin and communicating labels for packaging.<br><br>Our unique combination of over 100 multi-technological experts and awarded pilot factory serve the R&D needs of hundreds of companies every year.<br><br>Our PrintoCent ecosystem has spawned over 30 start-ups since 2011. The PrintoCent Industry Cluster has 40 member companies ranging from automotive to ICT and diagnostic business sectors.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -1172,7 +1217,7 @@ window.data = [{
     {
         "id": 29,
         "title": "Diagnostics and Bio-sensors",
-        "description": "At VTT, we bring diagnostics from central laboratories to point-of-care locations. We develop novel solutions for industry, as well as consumer diagnostics in the health and wellness sector.<br><br>We integrate printed electronics and biosensors, so that diagnostic devices can be attached directly to human skin and to packages on any other surfaces. We don’t only improve existing solutions but create entirely new products and concepts.<br><br>VTT’s R&D infrastructure and international networks are exceptional. Our work contributes to the quality of life and sustainable use of materials.",
+        "description": "At VTT, we bring <a class='link' href='https://www.vttresearch.com/en/ourservices/diagnostic-technologies' target='_blank'>diagnostics</a> from central laboratories to point-of-care locations. We develop novel solutions for industry, as well as consumer diagnostics in the health and wellness sector.<br><br>We integrate printed electronics and biosensors, so that diagnostic devices can be attached directly to human skin and to packages on any other surfaces. We don’t only improve existing solutions but create entirely new products and concepts.<br><br>VTT’s R&D infrastructure and international networks are exceptional. Our work contributes to the quality of life and sustainable use of materials.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -1227,7 +1272,7 @@ window.data = [{
     {
         "id": 30,
         "title": "Connectivity",
-        "description": "Enhancing the reliability and efficiency of telecommunication systems are top priorities for VTT. We have a unique and adaptable network and test environment that includes 5G, LTE, non-terrestrial and IoT networks, serving the sectors of industry, space, cyber security and public authorities.<br><br>Our test network enables us to develop advanced applications and services, for example, for autonomous vehicles, industrial systems, healthcare, smart energy and critical infrastructures.<br><br>VTT’s strengths lie in network management, resource optimisation, and vertical industry understanding.",
+        "description": "Enhancing the reliability and efficiency of telecommunication systems are top priorities for VTT. We have <a class='link' href='https://www.vttresearch.com/en/ourservices/mobile-networks' target='_blank'>a unique and adaptable network and test environment</a> that includes 5G, LTE, non-terrestrial and IoT networks, serving the sectors of industry, space, cyber security and public authorities.<br><br>Our test network enables us to develop advanced applications and services, for example, for autonomous vehicles, industrial systems, healthcare, smart energy and critical infrastructures.<br><br>VTT’s strengths lie in network management, resource optimisation, and vertical industry understanding.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -1286,7 +1331,7 @@ window.data = [{
     {
         "id": 31,
         "title": "SW Engineering & AI",
-        "description": "AI-based technologies are an increasingly crucial economic growth factor that turns data into information, knowledge and directly to action. AI can increase productivity and efficiency and help in the development of society.<br><br>VTT uses a multidisciplinary, ethical approach to AI development. Combining technological and IT expertise with in-depth industry and business understanding, and adding the societal viewpoint to the mix, we aim to develop AI solutions that have a positive impact on our customers’ business and the surrounding world.<br><br>VTT is a founding member of the Finnish Center for Artificial Intelligence, a community of experts looking to solve real-life problems using both existing and novel AI.",
+        "description": "<a class='link' href='https://www.vttresearch.com/en/topics/ai-big-data' target='_blank'>AI-based technologies</a> are an increasingly crucial economic growth factor that turns data into information, knowledge and directly to action. AI can increase productivity and efficiency and help in the development of society.<br><br>VTT uses a multidisciplinary, ethical approach to AI development. Combining technological and IT expertise with in-depth industry and business understanding, and adding the societal viewpoint to the mix, we aim to develop AI solutions that have a positive impact on our customers’ business and the surrounding world.<br><br>VTT is a founding member of the Finnish Center for Artificial Intelligence, a community of experts looking to solve real-life problems using both existing and novel AI.",
         "gallery": [{
             "id": 0,
             "type": "image",
@@ -1312,7 +1357,7 @@ window.data = [{
     {
         "id": 32,
         "title": "Cyber Security",
-        "description": "Increasing digitalisation has made cyber security a fundamental requirement for societies and organisations. At VTT, we assist our clients in preparing for cyber threats and develop efficient solutions for dealing with cyber risks. We have a solid background in solving cyber security challenges, especially in the energy and telecommunications sectors.<br><br>VTT’s Cyber Range and 5G test network environments enable cyber security testing of networks, devices and software. These environments expedite tangible experiments and provide new information about the performance and security of innovations.",
+        "description": "Increasing digitalisation has made cyber security a fundamental requirement for societies and organisations. At VTT, we assist our clients in preparing for cyber threats and develop efficient solutions for dealing with cyber risks. We have a solid background in solving cyber security challenges, especially in the energy and telecommunications sectors.<br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/cyber-security' target='_blank'>VTT’s Cyber Range and 5G test network environments</a> enable cyber security testing of networks, devices and software. These environments expedite tangible experiments and provide new information about the performance and security of innovations.",
         "gallery": [{
                 "id": 0,
                 "type": "image",
@@ -1347,7 +1392,7 @@ window.data = [{
     {
         "id": 33,
         "title": "Micronova",
-        "description": "Micronova is the largest cleanroom in the Nordic countries and a central hub for the Finnish electronics industry ecosystem. It offers two cleanroom and processing lines for silicon CMOS, MEMS, III-V optoelectronics and thin film devices.<br><br>Located at the Otaniemi Technology Campus, Micronova brings together 350 professionals as well as industry. Micronova has the R&D infrastructure to develop, for example, optical and wireless sensors, microelectronics and microfluids, nanoelectronics and quantum devices, radiation detectors and instruments for space technology.",
+        "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/micronova' target='_blank'>Micronova</a> is the largest cleanroom in the Nordic countries and a central hub for the Finnish electronics industry ecosystem. It offers two cleanroom and processing lines for silicon CMOS, MEMS, III-V optoelectronics and thin film devices.<br><br>Located at the Otaniemi Technology Campus, Micronova brings together 350 professionals as well as industry. Micronova has the R&D infrastructure to develop, for example, optical and wireless sensors, microelectronics and microfluids, nanoelectronics and quantum devices, radiation detectors and instruments for space technology.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -1400,30 +1445,42 @@ window.data = [{
     {
         "id": 34,
         "title": "Micromodules",
-        "description": "VTT’s Micromodule Centre is a cleanroom facility dedicated to advanced integration and packaging activities for photonics and electronics components and systems. It consists of versatile design tools and fabrication and testing equipment applied by experienced researchers and technicians.<br><br>The Micromodule Centre offers R&D and manufacturing services for high-performance photonics and microwave technologies by combining mature processes with novel approaches.<br><br>The main processes are related to hybrid integration, assembly and packaging, including multilayer ceramics, thin film, bonding, soldering, fiber pigtailing, high-precision assembly, encapsulation, hermetic sealing, and extensive characterisation and testing equipment.",
+        "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'>VTT’s Micromodule Centre</a> is a cleanroom facility dedicated to advanced integration and packaging activities for photonics and electronics components and systems. It consists of versatile design tools and fabrication and testing equipment applied by experienced researchers and technicians.<br><br>The Micromodule Centre offers R&D and manufacturing services for high-performance photonics and microwave technologies by combining mature processes with novel approaches.<br><br>The main processes are related to hybrid integration, assembly and packaging, including multilayer ceramics, thin film, bonding, soldering, fiber pigtailing, high-precision assembly, encapsulation, hermetic sealing, and extensive characterisation and testing equipment.",
         "gallery": [{
                 "id": 0,
                 "type": "image",
-                "alt": "Clean room facilities for photonics and electronics components and systems",
-                "src": "content/images/Picture1.jpg"
+                "alt": "Active antenna array",
+                "src": "content/images/active_antenna_array.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
-                "alt": "Clean room facilities for photonics and electronics components and systems",
-                "src": "content/images/Picture2.jpg"
+                "alt": "Ceramic LTCC QFN package solution for k-band 9W GaN power amplifier",
+                "src": "content/images/ceramic_ltcc_ qfn_package_solution_for_k_band_9w_gan_power_amplifier.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
-                "alt": "Clean room facilities for photonics and electronics components and systems",
-                "src": "content/images/Picture3.jpg"
+                "alt": "Hyperspectral camera modules",
+                "src": "content/images/hyperspectral_camera_modules.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
-                "alt": "Clean room facilities for photonics and electronics components and systems",
-                "src": "content/images/Picture4.jpg"
+                "alt": "IPD wafer",
+                "src": "content/images/ipd_wafer.jpg"
+            },
+            {
+                "id": 4,
+                "type": "image",
+                "alt": "Packaged silicon photonics module with fan out PCB",
+                "src": "content/images/packaged_silicon_photonics_module_with_fan_out_pcb.jpg"
+            },
+            {
+                "id": 5,
+                "type": "image",
+                "alt": "Packaged silicon photonics module",
+                "src": "content/images/packaged_silicon_photonics_module.jpg"
             }
         ],
         "hotspot": {
