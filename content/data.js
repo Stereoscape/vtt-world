@@ -17,9 +17,7 @@ window.data = [{
         "relatedInfocardID": [
             5,
             3,
-            4,
-            19,
-            32
+            4
         ],
         "qrhref": "https://www.vttresearch.com/en/ourservices/nuclear-energy",
         "qrsrc": "content/qr/QR.000.png"
@@ -54,14 +52,8 @@ window.data = [{
             "posY": 698
         },
         "relatedInfocardID": [
-            10,
             26,
             2,
-            3,
-            8,
-            30,
-            33,
-            23,
             32,
             31
         ],
@@ -100,12 +92,8 @@ window.data = [{
         "relatedInfocardID": [
             1,
             4,
-            3,
-            30,
             26,
-            31,
-            23,
-            28
+            31
         ],
         "qrhref": "https://www.vttresearch.com/en/ourservices/agile-flexible-manufacturing-and-production-industry",
         "qrsrc": "content/qr/QR.002.png"
@@ -173,7 +161,6 @@ window.data = [{
             2,
             3,
             16,
-            25,
             31
         ],
         "qrhref": "https://www.vttresearch.com/en/industries/manufacturing",
@@ -296,9 +283,7 @@ window.data = [{
             5,
             26,
             6,
-            30,
-            32,
-            16
+            30
         ],
         "qrhref": "https://www.vttresearch.com/en/ourservices/smart-ships-and-maritime-technology",
         "qrsrc": "content/qr/QR.007.png"
@@ -579,27 +564,33 @@ window.data = [{
         "description": "VTT’s <a class='link' href='https://www.vttresearch.com/en/ourservices/biotechnical-and-chemical-process-development' target='_blank'>Sustainable Chemistry</a> platform helps customers develop, scale up and demonstrate industrially viable, scalable and environmentally friendly process solutions. We boost the competitiveness of the chemical industry, oil and biorefineries, as well as polymer & packaging industries. We support them in creating sustainable value from complex feeds, such as <a class='link' href='https://www.vttresearch.com/en/ourservices/carbon-capture-and-utilisation-or-storage-ccu-and-ccs' target='_blank'>CO2</a>, <a class='link' href='https://www.vttresearch.com/en/ourservices/biochemicals' target='_blank'>biomasses</a> and wastes by creating chemical unit operations that enable circularity for society and provide disruptive industrial renewal.<br><br>Our state-of-the-art demo and pilot facilities include testbeds for catalyst development, chemical and polymer synthesis, and separation technologies especially for water purification and CO2 capture. VTT’s multidisciplinary expertise includes chemical conversion technologies, downstream processing, process modelling and techno-economical assessment to support innovations from lab to pilot scale.",
         "gallery": [{
                 "id": 0,
-                "type": "image",
-                "alt": "Catalyst testing facilities",
-                "src": "content/img/catalyst_testing_facilities.jpg"
+                "type": "video",
+                "src": "https://www.youtube.com/embed/LRs949PDDEQ?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
             },
             {
                 "id": 1,
+                "type": "image",
+                "alt": "Gasification in VTT Bioruukki",
+                "src": "content/img/gasification_in_bioruukki.jpg"
+            },
+            {
+                "id": 2,
+                "type": "image",
+                "alt": "Fibre spinning line in VTT Bioruukki",
+                "src": "content/img/fibre_spinning_line_in_bioruukki.jpg"
+            },
+            {
+                "id": 3,
                 "type": "image",
                 "alt": "Mobile synthesis unit",
                 "src": "content/img/mobile_synthesis_unit.jpg"
             },
             {
-                "id": 2,
+                "id": 4,
                 "type": "image",
-                "alt": "NMR analytics chemical characterization",
-                "src": "content/img/nmr_analytics_chemical_characterization.jpg"
-            },
-            {
-                "id": 3,
-                "type": "image",
-                "alt": "Polymer development analytics",
-                "src": "content/img/polymer_development_analytics.jpg"
+                "alt": "Multi purpose process chemistry pilot reactor",
+                "src": "content/img/multi_purpose_process_chemistry_pilot_reactor.jpg"
             }
         ],
         "hotspot": {
@@ -705,7 +696,7 @@ window.data = [{
     },
     {
         "id": 17,
-        "title": "AI Driven Process Development",
+        "title": "AI-driven process development",
         "description": "Digitalization and AI help speed up the development of process technologies. <a class='link' href='https://www.vttresearch.com/en/ourservices/ai-industry' target='_blank'>Utilising AI</a> and digital twins helps reduce the risks, time and money spent in process and product development. New <a class='link' href='https://www.vttresearch.com/en/ourservices/process-piloting-and-scale' target='_blank'>processes can be scaled up</a> with the help of process design and feasibility studies, computational fluid dynamic evaluations, and hybrid simulation and modelling. The products and processes become commercially viable faster than ever before. Also the way to entirely <a class='link' href='https://www.vttresearch.com/en/industries/chemistry' target='_blank'>new solutions</a> is opened through more informed and automated research processes.",
         "gallery": [{
                 "id": 0,
@@ -721,7 +712,7 @@ window.data = [{
             }],
         "hotspot": {
             "hasHotspot": true,
-            "buttonText": "AI Driven Process Development",
+            "buttonText": "AI-driven process development",
             "posX": 1307,
             "posY": 1218
         },
