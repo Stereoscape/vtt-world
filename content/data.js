@@ -322,7 +322,7 @@ window.data = [{
             {
                 "id": 2,
                 "type": "video",
-                "src": "https://www.youtube.com/embed/QZI7RRs5QCk?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/1JepaAERGzw?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT_5G_driving_offline_20032020.png"
             },
             {
@@ -709,8 +709,14 @@ window.data = [{
         "description": "Digitalization and AI help speed up the development of process technologies. <a class='link' href='https://www.vttresearch.com/en/ourservices/ai-industry' target='_blank'>Utilising AI</a> and digital twins helps reduce the risks, time and money spent in process and product development. New <a class='link' href='https://www.vttresearch.com/en/ourservices/process-piloting-and-scale' target='_blank'>processes can be scaled up</a> with the help of process design and feasibility studies, computational fluid dynamic evaluations, and hybrid simulation and modelling. The products and processes become commercially viable faster than ever before. Also the way to entirely <a class='link' href='https://www.vttresearch.com/en/industries/chemistry' target='_blank'>new solutions</a> is opened through more informed and automated research processes.",
         "gallery": [{
                 "id": 0,
+                "type": "video",
+                "src": "https://www.youtube.com/embed/UR5RqqartAQ?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
+            },   
+            {
+                "id": 1,
                 "type": "image",
-                "alt": "Vtt ai",
+                "alt": "Process simulation chart",
                 "src": "content/images/vtt_ai_pic1.jpg"
             }],
         "hotspot": {
@@ -820,37 +826,43 @@ window.data = [{
         "title": "Millimetre wave technologies to RF solutions and antennas",
         "description": "VTT develops antennas for RF communication and sensing applications. Based on <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'>millimetre wave technology</a>, our development work benefits customers from early product phases to final product optimisations.<br><br>Antennas and RF components are the crucial parts of wireless systems, affecting connectivity performance. They enable stable connections from personal wellbeing applications and public safety solutions to autonomous cars, radars, drones and flight systems.<br><br>Our comprehensive expertise can be utilised also in future satellite links, ground segment and in scientific space missions.",
         "gallery": [{
-            "id": 0,
-            "type": "image",
-            "alt": "Telecommunications antenna tower",
-            "src": "content/images/vtt-radio-tower-wireless.jpg"
+                "id": 0,
+                "type": "video",
+                "src": "https://www.youtube.com/embed/56qJ7yA_o0I?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
             },
             {
                 "id": 1,
+                "type": "image",
+                "alt": "Telecommunications antenna tower",
+                "src": "content/images/vtt-radio-tower-wireless.jpg"
+            },
+            {
+                "id": 2,
                 "type": "image",
                 "alt": "mMWave technology, 1",
                 "src": "content/images/mmwave_technology_1.jpg"
             },
             {
-                "id": 2,
+                "id": 3,
                 "type": "image",
                 "alt": "mmWave technology, 2",
                 "src": "content/images/mmwave_technology_2.jpg"
             },
             {
-                "id": 3,
+                "id": 4,
                 "type": "image",
                 "alt": "W-Cube nanosatellite",
                 "src": "content/images/w-cube_nanosatellite.jpg"
             },
             {
-                "id": 4,
+                "id": 5,
                 "type": "image",
                 "alt": "Drone with integrated payload for millimetre-wave channel measurements",
                 "src": "content/images/drone_with_integrated payload_for_millimetr_wave_channel_measurements.jpg"
             },
             {
-                "id": 5,
+                "id": 6,
                 "type": "image",
                 "alt": "E-band phased array enabling gigabit per second range wireless communication",
                 "src": "content/images/e-band-phased-array_enabling_gigabit_per_second_range_wireless_communication.jpg"
@@ -1004,36 +1016,42 @@ window.data = [{
         "description": "MilliLab supplies services related to millimeter wave and THz frequencies for industry and academia. <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'>MilliLab is the ESA external Laboratory on millimetre wave technology for RF testing and development.</a><br><br>MilliLab is a joint laboratory with VTT and Aalto University School of Electrical Engineering. We collaborate worldwide with top universities, research organisations and companies.<br><br>Our comprehensive knowledge on millimetre wave technology is utilised for developing future technologies to be used in the European space programmes and for improving competitiveness of the European space industry.",
         "gallery": [{
                 "id": 0,
-                "type": "image",
-                "alt": "MilliLab laboratory on millimetre wave technology",
-                "src": "content/images/414S6394.jpg"
+                "type": "video",
+                "src": "https://www.youtube.com/embed/56qJ7yA_o0I?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "MilliLab laboratory on millimetre wave technology",
-                "src": "content/images/414S6414.jpg"
+                "src": "content/images/414S6394.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "MilliLab laboratory on millimetre wave technology",
-                "src": "content/images/414S6446.jpg"
+                "src": "content/images/414S6414.jpg"
             },
             {
                 "id": 3,
+                "type": "image",
+                "alt": "MilliLab laboratory on millimetre wave technology",
+                "src": "content/images/414S6446.jpg"
+            },
+            {
+                "id": 4,
                 "type": "image",
                 "alt": "W-Cube nanosatellite",
                 "src": "content/images/w-cube_nanosatellite.jpg"
             },
             {
-                "id": 4,
+                "id": 5,
                 "type": "image",
                 "alt": "Drone with integrated payload for millimetre-wave channel measurements",
                 "src": "content/images/drone_with_integrated payload_for_millimetr_wave_channel_measurements.jpg"
             },
             {
-                "id": 5,
+                "id": 6,
                 "type": "image",
                 "alt": "E-band phased array enabling gigabit per second range wireless communication",
                 "src": "content/images/e-band-phased-array_enabling_gigabit_per_second_range_wireless_communication.jpg"
@@ -1067,14 +1085,14 @@ window.data = [{
         {
             "id": 1,
             "type": "image",
-            "alt": "A hand held NIR spectrum measurement instrument",
+            "alt": "A hand held NIR spectrum measurement instrument demonstrating the use of inexpensive microspectrometers and intelligent calibration methods",
             "src": "content/images/a_hand_held_nir_spectrum_measurement_instrument.jpg"
         },
         {
             "id": 2,
             "type": "image",
-            "alt": "Multi-wavelength NIR measurement instrument ",
-            "src": "content/images/multi_wavelength_nir_measurement_instrument.jpg"
+            "alt": "Multi-wavelength NIR measurement instrument for on-line paper quality control with a superior sample rate",
+            "src": "content/images/multi_wavelength_nir_measurement_instrument_2.jpg"
         }],
         "hotspot": {
             "hasHotspot": true,
@@ -1402,14 +1420,14 @@ window.data = [{
             {
                 "id": 1,
                 "type": "video",
-                "src": "https://www.youtube.com/embed/h2U6N9buLO8?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/L39wfGRZbew?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/VTT-Memsfab-2019-VTT-logo.png"
             },
             {
                 "id": 2,
                 "type": "image",
-                "alt": "VTT clean room facility",
-                "src": "content/images/micronova_clean_room_in_otaniemi.jpg"
+                "alt": "VTT micronova",
+                "src": "content/images/vtt_micronova.jpg"
             },
             {
                 "id": 3,
@@ -1422,6 +1440,42 @@ window.data = [{
                 "type": "image",
                 "alt": "Cleanroom lab workers",
                 "src": "content/images/vtt_clean_room_facility.jpg"
+            },
+            {
+                "id": 5,
+                "type": "image",
+                "alt": "VTT clean room facility",
+                "src": "content/images/vtt_cleanroom_3.jpg"
+            },
+            {
+                "id": 6,
+                "type": "image",
+                "alt": "VTT clean room facility",
+                "src": "content/images/vtt_cleanroom_4.jpg"
+            },
+            {
+                "id": 7,
+                "type": "image",
+                "alt": "VTT clean room facility",
+                "src": "content/images/vtt_cleanroom_5.jpg"
+            },
+            {
+                "id": 8,
+                "type": "image",
+                "alt": "VTT clean room facility",
+                "src": "content/images/vtt_cleanroom_6.jpg"
+            },
+            {
+                "id": 9,
+                "type": "image",
+                "alt": "VTT clean room facility",
+                "src": "content/images/vtt_cleanroom_7.jpg"
+            },
+            {
+                "id": 10,
+                "type": "image",
+                "alt": "VTT clean room facility",
+                "src": "content/images/micronova_clean_room_in_otaniemi.jpg"
             }
         ],
         "hotspot": {
@@ -1448,36 +1502,42 @@ window.data = [{
         "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'>VTT’s Micromodule Centre</a> is a cleanroom facility dedicated to advanced integration and packaging activities for photonics and electronics components and systems. It consists of versatile design tools and fabrication and testing equipment applied by experienced researchers and technicians.<br><br>The Micromodule Centre offers R&D and manufacturing services for high-performance photonics and microwave technologies by combining mature processes with novel approaches.<br><br>The main processes are related to hybrid integration, assembly and packaging, including multilayer ceramics, thin film, bonding, soldering, fiber pigtailing, high-precision assembly, encapsulation, hermetic sealing, and extensive characterisation and testing equipment.",
         "gallery": [{
                 "id": 0,
+                "type": "video",
+                "src": "https://www.youtube.com/embed/M1H2rHdaZl0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/VTT-Memsfab-2019-VTT-logo.png"
+            },
+            {
+                "id": 1,
                 "type": "image",
                 "alt": "Active antenna array",
                 "src": "content/images/active_antenna_array.jpg"
             },
             {
-                "id": 1,
+                "id": 2,
                 "type": "image",
                 "alt": "Ceramic LTCC QFN package solution for k-band 9W GaN power amplifier",
                 "src": "content/images/ceramic_ltcc_ qfn_package_solution_for_k_band_9w_gan_power_amplifier.jpg"
             },
             {
-                "id": 2,
+                "id": 3,
                 "type": "image",
                 "alt": "Hyperspectral camera modules",
                 "src": "content/images/hyperspectral_camera_modules.jpg"
             },
             {
-                "id": 3,
+                "id": 4,
                 "type": "image",
                 "alt": "IPD wafer",
                 "src": "content/images/ipd_wafer.jpg"
             },
             {
-                "id": 4,
+                "id": 5,
                 "type": "image",
                 "alt": "Packaged silicon photonics module with fan out PCB",
                 "src": "content/images/packaged_silicon_photonics_module_with_fan_out_pcb.jpg"
             },
             {
-                "id": 5,
+                "id": 6,
                 "type": "image",
                 "alt": "Packaged silicon photonics module",
                 "src": "content/images/packaged_silicon_photonics_module.jpg"
