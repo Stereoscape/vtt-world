@@ -82,13 +82,13 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Collaborative robots",
-                "src": "content/images/collaborative_robots.jpg"
+                "src": "content/img/collaborative_robots.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Robots in manufacturing",
-                "src": "content/images/robots_in_manufacturing.jpg"
+                "src": "content/img/robots_in_manufacturing.jpg"
             }
         ],
         "hotspot": {
@@ -142,25 +142,25 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Materials performance research hall",
-                "src": "content/images/materials_performance_research_hall_1.jpg"
+                "src": "content/img/materials_performance_research_hall_1.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Materials performance research hall",
-                "src": "content/images/materials_performance_research_hall_2.jpg"
+                "src": "content/img/materials_performance_research_hall_2.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Materials performance research hall",
-                "src": "content/images/materials_performance_research_hall_3.jpg"
+                "src": "content/img/materials_performance_research_hall_3.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Materials performance research hall",
-                "src": "content/images/materials_performance_research_hall_4.jpg"
+                "src": "content/img/materials_performance_research_hall_4.jpg"
             }
         ],
         "hotspot": {
@@ -193,19 +193,19 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "IntelligentEnergy test bed",
-                "src": "content/images/intelligent_energy_test_bed_1.jpg"
+                "src": "content/img/intelligent_energy_test_bed_1.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "IntelligentEnergy test bed",
-                "src": "content/images/intelligent_energy_test_bed_2.jpg"
+                "src": "content/img/intelligent_energy_test_bed_2.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "IntelligentEnergy test bed",
-                "src": "content/images/intelligent_energy_test_bed_3.jpg"
+                "src": "content/img/intelligent_energy_test_bed_3.jpg"
             }
         ],
         "hotspot": {
@@ -329,7 +329,7 @@ window.data = [{
                 "id": 3,
                 "type": "image",
                 "alt": "VTT automated vehicles",
-                "src": "content/images/vtt_automated_vehicles.jpg"
+                "src": "content/img/vtt_automated_vehicles.jpg"
             }
         ],
         "hotspot": {
@@ -358,19 +358,19 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Text alternative of the image",
-                "src": "content/images/vttsample_4.jpg"
+                "src": "content/img/vttsample_4.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Text alternative of the image",
-                "src": "content/images/vttsample_28.jpg"
+                "src": "content/img/vttsample_28.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Text alternative of the image",
-                "src": "content/images/vttsample_8.jpg"
+                "src": "content/img/vttsample_8.jpg"
             },
             {
                 "id": 3,
@@ -488,31 +488,31 @@ window.data = [{
                 "id": 3,
                 "type": "image",
                 "alt": "Fiberline cooking pilot",
-                "src": "content/images/fiberline_cooking_pilot.jpg"
+                "src": "content/img/fiberline_cooking_pilot.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "Fibre spinning line in VTT Bioruukki",
-                "src": "content/images/fibre_spinning_line_in_vtt_bioruukki.jpg"
+                "src": "content/img/fibre_spinning_line_in_vtt_bioruukki.jpg"
             },
             {
                 "id": 5,
                 "type": "image",
                 "alt": "Sampo",
-                "src": "content/images/sampo.jpg"
+                "src": "content/img/sampo.jpg"
             },
             {
                 "id": 6,
                 "type": "image",
                 "alt": "Suora foam forming platform",
-                "src": "content/images/suora_foam_forming_platform.jpg"
+                "src": "content/img/suora_foam_forming_platform.jpg"
             },
             {
                 "id": 7,
                 "type": "image",
                 "alt": "Suora foam forming",
-                "src": "content/images/suora_foam_forming.jpg"
+                "src": "content/img/suora_foam_forming.jpg"
             }
         ],
         "hotspot": {
@@ -538,25 +538,25 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Biocomposite film extrusion",
-                "src": "content/images/biocomposite_film_extrusion.jpg"
+                "src": "content/img/biocomposite_film_extrusion.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Sampo",
-                "src": "content/images/sampo.jpg"
+                "src": "content/img/sampo.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Suora foam forming platform",
-                "src": "content/images/suora_foam_forming_platform.jpg"
+                "src": "content/img/suora_foam_forming_platform.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Tandem extrusion line",
-                "src": "content/images/tandem_extrusion_line.jpg"
+                "src": "content/img/tandem_extrusion_line.jpg"
             }
         ],
         "hotspot": {
@@ -581,25 +581,25 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Catalyst testing facilities",
-                "src": "content/images/catalyst_testing_facilities.jpg"
+                "src": "content/img/catalyst_testing_facilities.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Mobile synthesis unit",
-                "src": "content/images/mobile_synthesis_unit.jpg"
+                "src": "content/img/mobile_synthesis_unit.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "NMR analytics chemical characterization",
-                "src": "content/images/nmr_analytics_chemical_characterization.jpg"
+                "src": "content/img/nmr_analytics_chemical_characterization.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Polymer development analytics",
-                "src": "content/images/polymer_development_analytics.jpg"
+                "src": "content/img/polymer_development_analytics.jpg"
             }
         ],
         "hotspot": {
@@ -631,19 +631,19 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Gasification in VTT Bioruukki",
-                "src": "content/images/gasification_in_bioruukki.jpg"
+                "src": "content/img/gasification_in_bioruukki.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Mobile synthesis unit",
-                "src": "content/images/mobile_synthesis_unit.jpg"
+                "src": "content/img/mobile_synthesis_unit.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Pyrolysis in VTT Bioruukki",
-                "src": "content/images/pyrolysis_in_bioruukki.jpg"
+                "src": "content/img/pyrolysis_in_bioruukki.jpg"
             }
         ],
         "hotspot": {
@@ -674,19 +674,19 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Flexmet leaching and precipitation pilot",
-                "src": "content/images/1_12_independent_channel_configurable_bench_scale_pilot_setup.jpg"
+                "src": "content/img/1_12_independent_channel_configurable_bench_scale_pilot_setup.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Clarifier as part of solid or liquid separation",
-                "src": "content/images/2_clarifier_as_a_part_of_solid_or_liquid_separation.jpg"
+                "src": "content/img/2_clarifier_as_a_part_of_solid_or_liquid_separation.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "ICP-OES system located near piloting system enables rapid analytics",
-                "src": "content/images/icp-oes_system_located_near_piloting_system_enables_rapid_analytics.jpg"
+                "src": "content/img/icp-oes_system_located_near_piloting_system_enables_rapid_analytics.jpg"
             }
         ],
         "hotspot": {
@@ -717,7 +717,7 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Process simulation chart",
-                "src": "content/images/vtt_ai_pic1.jpg"
+                "src": "content/img/vtt_ai_pic1.jpg"
             }],
         "hotspot": {
             "hasHotspot": true,
@@ -742,19 +742,19 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Foam extrusion in polymer pilot",
-                "src": "content/images/foam_extrusion_in_polymer_pilot.jpg"
+                "src": "content/img/foam_extrusion_in_polymer_pilot.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Feeding thermoplastic material into process",
-                "src": "content/images/feeding_thermoplastic_material_into_process.jpg"
+                "src": "content/img/feeding_thermoplastic_material_into_process.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Compounding process control",
-                "src": "content/images/compounding_process_control.jpg"
+                "src": "content/img/compounding_process_control.jpg"
             }
         ],
         "hotspot": {
@@ -785,25 +785,25 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Gasification in VTT Bioruukki",
-                "src": "content/images/gasification_in_bioruukki.jpg"
+                "src": "content/img/gasification_in_bioruukki.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Fibre spinning line in VTT Bioruukki",
-                "src": "content/images/fibre_spinning_line_in_bioruukki.jpg"
+                "src": "content/img/fibre_spinning_line_in_bioruukki.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Mobile synthesis unit",
-                "src": "content/images/mobile_synthesis_unit.jpg"
+                "src": "content/img/mobile_synthesis_unit.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "Multi purpose process chemistry pilot reactor",
-                "src": "content/images/multi_purpose_process_chemistry_pilot_reactor.jpg"
+                "src": "content/img/multi_purpose_process_chemistry_pilot_reactor.jpg"
             }
         ],
         "hotspot": {
@@ -835,37 +835,37 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Telecommunications antenna tower",
-                "src": "content/images/vtt-radio-tower-wireless.jpg"
+                "src": "content/img/vtt-radio-tower-wireless.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "mMWave technology, 1",
-                "src": "content/images/mmwave_technology_1.jpg"
+                "src": "content/img/mmwave_technology_1.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "mmWave technology, 2",
-                "src": "content/images/mmwave_technology_2.jpg"
+                "src": "content/img/mmwave_technology_2.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "W-Cube nanosatellite",
-                "src": "content/images/w-cube_nanosatellite.jpg"
+                "src": "content/img/w-cube_nanosatellite.jpg"
             },
             {
                 "id": 5,
                 "type": "image",
                 "alt": "Drone with integrated payload for millimetre-wave channel measurements",
-                "src": "content/images/drone_with_integrated payload_for_millimetr_wave_channel_measurements.jpg"
+                "src": "content/img/drone_with_integrated payload_for_millimetr_wave_channel_measurements.jpg"
             },
             {
                 "id": 6,
                 "type": "image",
                 "alt": "E-band phased array enabling gigabit per second range wireless communication",
-                "src": "content/images/e-band-phased-array_enabling_gigabit_per_second_range_wireless_communication.jpg"
+                "src": "content/img/e-band-phased-array_enabling_gigabit_per_second_range_wireless_communication.jpg"
             }                        
         ],
         "hotspot": {
@@ -898,7 +898,7 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Silicon photonics",
-                "src": "content/images/silicon_photonics.jpg"
+                "src": "content/img/silicon_photonics.jpg"
             }
         ],
         "hotspot": {
@@ -923,43 +923,43 @@ window.data = [{
             "id": 0,
             "type": "image",
             "alt": "Cleanroom lab worker looking at chip",
-            "src": "content/images/cleanroom-lab-worker-looking-at-chip.jpg"
+            "src": "content/img/cleanroom-lab-worker-looking-at-chip.jpg"
         },
         {
             "id": 1,
             "type": "image",
             "alt": "Mount for hybrid laser integration for silicon photonics",
-            "src": "content/images/mount_for_hybrid_laser_integration_for_silicon_photonics.jpg"
+            "src": "content/img/mount_for_hybrid_laser_integration_for_silicon_photonics.jpg"
         },
         {
             "id": 2,
             "type": "image",
             "alt": "Multi port microneedle array SCI",
-            "src": "content/images/multi_port_microneedle_array_sci.jpg"
+            "src": "content/img/multi_port_microneedle_array_sci.jpg"
         },
         {
             "id": 3,
             "type": "image",
             "alt": "Silicon grass mesa",
-            "src": "content/images/silicon_grass_mesa.jpg"
+            "src": "content/img/silicon_grass_mesa.jpg"
         },
         {
             "id": 4,
             "type": "image",
             "alt": "Silicon quantum dot",
-            "src": "content/images/silicon_quantum_dot.jpg"
+            "src": "content/img/silicon_quantum_dot.jpg"
         },
         {
             "id": 5,
             "type": "image",
             "alt": "Squid array section from a superconducting magnetometer for brain imaging",
-            "src": "content/images/squid_array_section_from_a_superconducting_magnetometer_for_brain_imaging.jpg"
+            "src": "content/img/squid_array_section_from_a_superconducting_magnetometer_for_brain_imaging.jpg"
         },
         {
             "id": 6,
             "type": "image",
             "alt": "Suspended multistage superconducting thermionic junction cooler",
-            "src": "content/images/suspended_multistage_superconducting_thermionic_junction_cooler.jpg"
+            "src": "content/img/suspended_multistage_superconducting_thermionic_junction_cooler.jpg"
         }],
         "hotspot": {
             "hasHotspot": true,
@@ -985,13 +985,13 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Data server room",
-                "src": "content/images/data_server_room.jpg"
+                "src": "content/img/data_server_room.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Quantum technology",
-                "src": "content/images/quantum_technology.jpg"
+                "src": "content/img/quantum_technology.jpg"
             }
         ],
         "hotspot": {
@@ -1024,37 +1024,37 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "MilliLab laboratory on millimetre wave technology",
-                "src": "content/images/414S6394.jpg"
+                "src": "content/img/414S6394.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "MilliLab laboratory on millimetre wave technology",
-                "src": "content/images/414S6414.jpg"
+                "src": "content/img/414S6414.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "MilliLab laboratory on millimetre wave technology",
-                "src": "content/images/414S6446.jpg"
+                "src": "content/img/414S6446.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "W-Cube nanosatellite",
-                "src": "content/images/w-cube_nanosatellite.jpg"
+                "src": "content/img/w-cube_nanosatellite.jpg"
             },
             {
                 "id": 5,
                 "type": "image",
                 "alt": "Drone with integrated payload for millimetre-wave channel measurements",
-                "src": "content/images/drone_with_integrated payload_for_millimetr_wave_channel_measurements.jpg"
+                "src": "content/img/drone_with_integrated payload_for_millimetr_wave_channel_measurements.jpg"
             },
             {
                 "id": 6,
                 "type": "image",
                 "alt": "E-band phased array enabling gigabit per second range wireless communication",
-                "src": "content/images/e-band-phased-array_enabling_gigabit_per_second_range_wireless_communication.jpg"
+                "src": "content/img/e-band-phased-array_enabling_gigabit_per_second_range_wireless_communication.jpg"
             }             
         ],
         "hotspot": {
@@ -1080,19 +1080,19 @@ window.data = [{
             "id": 0,
             "type": "image",
             "alt": "Space satellite",
-            "src": "content/images/vtt-space-satellite-earth-rotate.jpg"
+            "src": "content/img/vtt-space-satellite-earth-rotate.jpg"
         },
         {
             "id": 1,
             "type": "image",
             "alt": "A hand held NIR spectrum measurement instrument demonstrating the use of inexpensive microspectrometers and intelligent calibration methods",
-            "src": "content/images/a_hand_held_nir_spectrum_measurement_instrument.jpg"
+            "src": "content/img/a_hand_held_nir_spectrum_measurement_instrument.jpg"
         },
         {
             "id": 2,
             "type": "image",
             "alt": "Multi-wavelength NIR measurement instrument for on-line paper quality control with a superior sample rate",
-            "src": "content/images/multi_wavelength_nir_measurement_instrument_2.jpg"
+            "src": "content/img/multi_wavelength_nir_measurement_instrument_2.jpg"
         }],
         "hotspot": {
             "hasHotspot": true,
@@ -1119,7 +1119,7 @@ window.data = [{
             "id": 0,
             "type": "image",
             "alt": "Machine vision",
-            "src": "content/images/shutterstock_530370880_machine vision.jpg"
+            "src": "content/img/shutterstock_530370880_machine vision.jpg"
         }],
         "hotspot": {
             "hasHotspot": true,
@@ -1149,25 +1149,25 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Metrology facilities in Espoo",
-                "src": "content/images/metrology_facilities_in_espoo.jpg"
+                "src": "content/img/metrology_facilities_in_espoo.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Metrology facilities in Espoo",
-                "src": "content/images/metrology_facilities_in_otaniemi_espoo.jpg"
+                "src": "content/img/metrology_facilities_in_otaniemi_espoo.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Metrology facilities in Espoo",
-                "src": "content/images/metrology_facilities.jpg"
+                "src": "content/img/metrology_facilities.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "Metrology facilities in Espoo",
-                "src": "content/images/mikes_facilities_in_espoo.jpg"
+                "src": "content/img/mikes_facilities_in_espoo.jpg"
             }
         ],
         "hotspot": {
@@ -1202,19 +1202,19 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "VTT printed and hybrid pilot manufacturing facilities",
-                "src": "content/images/vtt_printed_intelligence.jpg"
+                "src": "content/img/vtt_printed_intelligence.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "VTT printed and hybrid pilot manufacturing facilities",
-                "src": "content/images/vtt_printed_and_hybrid_manufacturing_facilities.jpg"
+                "src": "content/img/vtt_printed_and_hybrid_manufacturing_facilities.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "VTT printed and hybrid pilot manufacturing facilities",
-                "src": "content/images/vtt_printed_and_hybrid_manufacturing_facilities_in_oulu.jpg"
+                "src": "content/img/vtt_printed_and_hybrid_manufacturing_facilities_in_oulu.jpg"
             }
         ],
         "hotspot": {
@@ -1246,31 +1246,31 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Diagnostics",
-                "src": "content/images/diagnostics.jpg"
+                "src": "content/img/diagnostics.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Elastronics",
-                "src": "content/images/elastronics.jpg"
+                "src": "content/img/elastronics.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "VTT Flex Dot",
-                "src": "content/images/vtt_flex_dot.jpg"
+                "src": "content/img/vtt_flex_dot.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "Wearable diagnostics",
-                "src": "content/images/wearable_diagnostics.jpg"
+                "src": "content/img/wearable_diagnostics.jpg"
             },
             {
                 "id": 5,
                 "type": "image",
                 "alt": "Wearable technology",
-                "src": "content/images/wearable_technology.jpg"
+                "src": "content/img/wearable_technology.jpg"
             }
         ],
         "hotspot": {
@@ -1313,19 +1313,19 @@ window.data = [{
                 "id": 3,
                 "type": "image",
                 "alt": "Energy efficient telecommunication systems",
-                "src": "content/images/energy_efficient_telecommunication_systems.jpg"
+                "src": "content/img/energy_efficient_telecommunication_systems.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "VTT test network in Oulu",
-                "src": "content/images/vtt_network_and_test_environment_in_oulu.jpg"
+                "src": "content/img/vtt_network_and_test_environment_in_oulu.jpg"
             },
             {
                 "id": 5,
                 "type": "image",
                 "alt": "Energy efficient telecommunication systems",
-                "src": "content/images/vtt_test_network_in_oulu.jpg"
+                "src": "content/img/vtt_test_network_in_oulu.jpg"
             }
         ],
         "hotspot": {
@@ -1354,7 +1354,7 @@ window.data = [{
             "id": 0,
             "type": "image",
             "alt": "Automation robots in intelligent industrial factory",
-            "src": "content/images/intelligent_industry.jpg"
+            "src": "content/img/intelligent_industry.jpg"
         }],
         "hotspot": {
             "hasHotspot": true,
@@ -1380,13 +1380,13 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Cyber security",
-                "src": "content/images/cyber_security.jpg"
+                "src": "content/img/cyber_security.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Data center",
-                "src": "content/images/data_center.jpg"
+                "src": "content/img/data_center.jpg"
             }
         ],
         "hotspot": {
@@ -1427,55 +1427,55 @@ window.data = [{
                 "id": 2,
                 "type": "image",
                 "alt": "VTT micronova",
-                "src": "content/images/vtt_micronova.jpg"
+                "src": "content/img/vtt_micronova.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Cleanroom lab workers",
-                "src": "content/images/micronova_clean_room.jpg"
+                "src": "content/img/micronova_clean_room.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "Cleanroom lab workers",
-                "src": "content/images/vtt_clean_room_facility.jpg"
+                "src": "content/img/vtt_clean_room_facility.jpg"
             },
             {
                 "id": 5,
                 "type": "image",
                 "alt": "VTT clean room facility",
-                "src": "content/images/vtt_cleanroom_3.jpg"
+                "src": "content/img/vtt_cleanroom_3.jpg"
             },
             {
                 "id": 6,
                 "type": "image",
                 "alt": "VTT clean room facility",
-                "src": "content/images/vtt_cleanroom_4.jpg"
+                "src": "content/img/vtt_cleanroom_4.jpg"
             },
             {
                 "id": 7,
                 "type": "image",
                 "alt": "VTT clean room facility",
-                "src": "content/images/vtt_cleanroom_5.jpg"
+                "src": "content/img/vtt_cleanroom_5.jpg"
             },
             {
                 "id": 8,
                 "type": "image",
                 "alt": "VTT clean room facility",
-                "src": "content/images/vtt_cleanroom_6.jpg"
+                "src": "content/img/vtt_cleanroom_6.jpg"
             },
             {
                 "id": 9,
                 "type": "image",
                 "alt": "VTT clean room facility",
-                "src": "content/images/vtt_cleanroom_7.jpg"
+                "src": "content/img/vtt_cleanroom_7.jpg"
             },
             {
                 "id": 10,
                 "type": "image",
                 "alt": "VTT clean room facility",
-                "src": "content/images/micronova_clean_room_in_otaniemi.jpg"
+                "src": "content/img/micronova_clean_room_in_otaniemi.jpg"
             }
         ],
         "hotspot": {
@@ -1510,37 +1510,37 @@ window.data = [{
                 "id": 1,
                 "type": "image",
                 "alt": "Active antenna array",
-                "src": "content/images/active_antenna_array.jpg"
+                "src": "content/img/active_antenna_array.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Ceramic LTCC QFN package solution for k-band 9W GaN power amplifier",
-                "src": "content/images/ceramic_ltcc_ qfn_package_solution_for_k_band_9w_gan_power_amplifier.jpg"
+                "src": "content/img/ceramic_ltcc_ qfn_package_solution_for_k_band_9w_gan_power_amplifier.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Hyperspectral camera modules",
-                "src": "content/images/hyperspectral_camera_modules.jpg"
+                "src": "content/img/hyperspectral_camera_modules.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "IPD wafer",
-                "src": "content/images/ipd_wafer.jpg"
+                "src": "content/img/ipd_wafer.jpg"
             },
             {
                 "id": 5,
                 "type": "image",
                 "alt": "Packaged silicon photonics module with fan out PCB",
-                "src": "content/images/packaged_silicon_photonics_module_with_fan_out_pcb.jpg"
+                "src": "content/img/packaged_silicon_photonics_module_with_fan_out_pcb.jpg"
             },
             {
                 "id": 6,
                 "type": "image",
                 "alt": "Packaged silicon photonics module",
-                "src": "content/images/packaged_silicon_photonics_module.jpg"
+                "src": "content/img/packaged_silicon_photonics_module.jpg"
             }
         ],
         "hotspot": {
@@ -1568,7 +1568,7 @@ window.data = [{
             "id": 0,
             "type": "image",
             "alt": "Text alternative of the image",
-            "src": "content/images/vttsample_44.jpg"
+            "src": "content/img/vttsample_44.jpg"
         }],
         "hotspot": {
             "hasHotspot": false,
@@ -1601,31 +1601,31 @@ window.data = [{
                 "id": 0,
                 "type": "image",
                 "alt": "Text alternative of the image",
-                "src": "content/images/vttsample_44.jpg"
+                "src": "content/img/vttsample_44.jpg"
             },
             {
                 "id": 1,
                 "type": "image",
                 "alt": "Text alternative of the image",
-                "src": "content/images/vttsample_43.jpg"
+                "src": "content/img/vttsample_43.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
                 "alt": "Text alternative of the image",
-                "src": "content/images/vttsample_24.jpg"
+                "src": "content/img/vttsample_24.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
                 "alt": "Text alternative of the image",
-                "src": "content/images/vttsample_46.jpg"
+                "src": "content/img/vttsample_46.jpg"
             },
             {
                 "id": 4,
                 "type": "image",
                 "alt": "Text alternative of the image",
-                "src": "content/images/vttsample_40.jpg"
+                "src": "content/img/vttsample_40.jpg"
             }
         ],
         "hotspot": {
