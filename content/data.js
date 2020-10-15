@@ -565,7 +565,7 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube.com/embed/LRs949PDDEQ?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/h2cbsijTqTc?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
             },
             {
@@ -697,7 +697,7 @@ window.data = [{
     {
         "id": 17,
         "title": "AI-driven process development",
-        "description": "Digitalization and AI help speed up the development of process technologies. <a class='link' href='https://www.vttresearch.com/en/ourservices/ai-industry' target='_blank'>Utilising AI</a> and digital twins helps reduce the risks, time and money spent in process and product development. New <a class='link' href='https://www.vttresearch.com/en/ourservices/process-piloting-and-scale' target='_blank'>processes can be scaled up</a> with the help of process design and feasibility studies, computational fluid dynamic evaluations, and hybrid simulation and modelling. The products and processes become commercially viable faster than ever before. Also the way to entirely <a class='link' href='https://www.vttresearch.com/en/industries/chemistry' target='_blank'>new solutions</a> is opened through more informed and automated research processes.",
+        "description": "Digitalization and AI help speed up the development of process technologies. <a class='link' href='https://www.vttresearch.com/en/ourservices/ai-industry' target='_blank'>Utilising AI</a> and digital twins helps reduce the risks, time and money spent in process and product development. New <a class='link' href='https://www.vttresearch.com/en/ourservices/process-piloting-and-scale' target='_blank'>processes can be scaled up</a> with the help of process design and feasibility studies, computational fluid dynamic evaluations, and hybrid simulation and modelling. The products and processes become commercially viable faster than ever before. Also the way to entirely new solutions is opened through more informed and automated research processes.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -909,7 +909,7 @@ window.data = [{
     {
         "id": 22,
         "title": "Microsystems",
-        "description": "The main topics in <a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'>VTT’s microsystems research are silicon photonics, radio, MEMS, quantum and hyperspectral technologies</a>, as well as various applications related to these technologies.<br><br>Our main customer segments include telecom and consumer electronics, space and NewSpace, industrial sensing and measurement, and defense and security. We have an IPR portfolio that includes over 100 patent families related to microelectronics.<br><br>Our R&D ecosystem includes Micronova, Finland’s national research infrastructure for micro- and nanotechnology, operated together with Aalto University.",
+        "description": "The main topics in VTT’s microsystems research are silicon photonics, radio, MEMS, quantum and hyperspectral technologies, as well as various applications related to these technologies.<br><br>Our main customer segments include telecom and consumer electronics, space and NewSpace, industrial sensing and measurement, and defense and security. We have an IPR portfolio that includes over 100 patent families related to <a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'>microelectronics</a>.<br><br>Our R&D ecosystem includes Micronova, Finland’s national research infrastructure for micro- and nanotechnology, operated together with Aalto University.<br><br>Read more: <a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'>Silicon photonics</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'>Quantum technology</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/hyperspectral-technologies' target='_blank'>Hyperspectral technologies</a>",
         "gallery": [{
             "id": 0,
             "type": "image",
@@ -1105,7 +1105,7 @@ window.data = [{
     {
         "id": 26,
         "title": "Machine Vision",
-        "description": "Answering to demanding industrial needs, VTT develops the next generation of machine vision by combining AI, novel imaging methods and optical innovations.<br><br>We have unique facilities for the agile development and construction of prototypes enabling us to swiftly deliver complete optical instrumentation solutions from the laboratory phase to real environment.<br><br>We have decades of experience and the expertise to combine <a class='link' href='https://www.vttresearch.com/en/ourservices/industrial-sensing-solutions' target='_blank'>diverse spectroscopic and machine vision measurement technologies</a> to solve customers’ needs in various fields, including the steel, mining, paper, defense and process and other process and manufacturing industries.",
+        "description": "Answering to demanding industrial needs, VTT develops the next generation of machine vision by combining AI, novel imaging methods and optical innovations.<br><br>We have unique facilities for the agile development and construction of prototypes enabling us to swiftly deliver complete optical instrumentation solutions from the laboratory phase to real environment.<br><br>We have decades of experience and the expertise to combine diverse spectroscopic and machine vision measurement technologies to solve customers’ needs in various fields, including the steel, mining, paper, defense and process and other process and manufacturing industries.<br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/industrial-sensing-solutions' target='_blank'>Read more about our industrial sensing solutions</a>.",
         "gallery": [{
             "id": 0,
             "type": "image",
