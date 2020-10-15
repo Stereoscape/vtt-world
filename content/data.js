@@ -492,12 +492,6 @@ window.data = [{
                 "type": "image",
                 "alt": "Suora foam forming platform",
                 "src": "content/img/suora_foam_forming_platform.jpg"
-            },
-            {
-                "id": 7,
-                "type": "image",
-                "alt": "Suora foam forming",
-                "src": "content/img/suora_foam_forming.jpg"
             }
         ],
         "hotspot": {
@@ -571,27 +565,27 @@ window.data = [{
             {
                 "id": 1,
                 "type": "image",
-                "alt": "Gasification in VTT Bioruukki",
-                "src": "content/img/gasification_in_bioruukki.jpg"
+                "alt": "Catalyst Testing Facilities",
+                "src": "content/img/catalyst_testing_facilities.jpg"
             },
             {
                 "id": 2,
-                "type": "image",
-                "alt": "Fibre spinning line in VTT Bioruukki",
-                "src": "content/img/fibre_spinning_line_in_bioruukki.jpg"
-            },
-            {
-                "id": 3,
                 "type": "image",
                 "alt": "Mobile synthesis unit",
                 "src": "content/img/mobile_synthesis_unit.jpg"
             },
             {
+                "id": 3,
+                "type": "image",
+                "alt": "NMR Analytics Chemical Characterization",
+                "src": "content/img/nmr_analytics_chemical_characterization.jpg"
+            },
+            {
                 "id": 4,
                 "type": "image",
-                "alt": "Multi purpose process chemistry pilot reactor",
-                "src": "content/img/multi_purpose_process_chemistry_pilot_reactor.jpg"
-            }
+                "alt": "Polymer Development Analytics",
+                "src": "content/img/polymer_development_analytics.jpg"
+            }            
         ],
         "hotspot": {
             "hasHotspot": true,
