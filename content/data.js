@@ -468,30 +468,6 @@ window.data = [{
                 "type": "video",
                 "src": "https://www.youtube.com/embed/86Akt5wjhvA?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
-            },            
-            {
-                "id": 3,
-                "type": "image",
-                "alt": "Fiberline cooking pilot",
-                "src": "content/img/fiberline_cooking_pilot.jpg"
-            },
-            {
-                "id": 4,
-                "type": "image",
-                "alt": "Fibre spinning line in VTT Bioruukki",
-                "src": "content/img/fibre_spinning_line_in_vtt_bioruukki.jpg"
-            },
-            {
-                "id": 5,
-                "type": "image",
-                "alt": "Sampo",
-                "src": "content/img/sampo.jpg"
-            },
-            {
-                "id": 6,
-                "type": "image",
-                "alt": "Suora foam forming platform",
-                "src": "content/img/suora_foam_forming_platform.jpg"
             }
         ],
         "hotspot": {
