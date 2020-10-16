@@ -460,12 +460,6 @@ window.data = [{
             {
                 "id": 1,
                 "type": "video",
-                "src": "https://www.youtube.com/embed/RlilPmjlzO0?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
-                "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
-            },
-            {
-                "id": 2,
-                "type": "video",
                 "src": "https://www.youtube.com/embed/86Akt5wjhvA?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
             }
