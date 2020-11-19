@@ -105,7 +105,7 @@ window.data = [{
         "gallery": [{
             "id": 0,
             "type": "video",
-            "src": "https://www.youtube.com/embed/SxeHpp--yVY?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+            "src": "https://www.youtube.com/embed/x6fgwwYu9Fk?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
             "poster": "content/posters/VTT_Industry4.0_ProperTune_EN (1).png"
         }],
         "hotspot": {
@@ -179,20 +179,20 @@ window.data = [{
             {
                 "id": 1,
                 "type": "image",
-                "alt": "IntelligentEnergy test bed",
-                "src": "content/img/intelligent_energy_test_bed_1.jpg"
+                "alt": "ABB line differential relays and merging units",
+                "src": "content/img/abb_line_differential_relays_and_merging_units.jpg"
             },
             {
                 "id": 2,
                 "type": "image",
-                "alt": "IntelligentEnergy test bed",
-                "src": "content/img/intelligent_energy_test_bed_2.jpg"
+                "alt": "Grid emulator and busbar",
+                "src": "content/img/grid_emulator_and_busbar.jpg"
             },
             {
                 "id": 3,
                 "type": "image",
-                "alt": "IntelligentEnergy test bed",
-                "src": "content/img/intelligent_energy_test_bed_3.jpg"
+                "alt": "Real-time simulator",
+                "src": "content/img/real-time_simulator.jpg"
             }
         ],
         "hotspot": {
@@ -215,7 +215,7 @@ window.data = [{
     {
         "id": 6,
         "title": "Transport and Stationary Power Systems",
-        "description": "The platform supports the industry and public actors on their path towards low emission power generation and storage systems. Our aim is to find low emission power solutions for transport and stationary systems, as well as clean air solutions for a wide area of industries. New solutions include batteries, fuel cells, alternative fuels, power-to-x and hybrid systems.<br><br>Infrastructure and tools:<br><a class='link' href='https://www.vttresearch.com/en/ourservices/fuel-cells-and-hydrogen' target='_blank'>Fuel cells and hydrogen</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/battery-technologies' target='_blank'>Electric vehicles and battery technologies</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/engine-and-vehicle-emissions' target='_blank'>Engines and emissions</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/clean-air-solutions' target='_blank'>Clean air testing facilities</a> || Simulation and modelling capabilities || <a class='link' href='https://www.vttresearch.com/en/ourservices/wind-power' target='_blank'>Wind tunnel</a>",
+        "description": "The platform supports the industry and public actors on their path towards low emission power generation and storage systems. Our aim is to find low emission power solutions for transport and stationary systems, as well as clean air solutions for a wide area of industries. New solutions include batteries, fuel cells, alternative fuels, power-to-x and hybrid systems.<br><br>Infrastructure and tools:<br><a class='link' href='https://www.vttresearch.com/en/ourservices/fuel-cells-and-hydrogen' target='_blank'>Fuel cells and hydrogen</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/battery-technologies' target='_blank'>Electric vehicles and battery technologies</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/engine-and-vehicle-emissions' target='_blank'>Engines and emissions</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/clean-air-solutions' target='_blank'>Clean air R&D facilities</a> || Simulation and modelling capabilities || <a class='link' href='https://www.vttresearch.com/en/ourservices/wind-power' target='_blank'>Wind tunnel</a>",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -312,6 +312,18 @@ window.data = [{
             },
             {
                 "id": 3,
+                "type": "video",
+                "src": "https://www.youtube.com/embed/R_warjk6vuw?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/VTT_5G_driving_offline_20032020.png"
+            },
+            {
+                "id": 4,
+                "type": "video",
+                "src": "https://www.youtube.com/embed/BhNWPhBqK54?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/VTT_5G_driving_offline_20032020.png"
+            },
+            {
+                "id": 5,
                 "type": "image",
                 "alt": "VTT automated vehicles",
                 "src": "content/img/vtt_automated_vehicles.jpg"
@@ -779,11 +791,11 @@ window.data = [{
     {
         "id": 20,
         "title": "Millimetre wave technologies to RF solutions and antennas",
-        "description": "VTT develops antennas for RF communication and sensing applications. Based on <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'>millimetre wave technology</a>, our development work benefits customers from early product phases to final product optimisations.<br><br>Antennas and RF components are the crucial parts of wireless systems, affecting connectivity performance. They enable stable connections from personal wellbeing applications and public safety solutions to autonomous cars, radars, drones and flight systems.<br><br>Our comprehensive expertise can be utilised also in future satellite links, ground segment and in scientific space missions.",
+        "description": "VTT develops antennas for RF communication and sensing applications. Based on <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'>millimetre wave technology</a>, our development work benefits customers from early product phases to final product optimisations.<br><br>Antennas and RF components are the crucial parts of wireless systems, affecting connectivity performance. They enable stable connections from personal wellbeing applications and public safety solutions to autonomous cars, radars, drones and flight systems.<br><br>Our comprehensive expertise can be utilised also in future satellite links, ground segment and in scientific space missions.<br><br>VTT’s satellite image analysis tools and platform support sustainable use of natural resources globally. Most up to date machine learning algorithms are used to bring intelligence from the data. <a class='link' href='https://www.vttresearch.com/en/ourservices/earth-observation' target='_blank'>Read more about Earth observation.</a>",
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube.com/embed/56qJ7yA_o0I?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/MgVDhDmqvvo?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
             },
             {
@@ -875,11 +887,11 @@ window.data = [{
         "title": "Microsystems",
         "description": "The main topics in VTT’s microsystems research are silicon photonics, radio, MEMS, quantum and hyperspectral technologies, as well as various applications related to these technologies.<br><br>Our main customer segments include telecom and consumer electronics, space and NewSpace, industrial sensing and measurement, and defense and security. We have an IPR portfolio that includes over 100 patent families related to <a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'>microelectronics</a>.<br><br>Our R&D ecosystem includes Micronova, Finland’s national research infrastructure for micro- and nanotechnology, operated together with Aalto University.<br><br>Read more: <a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'>Silicon photonics</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'>Quantum technology</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/hyperspectral-technologies' target='_blank'>Hyperspectral technologies</a>",
         "gallery": [{
-            "id": 0,
-            "type": "image",
-            "alt": "Cleanroom lab worker looking at chip",
-            "src": "content/img/cleanroom-lab-worker-looking-at-chip.jpg"
-        },
+                "id": 0,
+                "type": "video",
+                "src": "https://www.youtube.com/embed/1JfY3IpKwJc?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
+            },
         {
             "id": 1,
             "type": "image",
@@ -896,7 +908,7 @@ window.data = [{
             "id": 3,
             "type": "image",
             "alt": "Silicon grass mesa",
-            "src": "content/img/silicon_grass_mesa.jpg"
+            "src": "content/img/silicon_grass_mesa_b.jpg"
         },
         {
             "id": 4,
@@ -972,7 +984,7 @@ window.data = [{
         "gallery": [{
                 "id": 0,
                 "type": "video",
-                "src": "https://www.youtube.com/embed/56qJ7yA_o0I?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "src": "https://www.youtube.com/embed/MgVDhDmqvvo?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
                 "poster": "content/posters/vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
             },
             {
@@ -1189,7 +1201,7 @@ window.data = [{
     },
     {
         "id": 29,
-        "title": "Diagnostics and Bio-sensors",
+        "title": "Diagnostics and biosensors",
         "description": "At VTT, we bring <a class='link' href='https://www.vttresearch.com/en/ourservices/diagnostic-technologies' target='_blank'>diagnostics</a> from central laboratories to point-of-care locations. We develop novel solutions for industry, as well as consumer diagnostics in the health and wellness sector.<br><br>We integrate printed electronics and biosensors, so that diagnostic devices can be attached directly to human skin and to packages on any other surfaces. We don’t only improve existing solutions but create entirely new products and concepts.<br><br>VTT’s R&D infrastructure and international networks are exceptional. Our work contributes to the quality of life and sustainable use of materials.",
         "gallery": [{
                 "id": 0,
@@ -1230,7 +1242,7 @@ window.data = [{
         ],
         "hotspot": {
             "hasHotspot": true,
-            "buttonText": "Diagnostics and Bio-sensors",
+            "buttonText": "Diagnostics and biosensors",
             "posX": 79,
             "posY": 2601
         },
@@ -1365,7 +1377,7 @@ window.data = [{
     {
         "id": 33,
         "title": "Micronova",
-        "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/micronova' target='_blank'>Micronova</a> is the largest cleanroom in the Nordic countries and a central hub for the Finnish electronics industry ecosystem. It offers two cleanroom and processing lines for silicon CMOS, MEMS, III-V optoelectronics and thin film devices.<br><br>Located at the Otaniemi Technology Campus, Micronova brings together 350 professionals as well as industry. Micronova has the R&D infrastructure to develop, for example, optical and wireless sensors, microelectronics and microfluids, nanoelectronics and quantum devices, radiation detectors and instruments for space technology.",
+        "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/micronova' target='_blank'>Micronova</a> is the largest R&D cleanroom in the Nordic countries and a central hub for the Finnish electronics industry ecosystem. It offers two cleanroom and processing lines for silicon CMOS, MEMS, III-V optoelectronics and thin film devices.<br><br>Located at the Otaniemi Technology Campus, Micronova brings together 350 professionals as well as industry. Micronova has the R&D infrastructure to develop, for example, optical and wireless sensors, microelectronics and microfluids, nanoelectronics and quantum devices, radiation detectors and instruments for space technology.",
         "gallery": [{
                 "id": 0,
                 "type": "video",
@@ -1380,57 +1392,51 @@ window.data = [{
             },
             {
                 "id": 2,
-                "type": "image",
-                "alt": "VTT micronova",
-                "src": "content/img/vtt_micronova.jpg"
+                "type": "video",
+                "src": "https://www.youtube.com/embed/UClVVqjjvuE?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en",
+                "poster": "content/posters/VTT-Memsfab-2019-VTT-logo.png"
             },
             {
                 "id": 3,
                 "type": "image",
-                "alt": "Cleanroom lab workers",
-                "src": "content/img/micronova_clean_room.jpg"
-            },
-            {
-                "id": 4,
-                "type": "image",
-                "alt": "Cleanroom lab workers",
-                "src": "content/img/vtt_clean_room_facility.jpg"
-            },
-            {
-                "id": 5,
-                "type": "image",
                 "alt": "VTT clean room facility",
-                "src": "content/img/vtt_cleanroom_3.jpg"
+                "src": "content/img/vtt_micronova.jpg"
             },
             {
                 "id": 6,
                 "type": "image",
-                "alt": "VTT clean room facility",
-                "src": "content/img/vtt_cleanroom_4.jpg"
+                "alt": "Clean room",
+                "src": "content/img/vtt_cleanroom_3.jpg"
             },
             {
                 "id": 7,
                 "type": "image",
-                "alt": "VTT clean room facility",
-                "src": "content/img/vtt_cleanroom_5.jpg"
+                "alt": "Clean room",
+                "src": "content/img/vtt_cleanroom_4.jpg"
             },
             {
                 "id": 8,
                 "type": "image",
-                "alt": "VTT clean room facility",
-                "src": "content/img/vtt_cleanroom_6.jpg"
+                "alt": "Clean room",
+                "src": "content/img/vtt_cleanroom_5.jpg"
             },
             {
                 "id": 9,
                 "type": "image",
-                "alt": "VTT clean room facility",
-                "src": "content/img/vtt_cleanroom_7.jpg"
+                "alt": "Clean room",
+                "src": "content/img/vtt_cleanroom_6.jpg"
             },
             {
                 "id": 10,
                 "type": "image",
-                "alt": "VTT clean room facility",
-                "src": "content/img/micronova_clean_room_in_otaniemi.jpg"
+                "alt": "Clean room",
+                "src": "content/img/vtt_cleanroom_7.jpg"
+            },
+            {
+                "id": 11,
+                "type": "image",
+                "alt": "Clean room",
+                "src": "content/img/P1377783_b.jpg"
             }
         ],
         "hotspot": {
