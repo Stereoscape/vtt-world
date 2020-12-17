@@ -27,11 +27,13 @@
         <meta property="twitter:image" content="https://www.vttresearch.com/en/vtt-world/assets/vtt-world-card.jpg">
         <meta name="twitter:site" content="@VTTFinland">
 
-        <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta name="viewport" content="initial-scale=1, width=device-width" />
+        <meta name="HandheldFriendly" content="true">
+
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta name="mobile-web-app-capable" content="yes" />
-        <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.png" />
+        <link rel="shortcut icon" type="image/x-icon" href="assets/favicon/favicon-32x32.png" />
         <!--Google Tag Manager -->
         <script>
             (function(w, d, s, l, i) {
@@ -50,13 +52,13 @@
 
         </script>
         <!--End Google Tag Manager -->
-        <link href="dist/style.1b88c7be8e1804ac0332.css" rel="stylesheet">
+        <link href="dist/style.4d19b8786f2c3e2e284e.css" rel="stylesheet">
     </head>
 
     <body>
 
         <!--Google Tag Manager (noscript) -->
-        <noscript aria-hidden="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGW3LXZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <noscript aria-hidden="true"><iframe title="Google tag manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WGW3LXZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!--End Google Tag Manager (noscript) -->
 
         <noscript aria-hidden="true">We are sorry but VTT world needs JavaScript enabled. Please enable it to continue.</noscript>
@@ -73,6 +75,41 @@
             </div>
 
         </header>
+
+        <section id="instructionsContainer" role="dialog" aria-modal="true" class="uk-modal-container uk-flex-top" data-uk-modal>
+
+            <div role="document" class="uk-modal-dialog uk-margin-auto-vertical uk-background-cover uk-background-bottom-left">
+
+                <button id="instructionsClose" class="uk-modal-close-default uk-modal-close-full uk-close-large" type="button" data-uk-close>
+                    <span id="instructionClosetext" class="visually-hidden">
+                        Close dialog
+                    </span>
+                </button>
+
+                <div id="instructionsHeader" class="uk-modal-header">
+                    <h1 aria-live="polite" id="instructionsTitle" class="uk-text-bold" style="width: 80%">
+                        Instructions
+                    </h1>
+
+                    <p id="popup" class="uk-helvetica description uk-text-secondary">
+                        Unpinch to zoom in.<br>
+                        Pinch to zoom out.
+                    </p>
+
+                    <img data-src="assets/gestures.png" width="1800" height="1200" alt="Touchscreen gestures" uk-img>
+                    <form>
+                        <div id="checkboxdiv" class="uk-width-medium uk-margin uk-margin-auto uk-margin-small-bottom uk-margin-medium-top">
+                            <label>
+                                <input id="checkbox" class="uk-checkbox" type="checkbox"> Don't show this again.
+                            </label>
+                        </div>
+                    </form>
+                    <div class="uk-width-medium uk-margin uk-margin-auto uk-margin-small-top uk-margin-small-bottom">
+                        <button class="uk-button uk-button-primary uk-modal-close uk-width-1-1" type="button">Ok</button>
+                    </div>
+
+                </div>
+        </section>
 
         <main id="main-content" aria-labelledby="mainLabel" class="uk-container uk-container-expand uk-padding-remove">
 
@@ -108,7 +145,7 @@
 
                 <div id="infocardHeader" class="uk-modal-header">
                     <h1 aria-live="polite" id="infocardTitle" class="uk-text-bold" style="width: 80%">
-                        Integrated Computational Materials Engineering (ICME)
+                        Infocard Title
                     </h1>
                 </div>
 
@@ -196,7 +233,7 @@
         </section>
 
         <script src="https://unpkg.com/focus-visible@latest/dist/focus-visible.min.js"></script>
-        <script type="text/javascript" src="dist/app.9e84871f9d2c3f904fc6.js"></script>
+        <script type="text/javascript" src="dist/app.54ce7e48efd1c13d032a.js"></script>
     </body>
 
 </html>
