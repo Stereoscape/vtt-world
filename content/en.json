@@ -447,36 +447,24 @@
             "gallery": [
                 {
                     "id": 0,
-                    "type": "video",
-                    "src": "Ubed1-d7u7s",
-                    "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
-                },
-                {
-                    "id": 1,
-                    "type": "video",
-                    "src": "EvnvQvWGsEU",
-                    "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
-                },
-                {
-                    "id": 2,
                     "type": "image",
                     "alt": "Biocomposite film extrusion",
                     "src": "content/img/biocomposite_film_extrusion.jpg"
                 },
                 {
-                    "id": 3,
+                    "id": 1,
                     "type": "image",
                     "alt": "Sampo",
                     "src": "content/img/sampo.jpg"
                 },
                 {
-                    "id": 4,
+                    "id": 2,
                     "type": "image",
                     "alt": "Suora foam forming platform",
                     "src": "content/img/suora_foam_forming_platform.jpg"
                 },
                 {
-                    "id": 5,
+                    "id": 3,
                     "type": "image",
                     "alt": "Tandem extrusion line",
                     "src": "content/img/tandem_extrusion_line.jpg"
@@ -877,39 +865,15 @@
             "gallery": [
                 {
                     "id": 0,
-                    "type": "video",
-                    "src": "zqZpl8k5uUM",
-                    "poster": "content/posters/vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
-                },
-                {
-                    "id": 1,
                     "type": "image",
                     "alt": "Data server room",
                     "src": "content/img/data_server_room.jpg"
                 },
                 {
-                    "id": 2,
+                    "id": 1,
                     "type": "image",
                     "alt": "Quantum technology",
                     "src": "content/img/quantum_technology.jpg"
-                },
-                {
-                    "id": 3,
-                    "type": "image",
-                    "alt": "Quantum computer",
-                    "src": "content/img/vtt_kvanttitietokone_highres.jpg"
-                },
-                {
-                    "id": 4,
-                    "type": "image",
-                    "alt": "Quantum computing effect",
-                    "src": "content/img/vtt_kvanttilaskenta_vaikutus_tietokone.jpg"
-                },
-                {
-                    "id": 5,
-                    "type": "image",
-                    "alt": "Quantum computing effect",
-                    "src": "content/img/vtt_kvanttilaskenta_vaikutus_tutkija.jpg"
                 }
             ],
             "hotspot": {
@@ -1002,24 +966,6 @@
                     "type": "image",
                     "alt": "Multi-wavelength NIR measurement instrument for on-line paper quality control with a superior sample rate",
                     "src": "content/img/multi_wavelength_nir_measurement_instrument_2.jpg"
-                },
-                {
-                    "id": 3,
-                    "type": "image",
-                    "alt": "Online scanning measurement device for mid IR range",
-                    "src": "content/img/online_scanning_measurement_device_for_mid_ir_range.jpg"
-                },
-                {
-                    "id": 4,
-                    "type": "image",
-                    "alt": "Paper coating process characterization with a multipoint NIR spectrometer system developed by VTT",
-                    "src": "content/img/paper_coating_process_characterization_with_a_multipoint_nir_spectrometer_system_developed_by_vtt.jpg"
-                },
-                {
-                    "id": 5,
-                    "type": "image",
-                    "alt": "Raman measurements of drill core samples using a VTT designed and manufactured Raman probe",
-                    "src": "content/img/raman_measurements_of_drill_core_samples_using_a_vtt_designed_and_manufactured_raman_probe.jpg"
                 }
             ],
             "hotspot": {
@@ -1302,7 +1248,7 @@
                 {
                     "id": 0,
                     "type": "video",
-                    "src": "zqZpl8k5uUM",
+                    "src": "YfQXHHUfr7E",
                     "poster": "content/posters/VTT-Memsfab-2019-VTT-logo.png"
                 },
                 {
