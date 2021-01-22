@@ -765,8 +765,8 @@
             "hotspot": {
                 "hasHotspot": true,
                 "buttonText": "Radio Frequency and mmWave",
-                "posX": 817,
-                "posY": 138
+                "posX": 1150,
+                "posY": 123
             },
             "relatedInfocardID": [24, 30, 33, 34, 22],
             "qrhref": "https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies",
