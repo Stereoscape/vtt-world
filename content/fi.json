@@ -1,19 +1,19 @@
 {
     "metadata": {
         "youtubePrefix": "https://www.youtube.com/embed/",
-        "youtubeSuffix": "?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=en"
+        "youtubeSuffix": "?autoplay=0&showinfo=0&rel=0&modestbranding=1&playsinline=1&cc_load_policy=1&hl=fi"
     },
     "infocards": [
         {
             "id": 0,
             "title": "Ydinenergia",
-            "description": "Kehitämme VTT: llä ratkaisuja ydinturvallisuuteen kolmella pääalueella: reaktoriturvallisuus, ydinjätehuolto ja materiaaliteknologiat. Näiden lisäksi tarjoamme rajapintoja muihin tekniikoihin, kuten materiaalitieteeseen, todennäköisyysmenetelmiin, maa- ja vesirakentamiseen, instrumentointiin ja ohjaukseen.VTT-ratkaisut sisältävät kokeellisia ja laskennallisia lähestymistapoja ja analyyseja, esim. Iskutestit iskunkestäville teräsbetonirakenteille ja Apros-ympäristö laskennalliselle ydinturvallisuusanalyysille.Kehitämme jatkuvasti uusia laskennallisia ja kokeellisia tekniikoita tulevaisuuden tarpeita varten. <br><br> Infrastruktuuri sijaitsee <a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-centre-nuclear-safety' target='_blank'> VTT: n ydinturvallisuuskeskus</a> ja sisältää:<br> Kuumakennot radioaktiivisten aineiden testaamiseen ja karakterisointiin || Radioaktiivisten materiaalien analyyttinen mikroskopia || Materiaalien gamma-, beeta- ja alfa-radioaktiivisuuden mittaukset || Kemialliset analyysit jaksollisessa taulukossa Aerosolin tuottaminen ja vakavien ydinonnettomuuksien simulaatioiden analyysit || Bentoniittisaven käsittely- ja testauslaitteet, mukaan lukien instrumentoitu kuuma kolmiakselinen puristus",
+            "description": "Kehitämme VTT: llä ratkaisuja ydinturvallisuuteen kolmella pääalueella: reaktoriturvallisuus, ydinjätehuolto ja materiaaliteknologiat. Näiden lisäksi tarjoamme rajapintoja muihin tekniikoihin, kuten materiaalitieteeseen, todennäköisyysmenetelmiin, maa- ja vesirakentamiseen, instrumentointiin ja ohjaukseen. VTT-ratkaisut sisältävät kokeellisia ja laskennallisia lähestymistapoja ja analyyseja, esim. Iskutestit iskunkestäville teräsbetonirakenteille ja Apros-ympäristö laskennalliselle ydinturvallisuusanalyysille. Kehitämme jatkuvasti uusia laskennallisia ja kokeellisia tekniikoita tulevaisuuden tarpeita varten. <br><br> Infrastruktuuri sijaitsee <a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-centre-nuclear-safety' target='_blank'> VTT: n ydinturvallisuuskeskus<\/a> ja sisältää:<br> Kuumakennot radioaktiivisten aineiden testaamiseen ja karakterisointiin || Radioaktiivisten materiaalien analyyttinen mikroskopia || Materiaalien gamma-, beeta- ja alfa-radioaktiivisuuden mittaukset || Kemialliset analyysit jaksollisessa taulukossa Aerosolin tuottaminen ja vakavien ydinonnettomuuksien simulaatioiden analyysit || Bentoniittisaven käsittely- ja testauslaitteet, mukaan lukien instrumentoitu kuuma kolmiakselinen puristus",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "N9y7ScpEr7c",
-                    "poster": "sisältö / julisteet / VTT_CNS_offline_19032020_new logo.png"
+                    "poster": "content/posters/VVTT_CNS_offline_19032020_new logo.png"
                 }
             ],
             "hotspot": {
@@ -29,25 +29,25 @@
         {
             "id": 1,
             "title": "Kokemuskeskus",
-            "description": "Kokemuskeskus -alusta kattaa Augmented Reality (AR) - ja Virtual Reality (VR) -ratkaisut, palvelurobotit sekä ihmisen ja robotin vuorovaikutuksen. Kokemuskeskus tukee myös inhimillisiä tekijöitä ja käyttökokemustutkimuksia, yhteiskehittämistyötä ja osallistavaa suunnittelua. Alusta kattaa uudet tekniikat, jotka muuttavat työ- ja käyttökokemuksia. Kokemuskeskukseen kuuluvat robotiikka-, yhteisluonti- ja virtuaalitodellisuuslaboratoriot VTT: n tiloissa. <br><br> Kokemuskeskus tarjoaa infrastruktuuria ja työkaluja: <br><a class='link' href='https://www.vttresearch.com/en/ourservices/virtual-and-augmented-reality' target='_blank'> AR- ja VR-tekniikoiden kehittäminen ja tutkimus</a> || <a class='link' href='https://www.vttresearch.com/en/topics/automation-and-robotics' target='_blank'> Robotiikan kehittäminen ja tutkimus:</a> Palvelurobotit, ihmisen ja robotin vuorovaikutusta (HRI) koskevat tutkimukset, inhimillisten tekijöiden (HF ja käyttäjäkokemuksen (UX) tutkimukset || Osallistuvat suunnittelun helpottamisalustat || Yhteisluomisen innovaatiotilat",
+            "description": "Kokemuskeskus -alusta kattaa Augmented Reality (AR) - ja Virtual Reality (VR) -ratkaisut, palvelurobotit sekä ihmisen ja robotin vuorovaikutuksen. Kokemuskeskus tukee myös inhimillisiä tekijöitä ja käyttökokemustutkimuksia, yhteiskehittämistyötä ja osallistavaa suunnittelua. Alusta kattaa uudet tekniikat, jotka muuttavat työ- ja käyttökokemuksia. Kokemuskeskukseen kuuluvat robotiikka-, yhteisluonti- ja virtuaalitodellisuuslaboratoriot VTT: n tiloissa. <br><br> Kokemuskeskus tarjoaa infrastruktuuria ja työkaluja: <br><a class='link' href='https://www.vttresearch.com/en/ourservices/virtual-and-augmented-reality' target='_blank'> AR- ja VR-tekniikoiden kehittäminen ja tutkimus<\/a> || <a class='link' href='https:\/\/www.vttresearch.com\/en\/topics\/automation-and-robotics' target='_blank'> Robotiikan kehittäminen ja tutkimus:<\/a> Palvelurobotit, ihmisen ja robotin vuorovaikutusta (HRI) koskevat tutkimukset, inhimillisten tekijöiden (HF ja käyttäjäkokemuksen (UX) tutkimukset || Osallistuvat suunnittelun helpottamisalustat || Yhteisluomisen innovaatiotilat",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "EHRqsOtgzP0",
-                    "poster": "sisältö / julisteet / VTT_infro_Episode2_Robotics laboratorio _offline_V2_10022020.png"
+                    "poster": "content/posters/VVTT_infro_Episode2_Robotics laboratorio _offline_V2_10022020.png"
                 },
                 {
                     "id": 1,
                     "type": "video",
                     "src": "VYuy4mPcoug",
-                    "poster": "sisältö / julisteet / VTT_infro_Episode3_Sekoitetun todellisuuden laboratorio_offline_V2_10022020.png"
+                    "poster": "content/posters/VVTT_infro_Episode3_Sekoitetun todellisuuden laboratorio_offline_V2_10022020.png"
                 },
                 {
                     "id": 2,
                     "type": "video",
                     "src": "47EIMTgN45c",
-                    "poster": "sisältö / julisteet / VTT_infro_Episode4_Co-creation space_V2_10022020.png"
+                    "poster": "content/posters/VVTT_infro_Episode4_Co-creation space_V2_10022020.png"
                 }
             ],
             "hotspot": {
@@ -57,25 +57,25 @@
                 "posY": 698
             },
             "relatedInfocardID": [26, 2, 32, 31],
-            "qrhref": "https://www.vttresearch.com/en/research-expertise/automation-and-robotics",
+            "qrhref": "https:\/\/www.vttresearch.com\/en\/research-expertise\/automation-and-robotics",
             "qrsrc": "content/qr/QR.001.png"
         },
         {
             "id": 2,
             "title": "Digitaalinen suunnittelu ja valmistus",
-            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/agile-flexible-manufacturing-and-production-industry' target='_blank'> Digitaalinen suunnittelu ja valmistus</a> mahdollistaa teollisuuden digitalisaation toteuttamisen, kehittämisen ja tutkimuksen Industry 4.0 -kehyksessä. Ratkaisut kattavat virtuaaliset ja digitoidut end-to-end-tuoteprosessit (integroitu suunnittelu, tuotekehitys, tuotanto, elinkaari). Alusta mahdollistaa kehittyneiden räätälöityjen robotti- ja mekatronisten järjestelmien kehittämisen. Se kattaa myös laitteet melua, tärinää ja väsymiskenttiä varten, mukaan lukien virtuaalimallinnus ja kokeelliset toiminnot komponentti- ja järjestelmätasolla. <br><br> Infrastruktuuri ja työkalut:<br> Digitaaliset muutos- ja kypsyysvälineet || <a class='link' href='https://www.vttresearch.com/en/topics/automation-and-robotics' target='_blank'> Robotiikka:</a> Teollinen robotiikka, liikkuvat robotit ja logistiikka, yhteistyörobotit (kobotit) || Etäkäyttö || Validointianturit, laitteet ja laboratoriot || Digitaalisen ketjualustan hyödyntäminen || Ohjelmistot: suunnittelu, analysointi ja valmistus || Tietokonealustan käyttö: HPC-klusteri",
+            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/agile-flexible-manufacturing-and-production-industry' target='_blank'> Digitaalinen suunnittelu ja valmistus<\/a> mahdollistaa teollisuuden digitalisaation toteuttamisen, kehittämisen ja tutkimuksen Industry 4.0 -kehyksessä. Ratkaisut kattavat virtuaaliset ja digitoidut end-to-end-tuoteprosessit (integroitu suunnittelu, tuotekehitys, tuotanto, elinkaari). Alusta mahdollistaa kehittyneiden räätälöityjen robotti- ja mekatronisten järjestelmien kehittämisen. Se kattaa myös laitteet melua, tärinää ja väsymiskenttiä varten, mukaan lukien virtuaalimallinnus ja kokeelliset toiminnot komponentti- ja järjestelmätasolla. <br><br> Infrastruktuuri ja työkalut:<br> Digitaaliset muutos- ja kypsyysvälineet || <a class='link' href='https:\/\/www.vttresearch.com\/en\/topics\/automation-and-robotics' target='_blank'> Robotiikka:<\/a> Teollinen robotiikka, liikkuvat robotit ja logistiikka, yhteistyörobotit (kobotit) || Etäkäyttö || Validointianturit, laitteet ja laboratoriot || Digitaalisen ketjualustan hyödyntäminen || Ohjelmistot: suunnittelu, analysointi ja valmistus || Tietokonealustan käyttö: HPC-klusteri",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "EHRqsOtgzP0",
-                    "poster": "sisältö / julisteet / VTT_infro_Episode2_Robotics laboratorio _offline_V2_10022020.png"
+                    "poster": "content/posters/VVTT_infro_Episode2_Robotics laboratorio _offline_V2_10022020.png"
                 },
                 {
                     "id": 1,
                     "type": "image",
                     "alt": "Yhteistyörobotit",
-                    "src": "sisältö / img / yhteistyö_robotit.jpg"
+                    "src": "sisältö \/ img \/ yhteistyö_robotit.jpg"
                 },
                 {
                     "id": 2,
@@ -97,13 +97,13 @@
         {
             "id": 3,
             "title": "Integroitu laskennallisten materiaalien suunnittelu",
-            "description": "Nykyaikaiset koneet ja rakenteet edellyttävät ketjun yhdistämistä materiaalista suorituskykyyn. <a class='link' href='https://www.vttresearch.com/en/ourservices/computational-material-design-vtt-propertune' target='_blank'> Integroitu laskennallisten materiaalien suunnittelu (ICME)</a> yhdistää materiaalien, prosessien ja komponenttien kokonaisvaltainen mallinnusavustettu suunnittelu materiaalitieteisiin ja tekniikan näkökulmiin. Tuloksena olevaa palvelua kutsutaan nimellä VTT ProperTune®: laskennallinen mallinnusavustettu materiaalisuunnittelu, räätälöinti ja suorituskyvyn arviointimenetelmä sekä ohjelmistoalusta. Se voi jäsentää valtavia määriä tietoa virtuaalisesti mallintaa ja analysoida materiaalikäyttäytymistä komponenttien, mikrorakenteiden ja atomien mittakaavassa. Alustan modulaarisuus tekee siitä sopivan lähes kaikkiin materiaaleihin. <br><br> ICME: tä käytetään optimoimaan monenlaisia materiaaliominaisuuksia, kuten elinikäinen kestävyys, kulumis- ja korroosionkestävyys sekä murtumien ja väsymiskestävyys. VTT ProperTune® -palvelu optimoi materiaalisuunnittelun korvaamalla kalliit, aikaa vievät testaukset ja lyhentämällä uusien tuotteiden markkinoille tuloaikaa keskimäärin 50%.",
+            "description": "Nykyaikaiset koneet ja rakenteet edellyttävät ketjun yhdistämistä materiaalista suorituskykyyn. <a class='link' href='https://www.vttresearch.com/en/ourservices/computational-material-design-vtt-propertune' target='_blank'> Integroitu laskennallisten materiaalien suunnittelu (ICME)<\/a> yhdistää materiaalien, prosessien ja komponenttien kokonaisvaltainen mallinnusavustettu suunnittelu materiaalitieteisiin ja tekniikan näkökulmiin. Tuloksena olevaa palvelua kutsutaan nimellä VTT ProperTune®: laskennallinen mallinnusavustettu materiaalisuunnittelu, räätälöinti ja suorituskyvyn arviointimenetelmä sekä ohjelmistoalusta. Se voi jäsentää valtavia määriä tietoa virtuaalisesti mallintaa ja analysoida materiaalikäyttäytymistä komponenttien, mikrorakenteiden ja atomien mittakaavassa. Alustan modulaarisuus tekee siitä sopivan lähes kaikkiin materiaaleihin. <br><br> ICME: tä käytetään optimoimaan monenlaisia materiaaliominaisuuksia, kuten elinikäinen kestävyys, kulumis- ja korroosionkestävyys sekä murtumien ja väsymiskestävyys. VTT ProperTune® -palvelu optimoi materiaalisuunnittelun korvaamalla kalliit, aikaa vievät testaukset ja lyhentämällä uusien tuotteiden markkinoille tuloaikaa keskimäärin 50%.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "x6fgwwYu9Fk",
-                    "poster": "sisältö / julisteet / VTT_teollisuus4.0_ProperTune_FI (1) .png"
+                    "poster": "content/posters/VVTT_teollisuus4.0_ProperTune_FI (1) .png"
                 }
             ],
             "hotspot": {
@@ -119,7 +119,7 @@
         {
             "id": 4,
             "title": "Materiaalien suorituskyky",
-            "description": "VTT Materials Performance kattaa koko elinkaaren materiaalikehityksestä valmistukseen, käytöstä ja kunnossapidosta ikääntymiseen ja käyttöiän pidentämiseen. Tarkemmin sanottuna se keskittyy hankkimaan tietoa ymmärtämään vika- ja ikääntymismekanismeja, määrittelemään materiaalin suorituskyky, ennustamaan komponenttien ja rakenteiden käyttäytymistä toiminnassa. Tavoitteena on kehittää kestäviä materiaaliratkaisuja pidentämään käyttöikää ja parantamaan toiminnan tehokkuutta. Alusta kattaa materiaalit metallista ja keramiikasta sementtimateriaaleihin ja tarjoaa ratkaisuja monenlaisiin teollisiin tarpeisiin, ydinvoimalaitoksista ja jätteistä, prosesseista ja energiasta, meri- ja offshore-teollisuudesta, ilmailu- ja avaruusteollisuudesta vesirakentamiseen. <br><br> Infrastruktuuri ja työkalut: <br><a class='link' href='https://www.vttresearch.com/en/ourservices/powder-piloting' target='_blank'> Jauheen pilotointi</a> || Metallografia ja mikroskopia || <a class='link' href='https://www.vttresearch.com/en/ourservices/industrial-3d-printing' target='_blank'> Lisäaineiden valmistus</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/lifetime-analysis-systems-and-components' target='_blank'> Infra ja rakenteet</a> || Korroosio ja vesikemia || Tribologia || Tuhoava ja rikkomaton testaus",
+            "description": "VTT Materials Performance kattaa koko elinkaaren materiaalikehityksestä valmistukseen, käytöstä ja kunnossapidosta ikääntymiseen ja käyttöiän pidentämiseen. Tarkemmin sanottuna se keskittyy hankkimaan tietoa ymmärtämään vika- ja ikääntymismekanismeja, määrittelemään materiaalin suorituskyky, ennustamaan komponenttien ja rakenteiden käyttäytymistä toiminnassa. Tavoitteena on kehittää kestäviä materiaaliratkaisuja pidentämään käyttöikää ja parantamaan toiminnan tehokkuutta. Alusta kattaa materiaalit metallista ja keramiikasta sementtimateriaaleihin ja tarjoaa ratkaisuja monenlaisiin teollisiin tarpeisiin, ydinvoimalaitoksista ja jätteistä, prosesseista ja energiasta, meri- ja offshore-teollisuudesta, ilmailu- ja avaruusteollisuudesta vesirakentamiseen. <br><br> Infrastruktuuri ja työkalut: <br><a class='link' href='https://www.vttresearch.com/en/ourservices/powder-piloting' target='_blank'> Jauheen pilotointi<\/a> || Metallografia ja mikroskopia || <a class='link' href='https://www.vttresearch.com/en/ourservices/industrial-3d-printing' target='_blank'> Lisäaineiden valmistus<\/a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/lifetime-analysis-systems-and-components' target='_blank'> Infra ja rakenteet<\/a> || Korroosio ja vesikemia || Tribologia || Tuhoava ja rikkomaton testaus",
             "gallery": [
                 {
                     "id": 0,
@@ -153,19 +153,19 @@
                 "posY": 883
             },
             "relatedInfocardID": [2, 3, 16, 31],
-            "qrhref": "https://www.vttresearch.com/en/industries/manufacturing",
+            "qrhref": "https:\/\/www.vttresearch.com\/en\/industries\/manufacturing",
             "qrsrc": "content/qr/QR.004.png"
         },
         {
             "id": 5,
             "title": "Älykkäät energiajärjestelmät",
-            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/smart-grids-and-energy-systems' target='_blank'> Älykäs energia</a> yhdistää puhtaat, uusiutuvat energialähteet kohti joustavaa ja varmaa toimitusta monimutkaisiin energiatarpeisiimme. Smart Energy Systems -alusta keskittyy energiajärjestelmän eri komponenttien integrointiin sekä erilaisten energian kantajien integrointiin. Se sisältää esimerkiksi: älykkään verkon kehittämisen, sähköverkon hallinnan, uusiutuvien energialähteiden integroinnin, energia- ja ilmastoskenaariot, seuraavan sukupolven kaukolämpöverkot ja energiamarkkinamallit. Alusta integroituu yhä enemmän ICT: n mahdollistavien tekniikoiden (viestintä, tietorakenteet, uudet anturit, esineiden internet, tekoäly jne.) Kanssa uusien ratkaisujen tarjoamiseksi. <br><br> Infrastruktuuri ja työkalut:<br> IntelligentEnergy testbed (Digitaalinen energiatutkimuslaitos, johon on lisätty (reaaliaikaiset) simulointimahdollisuudet) || Energia-asuntolaboratorio uudessa toimistorakennuksessa (latauspylväät, aurinkopaneelit, anturit) || Mallinnus- ja simulointityökalut (kapasiteettiennuste, verkon luotettavuus, energian optimointi, järjestelmien dynamiikka)",
+            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/smart-grids-and-energy-systems' target='_blank'> Älykäs energia<\/a> yhdistää puhtaat, uusiutuvat energialähteet kohti joustavaa ja varmaa toimitusta monimutkaisiin energiatarpeisiimme. Smart Energy Systems -alusta keskittyy energiajärjestelmän eri komponenttien integrointiin sekä erilaisten energian kantajien integrointiin. Se sisältää esimerkiksi: älykkään verkon kehittämisen, sähköverkon hallinnan, uusiutuvien energialähteiden integroinnin, energia- ja ilmastoskenaariot, seuraavan sukupolven kaukolämpöverkot ja energiamarkkinamallit. Alusta integroituu yhä enemmän ICT: n mahdollistavien tekniikoiden (viestintä, tietorakenteet, uudet anturit, esineiden internet, tekoäly jne.) Kanssa uusien ratkaisujen tarjoamiseksi. <br><br> Infrastruktuuri ja työkalut:<br> IntelligentEnergy testbed (Digitaalinen energiatutkimuslaitos, johon on lisätty (reaaliaikaiset) simulointimahdollisuudet) || Energia-asuntolaboratorio uudessa toimistorakennuksessa (latauspylväät, aurinkopaneelit, anturit) || Mallinnus- ja simulointityökalut (kapasiteettiennuste, verkon luotettavuus, energian optimointi, järjestelmien dynamiikka)",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "QoZ9P9E2Bw0",
-                    "poster": "sisältö / julisteet / Smart_Energy_eng.png"
+                    "poster": "content/posters/VSmart_Energy_eng.png"
                 },
                 {
                     "id": 1,
@@ -193,43 +193,43 @@
                 "posY": 1273
             },
             "relatedInfocardID": [6, 0, 8, 12, 19, 30],
-            "qrhref": "https://www.vttresearch.com/en/topics/energy",
+            "qrhref": "https:\/\/www.vttresearch.com\/en\/topics\/energy",
             "qrsrc": "content/qr/QR.005.png"
         },
         {
             "id": 6,
             "title": "Kuljetus- ja kiinteät sähköjärjestelmät",
-            "description": "Alusta tukee teollisuutta ja julkisia toimijoita heidän matkallaan kohti vähäpäästöisiä sähköntuotanto- ja varastointijärjestelmiä. Tavoitteenamme on löytää vähäpäästöisiä ratkaisuja liikenne- ja kiinteisiin järjestelmiin sekä puhtaan ilman ratkaisuja monille teollisuudenaloille. Uusia ratkaisuja ovat akut, polttokennot, vaihtoehtoiset polttoaineet, teho-x- ja hybridijärjestelmät. <br><br> Infrastruktuuri ja työkalut: <br><a class='link' href='https://www.vttresearch.com/en/ourservices/fuel-cells-and-hydrogen' target='_blank'> Polttokennot ja vety</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/battery-technologies' target='_blank'> Sähköajoneuvot ja akkutekniikat</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/engine-and-vehicle-emissions' target='_blank'> Moottorit ja päästöt</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/clean-air-solutions' target='_blank'> Puhtaan ilman t & k-tilat</a> || Simulointi- ja mallinnusominaisuudet || <a class='link' href='https://www.vttresearch.com/en/ourservices/wind-power' target='_blank'> Tuulitunneli</a>",
+            "description": "Alusta tukee teollisuutta ja julkisia toimijoita heidän matkallaan kohti vähäpäästöisiä sähköntuotanto- ja varastointijärjestelmiä. Tavoitteenamme on löytää vähäpäästöisiä ratkaisuja liikenne- ja kiinteisiin järjestelmiin sekä puhtaan ilman ratkaisuja monille teollisuudenaloille. Uusia ratkaisuja ovat akut, polttokennot, vaihtoehtoiset polttoaineet, teho-x- ja hybridijärjestelmät. <br><br> Infrastruktuuri ja työkalut: <br><a class='link' href='https://www.vttresearch.com/en/ourservices/fuel-cells-and-hydrogen' target='_blank'> Polttokennot ja vety<\/a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/battery-technologies' target='_blank'> Sähköajoneuvot ja akkutekniikat<\/a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/engine-and-vehicle-emissions' target='_blank'> Moottorit ja päästöt<\/a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/clean-air-solutions' target='_blank'> Puhtaan ilman t & k-tilat<\/a> || Simulointi- ja mallinnusominaisuudet || <a class='link' href='https://www.vttresearch.com/en/ourservices/wind-power' target='_blank'> Tuulitunneli<\/a>",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "-ACiigVHfFo",
-                    "poster": "sisältö / julisteet / VTT_Infra_EP19_Puhdasilma_ONLINE_subs.png"
+                    "poster": "content/posters/VVTT_Infra_EP19_Puhdasilma_ONLINE_subs.png"
                 },
                 {
                     "id": 1,
                     "type": "video",
                     "src": "yiKxj5eCK08",
-                    "poster": "sisältö / julisteet / VTT_infro_Episode15_Fuell Cells and Hydrogen_online_subs_18032020.png"
+                    "poster": "content/posters/VVTT_infro_Episode15_Fuell Cells and Hydrogen_online_subs_18032020.png"
                 },
                 {
                     "id": 2,
                     "type": "video",
                     "src": "laPjbVujBKM",
-                    "poster": "sisältö / julisteet / VTT_infro_Episode17_Electric_Vehicles_and_Battery_Technologies_online_subs_31032020.png"
+                    "poster": "content/posters/VVTT_infro_Episode17_Electric_Vehicles_and_Battery_Technologies_online_subs_31032020.png"
                 },
                 {
                     "id": 3,
                     "type": "video",
                     "src": "LpGqG0X5sQo",
-                    "poster": "sisältö / julisteet / VTT_infro_Episode17_Electric_Vehicles_and_Battery_Technologies_online_subs_31032020.png"
+                    "poster": "content/posters/VVTT_infro_Episode17_Electric_Vehicles_and_Battery_Technologies_online_subs_31032020.png"
                 },
                 {
                     "id": 4,
                     "type": "video",
                     "src": "k8aZVbYb-VY",
-                    "poster": "sisältö / julisteet / VTT_infro_Episode17_Electric_Vehicles_and_Battery_Technologies_online_subs_31032020.png"
+                    "poster": "content/posters/VVTT_infro_Episode17_Electric_Vehicles_and_Battery_Technologies_online_subs_31032020.png"
                 }
             ],
             "hotspot": {
@@ -239,19 +239,19 @@
                 "posY": 1063
             },
             "relatedInfocardID": [5, 8, 7, 16],
-            "qrhref": "https://www.vttresearch.com/fi/ourservices/electric-vehicles-and-vehicles-systems",
+            "qrhref": "https:\/\/www.vttresearch.com\/fi\/ourservices\/electric-vehicles-and-vehicles-systems",
             "qrsrc": "content/qr/QR.006.png"
         },
         {
             "id": 7,
             "title": "Merillinen",
-            "description": "Merenkulkualalla uudet innovaatiot uusille megatrendeille edellyttävät tutkimusta, jota tukevat erinomaiset teknologia-alustat. Uusia ratkaisuja puhtaaseen ja turvalliseen liikenteeseen ovat päästöttömät alukset, autonomiset alukset, arktinen tekniikka ja puhtaan energian ratkaisut, eli täysin uudet laivakonseptit. <br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/smart-ships-and-maritime-technology' target='_blank'> Meriteknologia-alusta</a> mahdollistaa tutkimuspalvelut vahvan kokeellisen ja teoreettisen infrastruktuurin avulla. Nämä palvelut varmistavat, että uudet tekniikat ja järjestelmät voidaan toteuttaa todellisissa alushankkeissa. <br><br> Alusta koostuu mallialustasta, numeerisista menetelmistä ja testauslaitteista täysimittaiseen kenttätutkimukseen. Kaikki nämä luovat yhtenäisen alustan TKI: een sekä todentamiseen ja validointiin hydrodynaamisesta ja rakenteellisesta suunnittelusta erilaisiin itsenäisiin järjestelmiin.",
+            "description": "Merenkulkualalla uudet innovaatiot uusille megatrendeille edellyttävät tutkimusta, jota tukevat erinomaiset teknologia-alustat. Uusia ratkaisuja puhtaaseen ja turvalliseen liikenteeseen ovat päästöttömät alukset, autonomiset alukset, arktinen tekniikka ja puhtaan energian ratkaisut, eli täysin uudet laivakonseptit. <br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/smart-ships-and-maritime-technology' target='_blank'> Meriteknologia-alusta<\/a> mahdollistaa tutkimuspalvelut vahvan kokeellisen ja teoreettisen infrastruktuurin avulla. Nämä palvelut varmistavat, että uudet tekniikat ja järjestelmät voidaan toteuttaa todellisissa alushankkeissa. <br><br> Alusta koostuu mallialustasta, numeerisista menetelmistä ja testauslaitteista täysimittaiseen kenttätutkimukseen. Kaikki nämä luovat yhtenäisen alustan TKI: een sekä todentamiseen ja validointiin hydrodynaamisesta ja rakenteellisesta suunnittelusta erilaisiin itsenäisiin järjestelmiin.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "kqGuQfPV2AM",
-                    "poster": "sisältö / julisteet / VTT_infra_Eps1_marine_tech_online_subs.png"
+                    "poster": "content/posters/VVTT_infra_Eps1_marine_tech_online_subs.png"
                 }
             ],
             "hotspot": {
@@ -267,37 +267,37 @@
         {
             "id": 8,
             "title": "Liikenteen ja logistiikan autonomiset järjestelmät",
-            "description": "|||UNTRANSLATED_CONTENT_START|||<a class='link' href='https://www.vttresearch.com/en/ourservices/smart-mobility-services-and-automated-driving' target='_blank'>Autonomous Systems for Transport and Logistics</a> platform offers tools, equipment and facilities to study and develop automated and tele-operated solutions for different vehicle platforms. |||UNTRANSLATED_CONTENT_END|||Alusta tukee ympäristön havainnointiantureiden tietojen keräämistä sekä liitettävyyttä ja erilaisten automatisoitujen ajo-ominaisuuksien testaamista. Erikoisuutemme on tukea automaattisen ajamisen tutkimusta ankarissa olosuhteissa (sumu, sade, lumi, jää). Alusta tarjoaa ajoneuvoja, antureita, ohjelmistoja ja liitettävyyttä VTT: n tiloissa.",
+            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/smart-mobility-services-and-automated-driving' target='_blank'> Liikenteen ja logistiikan autonomiset järjestelmät<\/a> platform tarjoaa työkaluja, laitteita ja tiloja automaattisten ja teleohjattujen ratkaisujen tutkimiseen ja kehittämiseen erilaisille ajoneuvolavoille. Alusta tukee ympäristön havainnointiantureiden tietojen keräämistä sekä liitettävyyttä ja erilaisten automatisoitujen ajo-ominaisuuksien testaamista. Erikoisuutemme on tukea automaattisen ajamisen tutkimusta ankarissa olosuhteissa (sumu, sade, lumi, jää). Alusta tarjoaa ajoneuvoja, antureita, ohjelmistoja ja liitettävyyttä VTT: n tiloissa.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "HD5gNYFgi8E",
-                    "poster": "sisältö / julisteet / Dense_finaali6_offline_26032020.png"
+                    "poster": "content/posters/VDense_finaali6_offline_26032020.png"
                 },
                 {
                     "id": 1,
                     "type": "video",
                     "src": "AWwLLQ4p8Lc",
-                    "poster": "sisältö / julisteet / Elviira 5G.png"
+                    "poster": "content/posters/VElviira 5G.png"
                 },
                 {
                     "id": 2,
                     "type": "video",
                     "src": "1JepaAERGzw",
-                    "poster": "sisältö / julisteet / VTT_5G_driving_offline_20032020.png"
+                    "poster": "content/posters/VVTT_5G_driving_offline_20032020.png"
                 },
                 {
                     "id": 3,
                     "type": "video",
                     "src": "R_warjk6vuw",
-                    "poster": "sisältö / julisteet / VTT_5G_driving_offline_20032020.png"
+                    "poster": "content/posters/VVTT_5G_driving_offline_20032020.png"
                 },
                 {
                     "id": 4,
                     "type": "video",
                     "src": "BhNWPhBqK54",
-                    "poster": "sisältö / julisteet / VTT_5G_driving_offline_20032020.png"
+                    "poster": "content/posters/VVTT_5G_driving_offline_20032020.png"
                 },
                 {
                     "id": 5,                    
@@ -313,7 +313,7 @@
                 "posY": 964
             },
             "relatedInfocardID": [5, 7, 26, 30, 20, 1, 31],
-            "qrhref": "https://www.vttresearch.com/en/topics/transportation",
+            "qrhref": "https:\/\/www.vttresearch.com\/en\/topics\/transportation",
             "qrsrc": "content/qr/QR.008.png"
         },
         {
@@ -343,13 +343,13 @@
                     "id": 3,
                     "type": "video",
                     "src": "VYuy4mPcoug",
-                    "poster": "sisältö / julisteet / Silicon_Photonics.jpg"
+                    "poster": "content/posters/VSilicon_Photonics.jpg"
                 },
                 {
                     "id": 4,
                     "type": "video",
                     "src": "VYuy4mPcoug",
-                    "poster": "sisältö / julisteet / VTT-Memsfab-2019_Video.jpg"
+                    "poster": "content/posters/VVTT-Memsfab-2019_Video.jpg"
                 }
             ],
             "hotspot": {
@@ -359,19 +359,19 @@
                 "posY": 1885
             },
             "relatedInfocardID": [20, 18, 46, 35, 34, 44, 8, 21, 15, 34, 48],
-            "qrhref": "https://www.vttresearch.com/en",
-            "qrsrc": "content / qr / qr_code.png"
+            "qrhref": "https:\/\/www.vttresearch.com\/en",
+            "qrsrc": "content \/ qr \/ qr_code.png"
         },
         {
             "id": 10,
             "title": "Jäljitettävyys",
-            "description": "Biotekninen vallankumous muuttaa nopeasti teollisia prosesseja ja muuttaa kuluttajien jokapäiväistä elämää. <a class='link' href='https://www.vttresearch.com/en/topics/biotechnology' target='_blank'> Biotekniikka häiritsee tapaa tuottaa raaka-aineita erilaisille tavaroille.</a> Luomme solutehtaita, jotka tuottavat esimerkiksi haluttua solubiomassaa, kemikaaleja ja proteiineja entsyymi-, elintarvike- ja farmaseuttisiin sovelluksiin. Huipputason tutkimus- ja pilotointilaitoksemme mahdollistavat organismien tehokkaan geneettisen koodin suunnittelun, uusien ja tehokkaiden tuotanto-isäntien kehittämisen ja tuotantoympäristöjen skaalaamisen.",
+            "description": "Biotekninen vallankumous muuttaa nopeasti teollisia prosesseja ja muuttaa kuluttajien jokapäiväistä elämää. <a class='link' href='https:\/\/www.vttresearch.com\/en\/topics\/biotechnology' target='_blank'> Biotekniikka häiritsee tapaa tuottaa raaka-aineita erilaisille tavaroille.<\/a> Luomme solutehtaita, jotka tuottavat esimerkiksi haluttua solubiomassaa, kemikaaleja ja proteiineja entsyymi-, elintarvike- ja farmaseuttisiin sovelluksiin. Huipputason tutkimus- ja pilotointilaitoksemme mahdollistavat organismien tehokkaan geneettisen koodin suunnittelun, uusien ja tehokkaiden tuotanto-isäntien kehittämisen ja tuotantoympäristöjen skaalaamisen.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "Lmf84KkACHI",
-                    "poster": "sisältö / julisteet / VTT_eps20_industrial_biotechnology_online_subs_31032020.png"
+                    "poster": "content/posters/VVTT_eps20_industrial_biotechnology_online_subs_31032020.png"
                 }
             ],
             "hotspot": {
@@ -387,19 +387,19 @@
         {
             "id": 11,
             "title": "Ruoka- ja juomatekniikat",
-            "description": "Tutkimme ja kehitämme kestäviä ruokajärjestelmiä ja <a class='link' href='https://www.vttresearch.com/en/ourservices/food-and-beverage-solutions' target='_blank'> räätälöidyt ruoka- ja juomaratkaisut,</a> keskittyen yksilön hyvinvoinnin tukemiseen. T & K-palvelumme keskittyvät innovaatioihin, jotka mahdollistavat kasvi- ja sivuvirran käytön elintarvikemateriaaleina. <a class='link' href='https://www.vttresearch.com/en/topics/biotechnology' target='_blank'> Biotekniikka</a> mahdollistaa elintarvike- ja juomaprosessien uudistamisen ja parantamisen sekä siirtymisen soluviljelyyn eli ruokatuotantoon ilman peltoja tai eläimiä. Asiantuntemuksemme sisältää myös fermentoitujen juomien kehittämisen: erityisen korkealaatuiset, vähän alkoholia sisältävät oluet. Meillä on tutkimus- ja kehitystilat laboratoriosta pilottimittakaavaan, mukaan lukien kattavat analyyttiset alustat.",
+            "description": "Tutkimme ja kehitämme kestäviä ruokajärjestelmiä ja <a class='link' href='https://www.vttresearch.com/en/ourservices/food-and-beverage-solutions' target='_blank'> räätälöidyt ruoka- ja juomaratkaisut,<\/a> keskittyen yksilön hyvinvoinnin tukemiseen. T & K-palvelumme keskittyvät innovaatioihin, jotka mahdollistavat kasvi- ja sivuvirran käytön elintarvikemateriaaleina. <a class='link' href='https:\/\/www.vttresearch.com\/en\/topics\/biotechnology' target='_blank'> Biotekniikka<\/a> mahdollistaa elintarvike- ja juomaprosessien uudistamisen ja parantamisen sekä siirtymisen soluviljelyyn eli ruokatuotantoon ilman peltoja tai eläimiä. Asiantuntemuksemme sisältää myös fermentoitujen juomien kehittämisen: erityisen korkealaatuiset, vähän alkoholia sisältävät oluet. Meillä on tutkimus- ja kehitystilat laboratoriosta pilottimittakaavaan, mukaan lukien kattavat analyyttiset alustat.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "m9rrE3QGFPc",
-                    "poster": "sisältö / julisteet / VTT_eps14_food_technology_online_sub_02042020.png"
+                    "poster": "content/posters/VVTT_eps14_food_technology_online_sub_02042020.png"
                 },
                 {
                     "id": 1,
                     "type": "video",
                     "src": "dmPcvgMNVGI",
-                    "poster": "sisältö / julisteet / VTT_eps21_brewery_online_subs_13032020.png"
+                    "poster": "content/posters/VVTT_eps21_brewery_online_subs_13032020.png"
                 }
             ],
             "hotspot": {
@@ -409,25 +409,25 @@
                 "posY": 1488
             },
             "relatedInfocardID": [10],
-            "qrhref": "https://www.vttresearch.com/fi/ourservices/food-and-beverage-solutions",
+            "qrhref": "https:\/\/www.vttresearch.com\/fi\/ourservices\/food-and-beverage-solutions",
             "qrsrc": "content/qr/QR.011.png"
         },
         {
             "id": 12,
             "title": "Biomassan käsittely",
-            "description": "<a class='link' href=' https://www.vttresearch.com/en/ourservices/biomass-processing' target='_blank'> Biopohjaisten raaka-aineiden käsittely</a> ja erilaiset sivuvirrat arvokkaiksi tuotteiksi ovat kiertotalouden ydin. Fossiilipohjaisten raaka-aineiden käytön vähentäminen voi auttaa hidastamaan ilmastonmuutosta. Luomme uusia kuitutuotteita, tekstiilejä, muovimaisia tuotteita, biokemikaaleja ja muita komponentteja monenlaisiin teollisiin prosesseihin. Monipuolinen tutkimusinfrastruktuurimme sisältää biopohjaisten kemikaalien biomassan esikäsittelyn ja selluloosan, hemiselluloosan ja ligniinipohjaisten tuotteiden fraktioinnin.",
+            "description": "<a class='link' href=' https://www.vttresearch.com/en/ourservices/biomass-processing' target='_blank'> Biopohjaisten raaka-aineiden käsittely<\/a> ja erilaiset sivuvirrat arvokkaiksi tuotteiksi ovat kiertotalouden ydin. Fossiilipohjaisten raaka-aineiden käytön vähentäminen voi auttaa hidastamaan ilmastonmuutosta. Luomme uusia kuitutuotteita, tekstiilejä, muovimaisia tuotteita, biokemikaaleja ja muita komponentteja monenlaisiin teollisiin prosesseihin. Monipuolinen tutkimusinfrastruktuurimme sisältää biopohjaisten kemikaalien biomassan esikäsittelyn ja selluloosan, hemiselluloosan ja ligniinipohjaisten tuotteiden fraktioinnin.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "GQqp65ML4Ag",
-                    "poster": "sisältö / julisteet / 1_VTT_Smart_Bioworld_video_ENG_v05r02 (1) .png"
+                    "poster": "content/posters/V1_VTT_Smart_Bioworld_video_ENG_v05r02 (1) .png"
                 },
                 {
                     "id": 1,
                     "type": "video",
                     "src": "86Akt5wjhvA",
-                    "poster": "content / julisteet / 2_films_and_coating_online_subs_31032020.png"
+                    "poster": "content \/ julisteet \/ 2_films_and_coating_online_subs_31032020.png"
                 }
             ],
             "hotspot": {
@@ -443,28 +443,40 @@
         {
             "id": 13,
             "title": "Kuitu- ja komposiittitekniikka",
-            "description": "Kestävien ja uusiutuvien materiaalien kysyntä kasvaa. Luomme kiertotaloudelle elinkelpoisia uusia biopohjaisia materiaaleja ja menetelmiä niiden tehokkaampaan valmistamiseen. <br><br> Tutkimme vaihtoehtoja fossiilisille muoveille ja kehitämme <a class='link' href='https://www.vttresearch.com/en/ourservices/thermoplastic-composites' target='_blank'> biopohjaiset komposiitit</a> jotka yhdistävät luonnonkuitujen ja kestomuovimateriaalien ominaisuudet luodakseen uusia materiaaleja sovelluksiin, mukaan lukien pakkaus, huonekalut ja rakentaminen. Käytämme myös <a class='link' href='https://www.vttresearch.com/en/ourservices/foam-forming-platform' target='_blank'> vaahtomuovaus</a> tekniikka luoda kierrätettäviä ja kestäviä materiaaleja, joita voidaan käyttää esimerkiksi pakkaamiseen ja rakentamiseen, kevyisiin levyihin, pyyhkeisiin, suodattimiin ja hygieniatuotteisiin. Vaahdonmuodostustekniikka laajentaa raaka-ainevalikoimaa ja mahdollistaa uusien, lisäarvoa tuottavien rakenteiden tuotannon. Ainutlaatuinen infrastruktuurimme sisältää useita pilotointiominaisuuksia näille tekniikoille.",
+            "description": "Kestävien ja uusiutuvien materiaalien kysyntä kasvaa. Luomme kiertotaloudelle elinkelpoisia uusia biopohjaisia materiaaleja ja menetelmiä niiden tehokkaampaan valmistamiseen. <br><br> Tutkimme vaihtoehtoja fossiilisille muoveille ja kehitämme <a class='link' href='https://www.vttresearch.com/en/ourservices/thermoplastic-composites' target='_blank'> biopohjaiset komposiitit<\/a> jotka yhdistävät luonnonkuitujen ja kestomuovimateriaalien ominaisuudet luodakseen uusia materiaaleja sovelluksiin, mukaan lukien pakkaus, huonekalut ja rakentaminen. Käytämme myös <a class='link' href='https://www.vttresearch.com/en/ourservices/foam-forming-platform' target='_blank'> vaahtomuovaus<\/a> tekniikka luoda kierrätettäviä ja kestäviä materiaaleja, joita voidaan käyttää esimerkiksi pakkaamiseen ja rakentamiseen, kevyisiin levyihin, pyyhkeisiin, suodattimiin ja hygieniatuotteisiin. Vaahdonmuodostustekniikka laajentaa raaka-ainevalikoimaa ja mahdollistaa uusien, lisäarvoa tuottavien rakenteiden tuotannon. Ainutlaatuinen infrastruktuurimme sisältää useita pilotointiominaisuuksia näille tekniikoille.",
             "gallery": [
                 {
                     "id": 0,
+                    "type": "video",
+                    "src": "Ubed1-d7u7s",
+                    "poster": "content \/ julisteet \/ 2_films_and_coating_online_subs_31032020.png"
+                },
+                {
+                    "id": 1,
+                    "type": "video",
+                    "src": "EvnvQvWGsEU",
+                    "poster": "content \/ julisteet \/ 2_films_and_coating_online_subs_31032020.png"
+                },
+                {
+                    "id": 2,
                     "type": "image",
                     "alt": "Biokomposiittikalvopuristus",
                     "src": "content/img/biocomposite_film_extrusion.jpg"
                 },
                 {
-                    "id": 1,
+                    "id": 3,
                     "type": "image",
                     "alt": "Sampo",
                     "src": "content/img/sampo.jpg"
                 },
                 {
-                    "id": 2,
+                    "id": 4,
                     "type": "image",
                     "alt": "Suora-vaahtomuovausalusta",
                     "src": "content/img/suora_foam_forming_platform.jpg"
                 },
                 {
-                    "id": 3,
+                    "id": 5,
                     "type": "image",
                     "alt": "Tandem-suulakepuristuslinja",
                     "src": "content/img/tandem_extrusion_line.jpg"
@@ -483,13 +495,13 @@
         {
             "id": 14,
             "title": "Kestävä kemia",
-            "description": "VTT: t <a class='link' href='https://www.vttresearch.com/en/ourservices/biotechnical-and-chemical-process-development' target='_blank'> Kestävä kemia</a> foorumi auttaa asiakkaita kehittämään, laajentamaan ja esittelemään teollisesti kannattavia, skaalautuvia ja ympäristöystävällisiä prosessiratkaisuja. Parannamme kemianteollisuuden, öljy- ja biojalostamojen sekä polymeeri- ja pakkausteollisuuden kilpailukykyä. Tuemme heitä kestävän arvon luomisessa monimutkaisista syötteistä, kuten <a class='link' href='https://www.vttresearch.com/en/ourservices/carbon-capture-and-utilisation-or-storage-ccu-and-ccs' target='_blank'> CO2</a> , <a class='link' href='https://www.vttresearch.com/en/ourservices/biochemicals' target='_blank'> biomassat</a> ja jätteet luomalla kemiallisten yksiköiden toimintoja, jotka mahdollistavat kiertämisen yhteiskunnalle ja aiheuttavat häiritsevää teollista uudistumista. <br><br> Huipputason esittely- ja pilottilaitoksissamme on testialustat katalyyttien kehittämiseen, kemialliseen ja polymeerisynteesiin sekä erotustekniikat erityisesti vedenpuhdistukseen ja CO2-talteenottoon. VTT: n monialainen asiantuntemus sisältää kemialliset konversioteknologiat, jatkokäsittelyn, prosessimallinnuksen ja teknoekonomisen arvioinnin innovaatioiden tukemiseksi laboratoriosta pilottimittakaavaan.",
+            "description": "VTT: t <a class='link' href='https://www.vttresearch.com/en/ourservices/biotechnical-and-chemical-process-development' target='_blank'> Kestävä kemia<\/a> foorumi auttaa asiakkaita kehittämään, laajentamaan ja esittelemään teollisesti kannattavia, skaalautuvia ja ympäristöystävällisiä prosessiratkaisuja. Parannamme kemianteollisuuden, öljy- ja biojalostamojen sekä polymeeri- ja pakkausteollisuuden kilpailukykyä. Tuemme heitä kestävän arvon luomisessa monimutkaisista syötteistä, kuten <a class='link' href='https://www.vttresearch.com/en/ourservices/carbon-capture-and-utilisation-or-storage-ccu-and-ccs' target='_blank'> CO2<\/a> , <a class='link' href='https://www.vttresearch.com/en/ourservices/biochemicals' target='_blank'> biomassat<\/a> ja jätteet luomalla kemiallisten yksiköiden toimintoja, jotka mahdollistavat kiertämisen yhteiskunnalle ja aiheuttavat häiritsevää teollista uudistumista. <br><br> Huipputason esittely- ja pilottilaitoksissamme on testialustat katalyyttien kehittämiseen, kemialliseen ja polymeerisynteesiin sekä erotustekniikat erityisesti vedenpuhdistukseen ja CO2-talteenottoon. VTT: n monialainen asiantuntemus sisältää kemialliset konversioteknologiat, jatkokäsittelyn, prosessimallinnuksen ja teknoekonomisen arvioinnin innovaatioiden tukemiseksi laboratoriosta pilottimittakaavaan.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "h2cbsijTqTc",
-                    "poster": "content / julisteet / 2_films_and_coating_online_subs_31032020.png"
+                    "poster": "content \/ julisteet \/ 2_films_and_coating_online_subs_31032020.png"
                 },
                 {
                     "id": 1,
@@ -529,13 +541,13 @@
         {
             "id": 15,
             "title": "Lämpökemia",
-            "description": "Meidän <a class='link' href='https://www.vttresearch.com/en/ourservices/thermochemical-conversion' target='_blank'> termokemiallinen konversio</a> pilottifoorumi tukee teollisuutta jätteiden ja biomassan muuttamisessa kestäviksi materiaaleiksi: uusiksi polttoaineiksi, kemikaaleiksi ja muoveiksi. Ainutlaatuiset kaasutus- ja pyrolyysiluotsausalustamme tukevat jäte- ja biopohjaisia innovaatioita laboratoriosta pilottimittakaavaan. Kaasutuspilottimme muuttaa jäte- ja jäännösvirrat tuotekaasuksi ja uuden kaasunpuhdistuksen kautta edelleen erittäin puhdistetuksi synteesikaasuksi. Synteesikaasu muutetaan uusiutuvaksi polttoaineeksi tai kemikaaleiksi mobiilisynteesiyksikössämme. Pyrolyysimme muuntaa haastavat jätevirrat pyrolyysinesteiksi korvaamaan fossiilisia polttoaineita ja kemikaaleja. Yhdistämme lämpökemiallisen muuntamisen, katalyysin, prosessikehityksen ja teknoekonomisen arvioinnin asiantuntemuksen tukeakseen asiakkaita innovaatioiden kaupallistamisessa.",
+            "description": "Meidän <a class='link' href='https://www.vttresearch.com/en/ourservices/thermochemical-conversion' target='_blank'> termokemiallinen konversio<\/a> pilottifoorumi tukee teollisuutta jätteiden ja biomassan muuttamisessa kestäviksi materiaaleiksi: uusiksi polttoaineiksi, kemikaaleiksi ja muoveiksi. Ainutlaatuiset kaasutus- ja pyrolyysiluotsausalustamme tukevat jäte- ja biopohjaisia innovaatioita laboratoriosta pilottimittakaavaan. Kaasutuspilottimme muuttaa jäte- ja jäännösvirrat tuotekaasuksi ja uuden kaasunpuhdistuksen kautta edelleen erittäin puhdistetuksi synteesikaasuksi. Synteesikaasu muutetaan uusiutuvaksi polttoaineeksi tai kemikaaleiksi mobiilisynteesiyksikössämme. Pyrolyysimme muuntaa haastavat jätevirrat pyrolyysinesteiksi korvaamaan fossiilisia polttoaineita ja kemikaaleja. Yhdistämme lämpökemiallisen muuntamisen, katalyysin, prosessikehityksen ja teknoekonomisen arvioinnin asiantuntemuksen tukeakseen asiakkaita innovaatioiden kaupallistamisessa.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "ZePj33Nfo_s",
-                    "poster": "content / julisteet / 2_films_and_coating_online_subs_31032020.png"
+                    "poster": "content \/ julisteet \/ 2_films_and_coating_online_subs_31032020.png"
                 },
                 {
                     "id": 1,
@@ -569,13 +581,13 @@
         {
             "id": 16,
             "title": "Hydrometallurgia",
-            "description": "Autamme saamaan lisäarvoa planeetan arvokkaista resursseista, <a class='link' href='https://www.vttresearch.com/en/ourservices/hydrometallurgy' target='_blank'> hydrometallurgia</a> käyttää vesipitoista kemiaa metallien talteenottamiseksi malmista, rikasteista ja kierrätetyistä tai jäännösmateriaaleista. VTT tarjoaa asiantuntemusta metallien talteenoton mekaanisessa käsittelyssä, hydro- ja biohydrometallurgiassa. Laitteistoihimme kuuluvat reaktorit liuotukseen ja saostamiseen, jatkuva liuotinuutto-sekoitin-laskeutumislaitteet ja bioreaktorit. VTT: n liikkuvaa pilottijärjestelmää voidaan käyttää eräkokeisiin ja jatkuvaan penkkikoulutukseen. Maailmanluokan palveluihimme kuuluvat yhteinen Circular Raw Materials Hub -laboratorio ja Bioruukki-pilottikeskus.",
+            "description": "Autamme saamaan lisäarvoa planeetan arvokkaista resursseista, <a class='link' href='https://www.vttresearch.com/en/ourservices/hydrometallurgy' target='_blank'> hydrometallurgia<\/a> käyttää vesipitoista kemiaa metallien talteenottamiseksi malmista, rikasteista ja kierrätetyistä tai jäännösmateriaaleista. VTT tarjoaa asiantuntemusta metallien talteenoton mekaanisessa käsittelyssä, hydro- ja biohydrometallurgiassa. Laitteistoihimme kuuluvat reaktorit liuotukseen ja saostamiseen, jatkuva liuotinuutto-sekoitin-laskeutumislaitteet ja bioreaktorit. VTT: n liikkuvaa pilottijärjestelmää voidaan käyttää eräkokeisiin ja jatkuvaan penkkikoulutukseen. Maailmanluokan palveluihimme kuuluvat yhteinen Circular Raw Materials Hub -laboratorio ja Bioruukki-pilottikeskus.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "PsHWaNihbSM",
-                    "poster": "content / julisteet / 2_films_and_coating_online_subs_31032020.png"
+                    "poster": "content \/ julisteet \/ 2_films_and_coating_online_subs_31032020.png"
                 },
                 {
                     "id": 1,
@@ -603,19 +615,19 @@
                 "posY": 1120
             },
             "relatedInfocardID": [6, 15, 19],
-            "qrhref": "https://www.vttresearch.com/fi/ourservices/metals-and-minerals-recovery",
+            "qrhref": "https:\/\/www.vttresearch.com\/fi\/ourservices\/metals-and-minerals-recovery",
             "qrsrc": "content/qr/QR.016.png"
         },
         {
             "id": 17,
             "title": "Tekoälyyn perustuva prosessikehitys",
-            "description": "Digitalisaatio ja tekoäly nopeuttavat prosessiteknologian kehitystä. <a class='link' href='https://www.vttresearch.com/en/ourservices/ai-industry' target='_blank'> Tekoälyn hyödyntäminen</a> ja digitaaliset kaksoset auttavat vähentämään prosessien ja tuotekehitykseen käytettyjä riskejä, aikaa ja rahaa. Uusi <a class='link' href='https://www.vttresearch.com/en/ourservices/process-piloting-and-scale' target='_blank'> prosesseja voidaan suurentaa</a> prosessisuunnittelun ja toteutettavuustutkimusten, laskennallisten nesteiden dynaamisten arviointien sekä hybridisimulaation ja -mallinnuksen avulla. Tuotteista ja prosesseista tulee kaupallisesti kannattavia nopeammin kuin koskaan ennen. Myös tie kokonaan uusiin ratkaisuihin avautuu tietoisemmilla ja automatisoiduilla tutkimusprosesseilla.",
+            "description": "Digitalisaatio ja tekoäly nopeuttavat prosessiteknologian kehitystä. <a class='link' href='https://www.vttresearch.com/en/ourservices/ai-industry' target='_blank'> Tekoälyn hyödyntäminen<\/a> ja digitaaliset kaksoset auttavat vähentämään prosessien ja tuotekehitykseen käytettyjä riskejä, aikaa ja rahaa. Uusi <a class='link' href='https://www.vttresearch.com/en/ourservices/process-piloting-and-scale' target='_blank'> prosesseja voidaan suurentaa<\/a> prosessisuunnittelun ja toteutettavuustutkimusten, laskennallisten nesteiden dynaamisten arviointien sekä hybridisimulaation ja -mallinnuksen avulla. Tuotteista ja prosesseista tulee kaupallisesti kannattavia nopeammin kuin koskaan ennen. Myös tie kokonaan uusiin ratkaisuihin avautuu tietoisemmilla ja automatisoiduilla tutkimusprosesseilla.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "UR5RqqartAQ",
-                    "poster": "content / julisteet / 2_films_and_coating_online_subs_31032020.png"
+                    "poster": "content \/ julisteet \/ 2_films_and_coating_online_subs_31032020.png"
                 },
                 {
                     "id": 1,
@@ -631,13 +643,13 @@
                 "posY": 1218
             },
             "relatedInfocardID": [14, 15, 12, 19],
-            "qrhref": "https://www.vttresearch.com/en",
+            "qrhref": "https:\/\/www.vttresearch.com\/en",
             "qrsrc": ""
         },
         {
             "id": 18,
             "title": "Polymeerien kehittäminen, käsittely ja kierrätys",
-            "description": "Muovien materiaaliosaamisen ja käyttöiän parantaminen on haaste, jonka VTT: llä olemme ottaneet eteenpäin. Käyttämällä kemiantekniikan asiantuntemustamme kehitämme kestomuovien käsittely- ja kierrätysteknologioita. Tämä tukee tuotteiden uudelleenkäyttöä ja uusintaliiketoimintamalleja. VTT kehittää korkean suorituskyvyn, kestäviä materiaaleja ja menetelmiä polymeerien molekyylirakenteen korjaamiseksi säilyttääkseen suorituskyvyn ja mahdollistamaan kierrätettävyyden. Meillä on <a class='link' href='https://www.vttresearch.com/en/ourservices/thermoplastic-composites' target='_blank'> kestomuoviseos</a> kapasiteetti <a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-bioruukki-pilot-centre' target='_blank'> T & K- ja pilottituotanto</a> . Termoplastisen muuntamisen osaamisemme sisältää mm. Kalvon ja vaahdon suulakepuristuksen sekä ruiskupuristuksen.",
+            "description": "Muovien materiaaliosaamisen ja käyttöiän parantaminen on haaste, jonka VTT: llä olemme ottaneet eteenpäin. Käyttämällä kemiantekniikan asiantuntemustamme kehitämme kestomuovien käsittely- ja kierrätysteknologioita. Tämä tukee tuotteiden uudelleenkäyttöä ja uusintaliiketoimintamalleja. VTT kehittää korkean suorituskyvyn, kestäviä materiaaleja ja menetelmiä polymeerien molekyylirakenteen korjaamiseksi säilyttääkseen suorituskyvyn ja mahdollistamaan kierrätettävyyden. Meillä on <a class='link' href='https://www.vttresearch.com/en/ourservices/thermoplastic-composites' target='_blank'> kestomuoviseos<\/a> kapasiteetti <a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-bioruukki-pilot-centre' target='_blank'> T & K- ja pilottituotanto<\/a> . Termoplastisen muuntamisen osaamisemme sisältää mm. Kalvon ja vaahdon suulakepuristuksen sekä ruiskupuristuksen.",
             "gallery": [
                 {
                     "id": 0,
@@ -671,13 +683,13 @@
         {
             "id": 19,
             "title": "VTT Bioruukki",
-            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-bioruukki-pilot-centre' target='_blank'> VTT Bioruukki</a> on uusien biopohjaisten tuotteiden ja kiertotalousratkaisujen pilotointikeskus, jolla on ainutlaatuinen asiantuntemus, mallinnus ja pilotointikyky yhden katon alla. Laboratorio- ja pilottilaitoksissamme kaikenkokoiset asiakkaat voivat kehittää ja laajentaa bio- tai jätepohjaisia ratkaisuja ja prosesseja ja siten nopeuttaa tuote- ja prosessi-innovaatioita. Bioruukki on ainutlaatuinen yhdistelmä pilottimittaisia prosessikehitysyksiköitä, monikäyttöisiä reaktoreita, jotka on integroitu jatkokäsittely-yksiköihin, asiantuntijoita ja tuotekehityspalveluita lämpökemialliseen muuntamiseen, biomassan käsittelyyn, kestävään kemiaan ja metallien talteenottoon.",
+            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-bioruukki-pilot-centre' target='_blank'> VTT Bioruukki<\/a> on uusien biopohjaisten tuotteiden ja kiertotalousratkaisujen pilotointikeskus, jolla on ainutlaatuinen asiantuntemus, mallinnus ja pilotointikyky yhden katon alla. Laboratorio- ja pilottilaitoksissamme kaikenkokoiset asiakkaat voivat kehittää ja laajentaa bio- tai jätepohjaisia ratkaisuja ja prosesseja ja siten nopeuttaa tuote- ja prosessi-innovaatioita. Bioruukki on ainutlaatuinen yhdistelmä pilottimittaisia prosessikehitysyksiköitä, monikäyttöisiä reaktoreita, jotka on integroitu jatkokäsittely-yksiköihin, asiantuntijoita ja tuotekehityspalveluita lämpökemialliseen muuntamiseen, biomassan käsittelyyn, kestävään kemiaan ja metallien talteenottoon.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "LRs949PDDEQ",
-                    "poster": "content / julisteet / 2_films_and_coating_online_subs_31032020.png"
+                    "poster": "content \/ julisteet \/ 2_films_and_coating_online_subs_31032020.png"
                 },
                 {
                     "id": 1,
@@ -717,13 +729,13 @@
         {
             "id": 20,
             "title": "Millimetrin aaltotekniikat RF-ratkaisuihin ja antenneihin",
-            "description": "VTT kehittää antenneja radiotaajuusviestintää ja tunnistavia sovelluksia varten. Perustuen <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'> millimetrin aaltotekniikka</a> , Kehitystyömme hyödyttää asiakkaita tuotteen alkuvaiheista lopputuotteen optimointiin. <br><br> Antennit ja radiotaajuuskomponentit ovat tärkeitä osia langattomissa järjestelmissä, jotka vaikuttavat yhteyden suorituskykyyn. Ne mahdollistavat vakaat yhteydet henkilökohtaisen hyvinvoinnin sovelluksista ja yleisen turvallisuuden ratkaisuista autonomisiin autoihin, tutkoihin, droneihin ja lentojärjestelmiin. <br><br> Kattavaa asiantuntemustamme voidaan hyödyntää myös tulevissa satelliittiyhteyksissä, maanpäällisissä osissa ja tieteellisissä avaruusoperaatioissa. <br><br> VTT: n satelliittikuvan analysointityökalut ja -alusta tukevat luonnonvarojen kestävää käyttöä maailmanlaajuisesti. Useimpia ajantasaisia koneoppimisalgoritmeja käytetään älykkyyden tuomiseen tiedoista. <a class='link' href='https://www.vttresearch.com/en/ourservices/earth-observation' target='_blank'> Lue lisää maan havainnoinnista.</a>",
+            "description": "VTT kehittää antenneja radiotaajuusviestintää ja tunnistavia sovelluksia varten. Perustuen <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'> millimetrin aaltotekniikka<\/a> , Kehitystyömme hyödyttää asiakkaita tuotteen alkuvaiheista lopputuotteen optimointiin. <br><br> Antennit ja radiotaajuuskomponentit ovat tärkeitä osia langattomissa järjestelmissä, jotka vaikuttavat yhteyden suorituskykyyn. Ne mahdollistavat vakaat yhteydet henkilökohtaisen hyvinvoinnin sovelluksista ja yleisen turvallisuuden ratkaisuista autonomisiin autoihin, tutkoihin, droneihin ja lentojärjestelmiin. <br><br> Kattavaa asiantuntemustamme voidaan hyödyntää myös tulevissa satelliittiyhteyksissä, maanpäällisissä osissa ja tieteellisissä avaruusoperaatioissa. <br><br> VTT: n satelliittikuvan analysointityökalut ja -alusta tukevat luonnonvarojen kestävää käyttöä maailmanlaajuisesti. Useimpia ajantasaisia koneoppimisalgoritmeja käytetään älykkyyden tuomiseen tiedoista. <a class='link' href='https://www.vttresearch.com/en/ourservices/earth-observation' target='_blank'> Lue lisää maan havainnoinnista.<\/a>",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "MgVDhDmqvvo",
-                    "poster": "content / julisteet / vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
+                    "poster": "content \/ julisteet \/ vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
                 },
                 {
                     "id": 1,
@@ -764,7 +776,7 @@
             ],
             "hotspot": {
                 "hasHotspot": true,
-                "buttonText": "Radiotaajuus ja mmWave FI",
+                "buttonText": "Radiotaajuus ja mmWave",
                 "posX": 1150,
                 "posY": 123
             },
@@ -775,13 +787,13 @@
         {
             "id": 21,
             "title": "Piin fotoniikka",
-            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'> Piin fotoniikkatekniikka</a> on mullistanut optisia järjestelmiä, aina viestinnästä tunnistamiseen. Se mahdollistaa erittäin tiheän integroinnin, skaalautuvuuden ja edullisen massatuotannon. <br><br> VTT: n ainutlaatuinen paksu-SOI-tekniikka sisältää ominaisuuksia, kuten erittäin leveän kaistanleveyden, korkean toleranssin ja pienet häviöt. Tarjoamme suunnittelu-, valmistus- ja testauspalveluja. <br><br> Piin fotoniikkaa voidaan käyttää tiedonsiirtoon, lidar-tekniikkaan, lääketieteelliseen kuvantamiseen ja kaasun tunnistamiseen. Optiset piirit tukevat tieto- ja viestintätekniikan ja pilvipalvelujen energiatehokkuutta ja parantavat turvallisuutta tarjoamalla luotettavampia työkaluja kaasun tunnistamiseen. Teknologialla on myös tärkeä rooli autonomisten autojen ja drone-tekniikan kehityksessä.",
+            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'> Piin fotoniikkatekniikka<\/a> on mullistanut optisia järjestelmiä, aina viestinnästä tunnistamiseen. Se mahdollistaa erittäin tiheän integroinnin, skaalautuvuuden ja edullisen massatuotannon. <br><br> VTT: n ainutlaatuinen paksu-SOI-tekniikka sisältää ominaisuuksia, kuten erittäin leveän kaistanleveyden, korkean toleranssin ja pienet häviöt. Tarjoamme suunnittelu-, valmistus- ja testauspalveluja. <br><br> Piin fotoniikkaa voidaan käyttää tiedonsiirtoon, lidar-tekniikkaan, lääketieteelliseen kuvantamiseen ja kaasun tunnistamiseen. Optiset piirit tukevat tieto- ja viestintätekniikan ja pilvipalvelujen energiatehokkuutta ja parantavat turvallisuutta tarjoamalla luotettavampia työkaluja kaasun tunnistamiseen. Teknologialla on myös tärkeä rooli autonomisten autojen ja drone-tekniikan kehityksessä.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "xy1vIhPBo8I",
-                    "poster": "content / julisteet / vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
+                    "poster": "content \/ julisteet \/ vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
                 },
                 {
                     "id": 1,
@@ -803,13 +815,13 @@
         {
             "id": 22,
             "title": "Mikrojärjestelmät",
-            "description": "VTT: n mikrosysteemitutkimuksen pääaiheita ovat piifotoniikka, radio, MEMS, kvantti- ja hyperspektriteknologiat sekä erilaiset näihin tekniikoihin liittyvät sovellukset. <br><br> Tärkeimmät asiakassegmenttimme ovat tietoliikenne ja kulutuselektroniikka, avaruus ja NewSpace, teollisuuden tunnistus ja mittaus sekä puolustus ja turvallisuus. Meillä on IPR-salkku, joka sisältää yli 100 patenttiperhettä, jotka liittyvät <a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'> mikroelektroniikka</a> . <br><br> T & K-ekosysteemimme sisältää Micronovan, Suomen kansallisen mikro- ja nanoteknologian tutkimusinfrastruktuurin, joka toimii yhdessä Aalto-yliopiston kanssa. <br><br> Lue lisää: <a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'> Piin fotoniikka</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'> Kvanttitekniikka</a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/hyperspectral-technologies' target='_blank'> Hyperspektriteknologiat</a>",
+            "description": "VTT: n mikrosysteemitutkimuksen pääaiheita ovat piifotoniikka, radio, MEMS, kvantti- ja hyperspektriteknologiat sekä erilaiset näihin tekniikoihin liittyvät sovellukset. <br><br> Tärkeimmät asiakassegmenttimme ovat tietoliikenne ja kulutuselektroniikka, avaruus ja NewSpace, teollisuuden tunnistus ja mittaus sekä puolustus ja turvallisuus. Meillä on IPR-salkku, joka sisältää yli 100 patenttiperhettä, jotka liittyvät <a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'> mikroelektroniikka<\/a> . <br><br> T & K-ekosysteemimme sisältää Micronovan, Suomen kansallisen mikro- ja nanoteknologian tutkimusinfrastruktuurin, joka toimii yhdessä Aalto-yliopiston kanssa. <br><br> Lue lisää: <a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'> Piin fotoniikka<\/a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'> Kvanttitekniikka<\/a> || <a class='link' href='https://www.vttresearch.com/en/ourservices/hyperspectral-technologies' target='_blank'> Hyperspektriteknologiat<\/a>",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "1JfY3IpKwJc",
-                    "poster": "content / julisteet / vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
+                    "poster": "content \/ julisteet \/ vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
                     },
                 {
                     "id": 1,
@@ -861,19 +873,43 @@
         {
             "id": 23,
             "title": "Kvantti",
-            "description": "VTT: t <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'> Quantum Technology -alusta</a> auttaa asiakkaita kehittämään kvanttiteknologioita kannattaviksi liiketoiminnoiksi. <br><br> Tarjoamme palveluja asiakkaidemme sovellustarpeiden täyttämiseksi prosessin kehittämisestä, laitesuunnittelusta ja prototyyppien valmistuksesta pienimuotoiseen valmistukseen ja järjestelmän integrointiin. Alusta sisältää uusimmat kvanttikuvaus- ja metrologiatilat. <br><br> Kehitämme ratkaisuja kvanttijärjestelmien rajapintaan ja ohjaamiseen sekä suprajohtavaan 3D-integraatioon järjestelmien laajentamiseksi esimerkiksi kolmessa eurooppalaisessa Quantum Technology -lippulaivahankkeessa. <br><br> Meillä on ainutlaatuisia talon sisäisiä tekniikoita, jotka voidaan integroida ennennäkemättömien järjestelmien luomiseksi: suprajohteet, puolijohteet ja piifotoniikka. Pyrimme tulemaan johtavaksi kvanttiteknologian valimoksi ja tarjoamaan kvanttipalvelujen täyden spektrin.",
+            "description": "VTT: t <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'> Quantum Technology -alusta<\/a> auttaa asiakkaita kehittämään kvanttiteknologioita kannattaviksi liiketoiminnoiksi. <br><br> Tarjoamme palveluja asiakkaidemme sovellustarpeiden täyttämiseksi prosessin kehittämisestä, laitesuunnittelusta ja prototyyppien valmistuksesta pienimuotoiseen valmistukseen ja järjestelmän integrointiin. Alusta sisältää uusimmat kvanttikuvaus- ja metrologiatilat. <br><br> Kehitämme ratkaisuja kvanttijärjestelmien rajapintaan ja ohjaamiseen sekä suprajohtavaan 3D-integraatioon järjestelmien laajentamiseksi esimerkiksi kolmessa eurooppalaisessa Quantum Technology -lippulaivahankkeessa. <br><br> Meillä on ainutlaatuisia talon sisäisiä tekniikoita, jotka voidaan integroida ennennäkemättömien järjestelmien luomiseksi: suprajohteet, puolijohteet ja piifotoniikka. Pyrimme tulemaan johtavaksi kvanttiteknologian valimoksi ja tarjoamaan kvanttipalvelujen täyden spektrin.",
             "gallery": [
                 {
                     "id": 0,
+                    "type": "video",
+                    "src": "zqZpl8k5uUM",
+                    "poster": "content \/ julisteet \/ vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
+                },
+                {
+                    "id": 1,
                     "type": "image",
                     "alt": "Datapalvelimen huone",
                     "src": "content/img/data_server_room.jpg"
                 },
                 {
-                    "id": 1,
+                    "id": 2,
                     "type": "image",
                     "alt": "Kvanttitekniikka",
                     "src": "content/img/quantum_technology.jpg"
+                },
+                {
+                    "id": 3,
+                    "type": "image",
+                    "alt": "Kvanttitietokone",
+                    "src": "content/img/vtt_kvanttitietokone_highres.jpg"
+                },
+                {
+                    "id": 4,
+                    "type": "image",
+                    "alt": "Kvanttilaskennan vaikutus",
+                    "src": "content/img/vtt_kvanttilaskenta_vaikutus_tietokone.jpg"
+                },
+                {
+                    "id": 5,
+                    "type": "image",
+                    "alt": "Kvanttilaskennan vaikutus",
+                    "src": "content/img/vtt_kvanttilaskenta_vaikutus_tutkija.jpg"
                 }
             ],
             "hotspot": {
@@ -889,13 +925,13 @@
         {
             "id": 24,
             "title": "MilliLab",
-            "description": "MilliLab tarjoaa millimetri- ja THz-taajuuksiin liittyviä palveluja teollisuudelle ja korkeakouluille. <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'> MilliLab on ESA: n ulkoinen laboratorio, jossa tutkitaan millimetrin aaltotekniikkaa radiotaajuuksien testauksessa ja kehittämisessä. </a><br><br> MilliLab on yhteinen laboratorio VTT: n ja Aalto-yliopiston sähkötekniikan korkeakoulun kanssa. Teemme yhteistyötä maailmanlaajuisesti huippuyliopistojen, tutkimusorganisaatioiden ja yritysten kanssa. <br><br> Kattavaa tietämystämme millimetrin aaltoteknologiasta hyödynnetään tulevaisuuden teknologioiden kehittämisessä käytettäväksi eurooppalaisissa avaruusohjelmissa ja parannetaan Euroopan avaruusalan kilpailukykyä.",
+            "description": "MilliLab tarjoaa millimetri- ja THz-taajuuksiin liittyviä palveluja teollisuudelle ja korkeakouluille. <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'> MilliLab on ESA: n ulkoinen laboratorio, jossa tutkitaan millimetrin aaltotekniikkaa radiotaajuuksien testauksessa ja kehittämisessä. <\/a><br><br> MilliLab on yhteinen laboratorio VTT: n ja Aalto-yliopiston sähkötekniikan korkeakoulun kanssa. Teemme yhteistyötä maailmanlaajuisesti huippuyliopistojen, tutkimusorganisaatioiden ja yritysten kanssa. <br><br> Kattavaa tietämystämme millimetrin aaltoteknologiasta hyödynnetään tulevaisuuden teknologioiden kehittämisessä käytettäväksi eurooppalaisissa avaruusohjelmissa ja parannetaan Euroopan avaruusalan kilpailukykyä.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "MgVDhDmqvvo",
-                    "poster": "content / julisteet / vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
+                    "poster": "content \/ julisteet \/ vtt_infra_eps9_silicon_photonics_online_subs_1920x1080.png"
                 },
                 {
                     "id": 1,
@@ -947,7 +983,7 @@
         {
             "id": 25,
             "title": "Spektroskooppiset laitteet",
-            "description": "VTT kehittää räätälöityjä spektroskooppilaitteita ja mittausratkaisuja verkkomittauksiin, diagnostiikkaan ja kannettaviin asiakassovelluksiin. Asiakkaitamme ovat paperi-, kaivos-, teräs-, elintarvike-, maatalous- ja metsäteollisuus sekä muut prosessi- ja valmistusteollisuudet. Tarjoamme älykkäitä ratkaisuja erilaisille kierrätyssegmenteille, mukaan lukien muovi- ja elektroniikkaromut sekä komposiittijätteiden hyödyntäminen. <br><br> VTT: n tutkijat ovat yhteistyössä NASA: n kanssa kehittäneet maailman ensimmäiset ammattikäyttöön tarkoitetut spektrografiset kuvantamisjärjestelmät. Tietotaitomme on laajentunut kattamaan spektrografian eri näkökohdat, keskittymällä erityisesti erilaisten spektroskooppisten ja konenäkömittaustekniikoiden yhdistämiseen optisiin innovaatioihin. Olemme eturintamassa <a class='link' href='https://www.vttresearch.com/en/ourservices/hyperspectral-technologies' target='_blank'> luotettava korkean suorituskyvyn hyperspektrikuvaus</a> , Raman- ja IR-spektroskopiatekniikat, jotka pystyvät määrittämään materiaalien kemian ja niissä tapahtuvat muutokset.",
+            "description": "VTT kehittää räätälöityjä spektroskooppilaitteita ja mittausratkaisuja verkkomittauksiin, diagnostiikkaan ja kannettaviin asiakassovelluksiin. Asiakkaitamme ovat paperi-, kaivos-, teräs-, elintarvike-, maatalous- ja metsäteollisuus sekä muut prosessi- ja valmistusteollisuudet. Tarjoamme älykkäitä ratkaisuja erilaisille kierrätyssegmenteille, mukaan lukien muovi- ja elektroniikkaromut sekä komposiittijätteiden hyödyntäminen. <br><br> VTT: n tutkijat ovat yhteistyössä NASA: n kanssa kehittäneet maailman ensimmäiset ammattikäyttöön tarkoitetut spektrografiset kuvantamisjärjestelmät. Tietotaitomme on laajentunut kattamaan spektrografian eri näkökohdat, keskittymällä erityisesti erilaisten spektroskooppisten ja konenäkömittaustekniikoiden yhdistämiseen optisiin innovaatioihin. Olemme eturintamassa <a class='link' href='https://www.vttresearch.com/en/ourservices/hyperspectral-technologies' target='_blank'> luotettava korkean suorituskyvyn hyperspektrikuvaus<\/a> , Raman- ja IR-spektroskopiatekniikat, jotka pystyvät määrittämään materiaalien kemian ja niissä tapahtuvat muutokset.",
             "gallery": [
                 {
                     "id": 0,
@@ -966,6 +1002,24 @@
                     "type": "image",
                     "alt": "Moniaallonpituinen NIR-mittauslaite paperin online-laadunvalvontaan erinomaisella näytetaajuudella",
                     "src": "content/img/multi_wavelength_nir_measurement_instrument_2.jpg"
+                },
+                {
+                    "id": 3,
+                    "type": "image",
+                    "alt": "Online-skannauslaite keskitason infrapuna-alueelle",
+                    "src": "content/img/online_scanning_measurement_device_for_mid_ir_range.jpg"
+                },
+                {
+                    "id": 4,
+                    "type": "image",
+                    "alt": "Paperin päällystysprosessin karakterisointi VTT: n kehittämällä monipisteisellä NIR-spektrometrijärjestelmällä",
+                    "src": "content/img/paper_coating_process_characterization_with_a_multipoint_nir_spectrometer_system_developed_by_vtt.jpg"
+                },
+                {
+                    "id": 5,
+                    "type": "image",
+                    "alt": "Poran ydinnäytteiden Raman-mittaukset VTT: n suunnittelemalla ja valmistamalla Raman-koettimella",
+                    "src": "content/img/raman_measurements_of_drill_core_samples_using_a_vtt_designed_and_manufactured_raman_probe.jpg"
                 }
             ],
             "hotspot": {
@@ -981,7 +1035,7 @@
         {
             "id": 26,
             "title": "konenäkö",
-            "description": "VTT vastaa vaativiin teollisiin tarpeisiin ja kehittää uuden konenäön sukupolven yhdistämällä tekoälyn, uudet kuvantamismenetelmät ja optiset innovaatiot. <br><br> Meillä on ainutlaatuiset mahdollisuudet prototyyppien ketterään kehittämiseen ja rakentamiseen, joiden avulla voimme toimittaa nopeat optiset instrumentointiratkaisut laboratorion vaiheesta todelliseen ympäristöön. <br><br> Meillä on vuosikymmenien kokemus ja asiantuntemus yhdistää erilaisia spektroskooppisia ja konenäön mittaustekniikoita asiakkaiden tarpeiden ratkaisemiseksi eri aloilla, mukaan lukien teräs-, kaivos-, paperi-, puolustus- ja prosessiteollisuus sekä muut prosessi- ja valmistusteollisuudet. <br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/industrial-sensing-solutions' target='_blank'> Lue lisää teollisista anturiratkaisuistamme</a> .",
+            "description": "VTT vastaa vaativiin teollisiin tarpeisiin ja kehittää uuden konenäön sukupolven yhdistämällä tekoälyn, uudet kuvantamismenetelmät ja optiset innovaatiot. <br><br> Meillä on ainutlaatuiset mahdollisuudet prototyyppien ketterään kehittämiseen ja rakentamiseen, joiden avulla voimme toimittaa nopeat optiset instrumentointiratkaisut laboratorion vaiheesta todelliseen ympäristöön. <br><br> Meillä on vuosikymmenien kokemus ja asiantuntemus yhdistää erilaisia spektroskooppisia ja konenäön mittaustekniikoita asiakkaiden tarpeiden ratkaisemiseksi eri aloilla, mukaan lukien teräs-, kaivos-, paperi-, puolustus- ja prosessiteollisuus sekä muut prosessi- ja valmistusteollisuudet. <br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/industrial-sensing-solutions' target='_blank'> Lue lisää teollisista anturiratkaisuistamme<\/a> .",
             "gallery": [
                 {
                     "id": 0,
@@ -1003,13 +1057,13 @@
         {
             "id": 27,
             "title": "Metrologia",
-            "description": "Luotettavat ja tarkat mittaukset ovat elintärkeitä globaalille teollisuudelle, kaupalle ja turvallisuudelle. Uudet mittausratkaisut ja tekniikat hyödyttävät digitalisaatiota ja kiertotaloutta. <br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-mikes' target='_blank'> VTT MIKES, Suomen metrologinen tutkimuslaitos</a> , kehittää uusia mittaus- ja kalibrointitekniikoita ja tarjoaa erittäin tarkkoja mittauspalveluja. Asiantuntemuksemme ovat interferometria, suurjännitemittaukset, optinen spektroskopia, hyperspektritunnistustekniikka, kvanttimittaukset ja metrologiset sovellukset. <br><br> VTT voi auttaa mittauslaitteiden validoinnissa tai esimerkiksi mittausjärjestelmän tai prosessin kehittämisessä laadunvalvontaa varten.",
+            "description": "Luotettavat ja tarkat mittaukset ovat elintärkeitä globaalille teollisuudelle, kaupalle ja turvallisuudelle. Uudet mittausratkaisut ja tekniikat hyödyttävät digitalisaatiota ja kiertotaloutta. <br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/vtt-mikes' target='_blank'> VTT MIKES, Suomen metrologinen tutkimuslaitos<\/a> , kehittää uusia mittaus- ja kalibrointitekniikoita ja tarjoaa erittäin tarkkoja mittauspalveluja. Asiantuntemuksemme ovat interferometria, suurjännitemittaukset, optinen spektroskopia, hyperspektritunnistustekniikka, kvanttimittaukset ja metrologiset sovellukset. <br><br> VTT voi auttaa mittauslaitteiden validoinnissa tai esimerkiksi mittausjärjestelmän tai prosessin kehittämisessä laadunvalvontaa varten.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "3yuE_1a2QKA",
-                    "poster": "sisältö / julisteet / VTT_Infra_EP18_Metrologia_online.png"
+                    "poster": "content/posters/VVTT_Infra_EP18_Metrologia_online.png"
                 },
                 {
                     "id": 1,
@@ -1043,19 +1097,19 @@
                 "posY": 2374
             },
             "relatedInfocardID": [23, 0, 5, 22, 25, 6, 7],
-            "qrhref": "https://www.vttresearch.com/en/research-expertise/metrology",
+            "qrhref": "https:\/\/www.vttresearch.com\/en\/research-expertise\/metrology",
             "qrsrc": "content/qr/QR.027.png"
         },
         {
             "id": 28,
             "title": "Painetut ja hybriditoiminnot",
-            "description": "VTT tutkii ja kehittää aktiivisesti <a class='link' href='https://www.vttresearch.com/en/ourservices/printed-intelligence' target='_blank'> Tulostetut älyratkaisut</a> kuten joustavat, kevyet orgaaniset aurinkokennot, valaisevat pinnat, suoraan iholle integroidut anturit ja kommunikoivat pakkaustarrat. <br><br> Ainutlaatuinen yhdistelmä, jossa on yli 100 moniteknologian asiantuntijaa ja palkittu pilottitehdas, palvelee satojen yritysten tutkimus- ja kehitystarpeita vuosittain. <br><br> PrintoCent-ekosysteemimme on synnyttänyt yli 30 aloittavaa yritystä vuodesta 2011 lähtien. PrintoCent Industry Clusterilla on 40 jäsenyritystä, jotka vaihtelevat autoteollisuudesta ICT- ja diagnostiikkaliiketoimintaan.",
+            "description": "VTT tutkii ja kehittää aktiivisesti <a class='link' href='https://www.vttresearch.com/en/ourservices/printed-intelligence' target='_blank'> Tulostetut älyratkaisut<\/a> kuten joustavat, kevyet orgaaniset aurinkokennot, valaisevat pinnat, suoraan iholle integroidut anturit ja kommunikoivat pakkaustarrat. <br><br> Ainutlaatuinen yhdistelmä, jossa on yli 100 moniteknologian asiantuntijaa ja palkittu pilottitehdas, palvelee satojen yritysten tutkimus- ja kehitystarpeita vuosittain. <br><br> PrintoCent-ekosysteemimme on synnyttänyt yli 30 aloittavaa yritystä vuodesta 2011 lähtien. PrintoCent Industry Clusterilla on 40 jäsenyritystä, jotka vaihtelevat autoteollisuudesta ICT- ja diagnostiikkaliiketoimintaan.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "sh62I9fFXgI",
-                    "poster": "sisältö / julisteet / VTT_Infra_EP18_Metrologia_online.png"
+                    "poster": "content/posters/VVTT_Infra_EP18_Metrologia_online.png"
                 },
                 {
                     "id": 1,
@@ -1089,13 +1143,13 @@
         {
             "id": 29,
             "title": "Diagnostiikka ja biosensorit",
-            "description": "VTT: llä tuomme <a class='link' href='https://www.vttresearch.com/en/ourservices/diagnostic-technologies' target='_blank'> diagnostiikka</a> keskuslaboratorioista hoitopaikkoihin. Kehitämme uusia ratkaisuja teollisuudelle sekä kuluttajadiagnostiikkaa terveys- ja hyvinvointialalla. <br><br> Integroimme painetun elektroniikan ja biosensorit, jotta diagnostiikkalaitteet voidaan kiinnittää suoraan ihmisen ihoon ja pakkauksiin muilla pinnoilla. Emme paranna vain olemassa olevia ratkaisuja, vaan luomme kokonaan uusia tuotteita ja konsepteja. <br><br> VTT: n T & K-infrastruktuuri ja kansainväliset verkot ovat poikkeuksellisia. Työmme myötävaikuttaa elämänlaatuun ja kestävään materiaalien käyttöön.",
+            "description": "VTT: llä tuomme <a class='link' href='https://www.vttresearch.com/en/ourservices/diagnostic-technologies' target='_blank'> diagnostiikka<\/a> keskuslaboratorioista hoitopaikkoihin. Kehitämme uusia ratkaisuja teollisuudelle sekä kuluttajadiagnostiikkaa terveys- ja hyvinvointialalla. <br><br> Integroimme painetun elektroniikan ja biosensorit, jotta diagnostiikkalaitteet voidaan kiinnittää suoraan ihmisen ihoon ja pakkauksiin muilla pinnoilla. Emme paranna vain olemassa olevia ratkaisuja, vaan luomme kokonaan uusia tuotteita ja konsepteja. <br><br> VTT: n T & K-infrastruktuuri ja kansainväliset verkot ovat poikkeuksellisia. Työmme myötävaikuttaa elämänlaatuun ja kestävään materiaalien käyttöön.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "HddEFG45XMk",
-                    "poster": "sisältö / julisteet / VTT_Infra_Diagnostics_online_subs.png"
+                    "poster": "content/posters/VVTT_Infra_Diagnostics_online_subs.png"
                 },
                 {
                     "id": 1,
@@ -1141,25 +1195,25 @@
         {
             "id": 30,
             "title": "Liittymien määrä",
-            "description": "Televiestintäjärjestelmien luotettavuuden ja tehokkuuden parantaminen ovat VTT: n ensisijaisia tavoitteita. Meillä on <a class='link' href='https://www.vttresearch.com/en/ourservices/mobile-networks' target='_blank'> ainutlaatuinen ja mukautuva verkko- ja testiympäristö</a> joka sisältää 5G-, LTE-, muut kuin maanpäälliset ja IoT-verkot, jotka palvelevat teollisuuden, avaruuden, kyberturvallisuuden ja viranomaisten aloja. <br><br> Testiverkostomme avulla voimme kehittää edistyneitä sovelluksia ja palveluja esimerkiksi autonomisille ajoneuvoille, teollisuusjärjestelmille, terveydenhuollolle, älykkäälle energialle ja kriittisille infrastruktuureille. <br><br> VTT: n vahvuudet ovat verkonhallinta, resurssien optimointi ja toimialan vertikaalinen ymmärtäminen.",
+            "description": "Televiestintäjärjestelmien luotettavuuden ja tehokkuuden parantaminen ovat VTT: n ensisijaisia tavoitteita. Meillä on <a class='link' href='https://www.vttresearch.com/en/ourservices/mobile-networks' target='_blank'> ainutlaatuinen ja mukautuva verkko- ja testiympäristö<\/a> joka sisältää 5G-, LTE-, muut kuin maanpäälliset ja IoT-verkot, jotka palvelevat teollisuuden, avaruuden, kyberturvallisuuden ja viranomaisten aloja. <br><br> Testiverkostomme avulla voimme kehittää edistyneitä sovelluksia ja palveluja esimerkiksi autonomisille ajoneuvoille, teollisuusjärjestelmille, terveydenhuollolle, älykkäälle energialle ja kriittisille infrastruktuureille. <br><br> VTT: n vahvuudet ovat verkonhallinta, resurssien optimointi ja toimialan vertikaalinen ymmärtäminen.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "rmk_J7QX6r0",
-                    "poster": "sisältö / julisteet / VTT_Infra_Connectivity.png"
+                    "poster": "content/posters/VVTT_Infra_Connectivity.png"
                 },
                 {
                     "id": 1,
                     "type": "video",
                     "src": "LwVazR3Tp9I",
-                    "poster": "content / julisteita / VTT_vision for sea connectivity.png"
+                    "poster": "content \/ julisteita \/ VTT_vision for sea connectivity.png"
                 },
                 {
                     "id": 2,
                     "type": "video",
                     "src": "qawcp_pP_OQ",
-                    "poster": "content / julisteita / VTT_vision for sea connectivity.png"
+                    "poster": "content \/ julisteita \/ VTT_vision for sea connectivity.png"
                 },
                 {
                     "id": 3,
@@ -1193,7 +1247,7 @@
         {
             "id": 31,
             "title": "SW-tekniikka ja tekoäly",
-            "description": "<a class='link' href='https://www.vttresearch.com/en/topics/ai-big-data' target='_blank'> Tekoälyyn perustuvat tekniikat</a> ovat yhä tärkeämpi talouskasvutekijä, joka muuttaa tiedot tiedoksi, tiedoksi ja suoraan toiminnaksi. Tekoäly voi lisätä tuottavuutta ja tehokkuutta sekä auttaa yhteiskunnan kehitystä. <br><br> VTT käyttää monialaista, eettistä lähestymistapaa tekoälyn kehittämiseen. Yhdistämällä tekninen ja IT-asiantuntemus syvälliseen teollisuuden ja liiketoiminnan ymmärtämiseen ja lisäämällä yhteiskunnan näkökulma sekoitukseen pyrimme kehittämään tekoälyratkaisuja, joilla on positiivinen vaikutus asiakkaidemme liiketoimintaan ja ympäröivään maailmaan. <br><br> VTT on perustajajäsen Suomen tekoälykeskuksessa, asiantuntijayhteisössä, joka pyrkii ratkaisemaan tosielämän ongelmia sekä olemassa olevan että uuden tekoälyn avulla.",
+            "description": "<a class='link' href='https:\/\/www.vttresearch.com\/en\/topics\/ai-big-data' target='_blank'> Tekoälyyn perustuvat tekniikat<\/a> ovat yhä tärkeämpi talouskasvutekijä, joka muuttaa tiedot tiedoksi, tiedoksi ja suoraan toiminnaksi. Tekoäly voi lisätä tuottavuutta ja tehokkuutta sekä auttaa yhteiskunnan kehitystä. <br><br> VTT käyttää monialaista, eettistä lähestymistapaa tekoälyn kehittämiseen. Yhdistämällä tekninen ja IT-asiantuntemus syvälliseen teollisuuden ja liiketoiminnan ymmärtämiseen ja lisäämällä yhteiskunnan näkökulma sekoitukseen pyrimme kehittämään tekoälyratkaisuja, joilla on positiivinen vaikutus asiakkaidemme liiketoimintaan ja ympäröivään maailmaan. <br><br> VTT on perustajajäsen Suomen tekoälykeskuksessa, asiantuntijayhteisössä, joka pyrkii ratkaisemaan tosielämän ongelmia sekä olemassa olevan että uuden tekoälyn avulla.",
             "gallery": [
                 {
                     "id": 0,
@@ -1209,13 +1263,13 @@
                 "posY": 3128
             },
             "relatedInfocardID": [23, 25, 29, 2, 5],
-            "qrhref": "https://www.vttresearch.com/en/topics/ai-big-data",
+            "qrhref": "https:\/\/www.vttresearch.com\/en\/topics\/ai-big-data",
             "qrsrc": "content/qr/QR.031.png"
         },
         {
             "id": 32,
             "title": "Tietoverkkoturvallisuus",
-            "description": "Lisääntyvä digitalisaatio on tehnyt kyberturvallisuudesta perusedellytyksen yhteiskunnille ja organisaatioille. VTT: llä autamme asiakkaitamme valmistautumaan kyberuhkiin ja kehitämme tehokkaita ratkaisuja kyberriskien käsittelemiseksi. Meillä on vankka tausta kyberturvallisuushaasteiden ratkaisemisessa, erityisesti energia- ja telealalla. <br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/cyber-security' target='_blank'> VTT: n Cyber Range ja 5G -testiverkkoympäristöt</a> mahdollistaa verkkojen, laitteiden ja ohjelmistojen tietoturvatestaus. Nämä ympäristöt nopeuttavat konkreettisia kokeita ja tarjoavat uutta tietoa innovaatioiden suorituskyvystä ja turvallisuudesta.",
+            "description": "Lisääntyvä digitalisaatio on tehnyt kyberturvallisuudesta perusedellytyksen yhteiskunnille ja organisaatioille. VTT: llä autamme asiakkaitamme valmistautumaan kyberuhkiin ja kehitämme tehokkaita ratkaisuja kyberriskien käsittelemiseksi. Meillä on vankka tausta kyberturvallisuushaasteiden ratkaisemisessa, erityisesti energia- ja telealalla. <br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/cyber-security' target='_blank'> VTT: n Cyber Range ja 5G -testiverkkoympäristöt<\/a> mahdollistaa verkkojen, laitteiden ja ohjelmistojen tietoturvatestaus. Nämä ympäristöt nopeuttavat konkreettisia kokeita ja tarjoavat uutta tietoa innovaatioiden suorituskyvystä ja turvallisuudesta.",
             "gallery": [
                 {
                     "id": 0,
@@ -1243,25 +1297,25 @@
         {
             "id": 33,
             "title": "Micronova",
-            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/micronova' target='_blank'> Micronova</a> on Pohjoismaiden suurin t & k-puhdastila ja keskeinen keskus Suomen elektroniikkateollisuuden ekosysteemille. Se tarjoaa kaksi puhdastilaa ja käsittelylinjaa pii CMOS-, MEMS-, III-V-optoelektroniikka- ja ohutkalvolaitteille. <br><br> Otaniemen teknologiakampuksella sijaitseva Micronova tuo yhteen 350 ammattilaista sekä teollisuutta. Micronovalla on tutkimus- ja kehitysinfrastruktuuri esimerkiksi optisten ja langattomien antureiden, mikroelektroniikan ja mikrofluidien, nanoelektroniikan ja kvanttilaitteiden, säteilyilmaisimien ja avaruustekniikan laitteiden kehittämiseen.",
+            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/micronova' target='_blank'> Micronova<\/a> on Pohjoismaiden suurin t & k-puhdastila ja keskeinen keskus Suomen elektroniikkateollisuuden ekosysteemille. Se tarjoaa kaksi puhdastilaa ja käsittelylinjaa pii CMOS-, MEMS-, III-V-optoelektroniikka- ja ohutkalvolaitteille. <br><br> Otaniemen teknologiakampuksella sijaitseva Micronova tuo yhteen 350 ammattilaista sekä teollisuutta. Micronovalla on tutkimus- ja kehitysinfrastruktuuri esimerkiksi optisten ja langattomien antureiden, mikroelektroniikan ja mikrofluidien, nanoelektroniikan ja kvanttilaitteiden, säteilyilmaisimien ja avaruustekniikan laitteiden kehittämiseen.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
-                    "src": "YfQXHHUfr7E",
-                    "poster": "sisältö / julisteet / VTT-Memsfab-2019-VTT-logo.png"
+                    "src": "zqZpl8k5uUM",
+                    "poster": "content/posters/VVTT-Memsfab-2019-VTT-logo.png"
                 },
                 {
                     "id": 1,
                     "type": "video",
                     "src": "L39wfGRZbew",
-                    "poster": "sisältö / julisteet / VTT-Memsfab-2019-VTT-logo.png"
+                    "poster": "content/posters/VVTT-Memsfab-2019-VTT-logo.png"
                 },
                 {
                     "id": 2,
                     "type": "video",
                     "src": "UClVVqjjvuE",
-                    "poster": "sisältö / julisteet / VTT-Memsfab-2019-VTT-logo.png"
+                    "poster": "content/posters/VVTT-Memsfab-2019-VTT-logo.png"
                 },
                 {
                     "id": 3,
@@ -1319,13 +1373,13 @@
         {
             "id": 34,
             "title": "Mikromoduulit",
-            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'> VTT: n mikromoduulikeskus</a> on puhdastilalaitos, joka on erikoistunut fotoniikan ja elektroniikan komponenttien ja järjestelmien edistyneeseen integrointiin ja pakkaamiseen. Se koostuu monipuolisista suunnittelutyökaluista sekä kokeneiden tutkijoiden ja teknikoiden soveltamista valmistus- ja testauslaitteista. <br><br> Mikromoduulikeskus tarjoaa tutkimus-, kehitys- ja valmistuspalveluja korkean suorituskyvyn fotoniikka- ja mikroaaltotekniikoille yhdistämällä kypsät prosessit uusiin lähestymistapoihin. <br><br> Tärkeimmät prosessit liittyvät hybridi-integraatioon, kokoonpanoon ja pakkaamiseen, mukaan lukien monikerroksinen keramiikka, ohutkalvo, liimaus, juotos, kuitupiippu, erittäin tarkka kokoonpano, kapselointi, hermeettinen tiivistys sekä laajat karakterisointi- ja testauslaitteet.",
+            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'> VTT: n mikromoduulikeskus<\/a> on puhdastilalaitos, joka on erikoistunut fotoniikan ja elektroniikan komponenttien ja järjestelmien edistyneeseen integrointiin ja pakkaamiseen. Se koostuu monipuolisista suunnittelutyökaluista sekä kokeneiden tutkijoiden ja teknikoiden soveltamista valmistus- ja testauslaitteista. <br><br> Mikromoduulikeskus tarjoaa tutkimus-, kehitys- ja valmistuspalveluja korkean suorituskyvyn fotoniikka- ja mikroaaltotekniikoille yhdistämällä kypsät prosessit uusiin lähestymistapoihin. <br><br> Tärkeimmät prosessit liittyvät hybridi-integraatioon, kokoonpanoon ja pakkaamiseen, mukaan lukien monikerroksinen keramiikka, ohutkalvo, liimaus, juotos, kuitupiippu, erittäin tarkka kokoonpano, kapselointi, hermeettinen tiivistys sekä laajat karakterisointi- ja testauslaitteet.",
             "gallery": [
                 {
                     "id": 0,
                     "type": "video",
                     "src": "M1H2rHdaZl0",
-                    "poster": "sisältö / julisteet / VTT-Memsfab-2019-VTT-logo.png"
+                    "poster": "content/posters/VVTT-Memsfab-2019-VTT-logo.png"
                 },
                 {
                     "id": 1,
@@ -1393,8 +1447,8 @@
                 "posY": 305
             },
             "relatedInfocardID": [45,23,12,49,48,17,2238],
-            "qrhref": "https://www.vttresearch.com/en",
-            "qrsrc": "content / qr / qr_code.png"
+            "qrhref": "https:\/\/www.vttresearch.com\/en",
+            "qrsrc": "content \/ qr \/ qr_code.png"
         },
         {
             "id": 36,
@@ -1439,8 +1493,8 @@
                 "posY": 2196
             },
             "relatedInfocardID": [7, 15, 3, 30, 37, 0, 9, 28, 25, 24],
-            "qrhref": "https://www.vttresearch.com/en",
-            "qrsrc": "content / qr / qr_code.png"
+            "qrhref": "https:\/\/www.vttresearch.com\/en",
+            "qrsrc": "content \/ qr \/ qr_code.png"
         }
     ]
 }
