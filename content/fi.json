@@ -97,7 +97,7 @@
         {
             "id": 3,
             "title": "Integroitu laskennallinen materiaalitekniikka",
-            "description": "Nykyaikaiset koneet ja rakenteet edellyttävät ymmärtämään materiaalin ja sen suorituskyvyn välisen yhteyden . <a class='link' href='https://www.vttresearch.com/fi/palvelut/optimoitu-materiaalisuunnittelu-vtt-propertune' target='_blank'>Integroitu laskennallinen materiaalitekniikka<\/a> (eng. Integrated Computational Materials Engineering, ICME) yhdistää kokonaisvaltaisen mallinnuksen materiaalien, prosessien ja komponenttien suunnittelun materiaalitieteisiin ja suunnitteluun. Palvelun nimi on VTT ProperTune®: laskennallinen mallinnusavusteinen materiaalisuunnittelu, räätälöinti ja suorituskyvyn arviointimenetelmä sekä ohjelmistoalusta. Se voi jäsentää valtavia tietomääriä, jotta voidaan käytännössä mallintaa ja analysoida materiaalin käyttäytymistä komponenttien, mikrorakenteiden ja atomien tasolla. Alustan modulaarisuus tekee siitä sopivan lähes kaikille materiaaleille.<br><br>ICME:n avulla optimoidaan erilaisia materiaaliominaisuuksia, kuten elinikäistä kestävyyttä, kulumista ja korroosionkestävyyttä sekä murtolujuutta ja väsymiskestävyyttä. VTT ProperTune®-palvelu optimoi materiaalisuunnittelun, korvaa kalliit ja aikaa vievät testit ja lyhentää uusien tuotteiden markkinoille tuloaikaa keskimäärin 50%.",
+            "description": "Nykyaikaiset koneet ja rakenteet edellyttävät ymmärtämään materiaalin ja sen suorituskyvyn välisen yhteyden. <a class='link' href='https://www.vttresearch.com/fi/palvelut/optimoitu-materiaalisuunnittelu-vtt-propertune' target='_blank'>Integroitu laskennallinen materiaalitekniikka<\/a> (eng. Integrated Computational Materials Engineering, ICME) yhdistää kokonaisvaltaisen mallinnuksen materiaalien, prosessien ja komponenttien suunnittelun materiaalitieteisiin ja suunnitteluun. Palvelun nimi on VTT ProperTune®: laskennallinen mallinnusavusteinen materiaalisuunnittelu, räätälöinti ja suorituskyvyn arviointimenetelmä sekä ohjelmistoalusta. Se voi jäsentää valtavia tietomääriä, jotta voidaan käytännössä mallintaa ja analysoida materiaalin käyttäytymistä komponenttien, mikrorakenteiden ja atomien tasolla. Alustan modulaarisuus tekee siitä sopivan lähes kaikille materiaaleille.<br><br>ICME:n avulla optimoidaan erilaisia materiaaliominaisuuksia, kuten elinikäistä kestävyyttä, kulumista ja korroosionkestävyyttä sekä murtolujuutta ja väsymiskestävyyttä. VTT ProperTune®-palvelu optimoi materiaalisuunnittelun, korvaa kalliit ja aikaa vievät testit ja lyhentää uusien tuotteiden markkinoille tuloaikaa keskimäärin 50%.",
             "gallery": [
                 {
                     "id": 0,
@@ -244,8 +244,8 @@
         },
         {
             "id": 7,
-            "title": "Meri",
-            "description": "Merisektorilla kehittyvien megatrendien uudet innovaatiot edellyttävät tutkimusta, jota erinomaiset teknologia-alustat tukevat. Uusia puhtaan ja turvallisen liikenteen ratkaisuja ovat päästöttömät alukset, autonomiset alukset, arktinen teknologia ja puhtaat voimaratkaisut eli täysin uudet laivakonseptit.<br><br><a class='link' href='https://www.vttresearch.com/fi/palvelut/vastuullinen-merenkulku-ja-alykas-laivateknologia' target='_blank'>Meritekniikka-alusta<\/a> mahdollistaa tutkimuspalvelut vahvan kokeellisen ja teoreettisen infrastruktuurin avulla. Näillä palveluilla varmistetaan, että uudet teknologiat ja järjestelmät voidaan toteuttaa todellisissa laivahankkeissa.<br><br>Alusta koostuu mallikoealtaasta, numeerisista menetelmistä ja testilaitteista täyden mittakaavan kenttätutkimusta varten. Kaikki nämä luovat yhtenäisen alustan TKI-toiminnalle ja todentamiselle ja validoinnille hydrodynaamisesta ja rakenteellisesta suunnittelusta erilaisiin autonomisiin järjestelmiin.",
+            "title": "Meriteknologia",
+            "description": "Merisektorilla kehittyvien megatrendien uudet innovaatiot edellyttävät tutkimusta, jota erinomaiset teknologia-alustat tukevat. Uusia puhtaan ja turvallisen liikenteen ratkaisuja ovat päästöttömät alukset, autonomiset alukset, arktinen teknologia ja puhtaat voimaratkaisut eli täysin uudet laivakonseptit. <br><br><a class='link' href='https://www.vttresearch.com/fi/palvelut/vastuullinen-merenkulku-ja-alykas-laivateknologia' target='_blank'>Meriteknologia-alusta<\/a> mahdollistaa tutkimuspalvelut vahvan kokeellisen ja teoreettisen infrastruktuurin avulla. Näillä palveluilla varmistetaan, että uudet teknologiat ja järjestelmät voidaan toteuttaa todellisissa laivahankkeissa.<br><br>Teknologia-alusta koostuu numeerisista menetelmistä ja testilaitteista täyden mittakaavan kenttätutkimukseen. Kaikki nämä luovat yhtenäisen alustan TKI-toiminnalle, todentamiselle ja validoinnille hydrodynaamisesta ja rakenteellisesta suunnittelusta erilaisiin autonomisiin järjestelmiin.",
             "gallery": [
                 {
                     "id": 0,
@@ -256,7 +256,7 @@
             ],
             "hotspot": {
                 "hasHotspot": true,
-                "buttonText": "Meri",
+                "buttonText": "Meriteknologia",
                 "posX": 1658,
                 "posY": 903
             },
@@ -620,8 +620,8 @@
         },
         {
             "id": 17,
-            "title": "Tekoälypohjaisen prosessin kehittäminen",
-            "description": "Digitalisaatio ja tekoäly nopeuttavat prosessiteknologioiden kehittämistä. <a class='link' href='https://www.vttresearch.com/fi/palvelut/tekoalyratkaisut-teollisuudelle' target='_blank'>Tekoälyn<\/a> ja digitaalisten kaksosten hyödyntäminen vähentää prosessien ja tuotekehityksen riskejä, aikaa ja rahaa. Uusia <a class='link' href='https://www.vttresearch.com/fi/palvelut/pilottilaitokset-ja-prosessien-jalostus' target='_blank'>prosesseja voidaan laajentaa<\/a> prosessisuunnittelun ja toteutettavuustutkimusten, laskennallisten nesteiden dynaamisten arviointien sekä hybridisimulaation ja mallinnuksen avulla. Tuotteista ja prosesseista tulee kaupallisesti kannattavia entistä nopeammin. Myös tie täysin uusiin ratkaisuihin aukeaa entistä tietoisempien ja automatisoidumpien tutkimusprosessien avulla.",
+            "title": "Tekoälypohjainen prosessikehitys",
+            "description": "Digitalisaatio ja tekoäly nopeuttavat prosessiteknologioiden kehittämistä. <a class='link' href='https://www.vttresearch.com/fi/palvelut/tekoalyratkaisut-teollisuudelle' target='_blank'>Tekoälyn<\/a> ja digitaalisten kaksosten hyödyntäminen pienentää prosessien ja tuotekehityksen riskejä, ja vähentää niihin tarvittavaa aikaa ja rahaa. Uusia <a class='link' href='https://www.vttresearch.com/fi/palvelut/pilottilaitokset-ja-prosessien-jalostus' target='_blank'>prosesseja voidaan ylösskaalata<\/a> prosessisuunnittelun ja toteutettavuustutkimusten, sekä erilaisten laskennallisten menetelmien avulla luotettavammin. Tuotteista ja prosesseista tulee kaupallisesti kannattavia entistä nopeammin ja täysin uusien ratkaisujen löytäminen helpottuu.",
             "gallery": [
                 {
                     "id": 0,
@@ -638,7 +638,7 @@
             ],
             "hotspot": {
                 "hasHotspot": true,
-                "buttonText": "Tekoälypohjaisen prosessin kehittäminen",
+                "buttonText": "Tekoälypohjainen prosessikehitys",
                 "posX": 1307,
                 "posY": 1218
             },
@@ -1143,7 +1143,7 @@
         {
             "id": 29,
             "title": "Diagnostiikka ja bioanturit",
-            "description": "VTT:llä kehitetään erilaisia teknologioita, joiden avulla voidaan tuoda lääketieteelinen <a class='link' href='https://www.vttresearch.com/fi/palvelut/diagnostiikkateknologiat' target='_blank'>diagnostiikka<\/a> keskuslaboratorioista hoitopaikkoihin ja jopa koteihin.<br><br>Kehitämme joustavan elektroniikan ja biosensoreiden valmistustekniikan avulla puettavat diagnostiikkalaitteet voidaan liimata suoraan ihmisen ihoon. Tämä mahdollistaa erilaisia uusia tapoja soveltaa terveysteknologiaa sairaaloiden ulkopuolella.<br><br>VTT:n joustavan elektroniikan pilottitehtaan valmistusympäristö ja yhteistyöverkostot mahdollistavat erilaisten elämänlaatua ja materiaalien kestävää käyttöä edistävien teknologien kehityksen.",
+            "description": "VTT:llä kehitetään erilaisia teknologioita, joiden avulla voidaan tuoda lääketieteellinen <a class='link' href='https://www.vttresearch.com/fi/palvelut/diagnostiikkateknologiat' target='_blank'>diagnostiikka<\/a> keskuslaboratorioista hoitopaikkoihin ja jopa koteihin.<br><br>Kehitämme joustavan elektroniikan ja biosensoreiden valmistustekniikan avulla puettavat diagnostiikkalaitteet voidaan liimata suoraan ihmisen ihoon. Tämä mahdollistaa erilaisia uusia tapoja soveltaa terveysteknologiaa sairaaloiden ulkopuolella.<br><br>VTT:n joustavan elektroniikan pilottitehtaan valmistusympäristö ja yhteistyöverkostot mahdollistavat erilaisten elämänlaatua ja materiaalien kestävää käyttöä edistävien teknologien kehityksen.",
             "gallery": [
                 {
                     "id": 0,
@@ -1269,7 +1269,7 @@
         {
             "id": 32,
             "title": "Kyberturvallisuus",
-            "description": "Digitalisaation lisääntyminen on tehnyt kyberturvallisuudesta yhteiskunnan ja organisaatioiden perusvaatimuksen. VTT:ssä autamme asiakkaitamme varautumaan kyberuhkiin ja kehitämme tehokkaita ratkaisuja kyberriskien kohtaamiseen. Meillä on vankka kokemus kyberturvallisuuden haasteiden ratkaisemisesta erityisesti energia- ja televiestintäaloilla.<br><br><a class='link' href='https://www.vttresearch.com/fi/palvelut/kyberturvallisuus' target='_blank'>VTT:n Cyber Range ja 5G-testiverkkoympäristöt<\/a> mahdollistavat verkkojen, laitteiden ja ohjelmistojen kyberturvallisuustestauksen. Ympäristöt nopeuttavat konkreettisia kokeiluja ja tarjoavat uutta tietoa innovaatioiden suorituskyvystä ja turvallisuudesta.",
+            "description": "Digitalisaation lisääntyminen on tehnyt kyberturvallisuudesta yhteiskunnan ja organisaatioiden perusvaatimuksen. VTT:llä autamme asiakkaitamme varautumaan kyberuhkiin ja kehitämme tehokkaita ratkaisuja kyberriskien kohtaamiseen. Meillä on vankka kokemus kyberturvallisuuden haasteiden ratkaisemisesta erityisesti energia- ja televiestintäaloilla.<br><br><a class='link' href='https://www.vttresearch.com/fi/palvelut/kyberturvallisuus' target='_blank'>VTT:n Cyber Range ja 5G-testiverkkoympäristöt<\/a> mahdollistavat verkkojen, laitteiden ja ohjelmistojen kyberturvallisuustestauksen. Ympäristöt nopeuttavat konkreettisia kokeiluja ja tarjoavat uutta tietoa innovaatioiden suorituskyvystä ja turvallisuudesta.",
             "gallery": [
                 {
                     "id": 0,
