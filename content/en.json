@@ -63,7 +63,7 @@
         {
             "id": 2,
             "title": "Digital Design and Manufacturing",
-            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/agile-flexible-manufacturing-and-production-industry' target='_blank'>Digital Design and Manufacturing</a> enables implementation, development and research of industry digitalization in the Industry 4.0 framework. The solutions cover virtual and digitized end-to-end product processes (integrated engineering design, product development, production, lifecycle). The platform enables development of advanced custom designed robotic and mechatronic systems. It also covers equipment for noise, vibration and fatigue fields including virtual modelling and experimental activities in component and system level.<br><br>Infrastructure and tools:<br>Digital transformation and maturity tools, <a class='link' href='https://www.vttresearch.com/en/topics/automation-and-robotics' target='_blank'>Robotics:</a> Industrial robotics, Mobile robots and logistics, Collaborative robots (cobots), Remote operation, Validation sensors, equipment and labs, Utilising the digital thread platform, Software: design, analysis and manufacturing, Utilising computing platform: HPC cluster",
+            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/agile-flexible-manufacturing-and-production-industry' target='_blank'>Digital Design and Manufacturing</a> is a platform that enables holistic road-mapping, orchestration and implementation of specific pieces of technologies, methods and processes towards Industry4.0 framework, Digital Twin and industry renewal. The platform solutions cover the virtual and digitized end-to-end product process (integrated engineering design, product development, production, lifecycle). The platform enables development of advanced custom designed robotic and mechatronic systems. The platform also covers equipment for noise, vibration and fatigue fields including virtual modelling and experimental activities in component and system level.<br><br>Infrastructure and tools:<br>Digital transformation and maturity tools, Agile manufacturing: industrial, collaborative and mobile <a class='link' href='https://www.vttresearch.com/en/topics/automation-and-robotics' target='_blank'>robots</a> and accessories (e.g. laser profilers, 3D scanners, cameras), Remote Operations, Validation sensors, equipment and labs, Digital thread platform, Software: design, analysis and manufacturing, High Power Computing (HPC) cluster",
             "gallery": [
                 {
                     "id": 0,
@@ -169,18 +169,24 @@
                 },
                 {
                     "id": 1,
+                    "type": "video",
+                    "src": "VX_tfka4iuM",
+                    "poster": "content/posters/Smart_Energy_eng.png"
+                },
+                {
+                    "id": 2,
                     "type": "image",
                     "alt": "ABB line differential relays and merging units",
                     "src": "content/img/abb_line_differential_relays_and_merging_units.jpg"
                 },
                 {
-                    "id": 2,
+                    "id": 3,
                     "type": "image",
                     "alt": "Grid emulator and busbar",
                     "src": "content/img/grid_emulator_and_busbar.jpg"
                 },
                 {
-                    "id": 3,
+                    "id": 4,
                     "type": "image",
                     "alt": "Real-time simulator",
                     "src": "content/img/real-time_simulator.jpg"
@@ -506,7 +512,7 @@
                 {
                     "id": 1,
                     "type": "image",
-                    "alt": "Catalyst Testing Facilities",
+                    "alt": "Catalyst testing facilities",
                     "src": "content/img/catalyst_testing_facilities.jpg"
                 },
                 {
@@ -518,13 +524,13 @@
                 {
                     "id": 3,
                     "type": "image",
-                    "alt": "NMR Analytics Chemical Characterization",
+                    "alt": "NMR analytics chemical characterization",
                     "src": "content/img/nmr_analytics_chemical_characterization.jpg"
                 },
                 {
                     "id": 4,
                     "type": "image",
-                    "alt": "Polymer Development Analytics",
+                    "alt": "Reactor system for multiple simultaneous reactions",
                     "src": "content/img/polymer_development_analytics.jpg"
                 }
             ],
@@ -540,7 +546,7 @@
         },
         {
             "id": 15,
-            "title": "Thermochemistry",
+            "title": "Thermochemical conversion",
             "description": "Our <a class='link' href='https://www.vttresearch.com/en/ourservices/thermochemical-conversion' target='_blank'>thermochemical conversion</a> pilot platform supports industries in transforming waste and biomass into sustainable materials: novel fuels, chemicals and plastics. Our unique piloting platforms for gasification and pyrolysis support waste- and bio-based innovations from lab to pilot scale. Our gasification pilot turns waste and residue streams into product gas and through novel gas cleaning further into ultra-purified synthesis gas. Synthesis gas is converted into renewable fuel or chemicals in our mobile synthesis unit. Our pyrolysis converts challenging waste streams into pyrolysis liquids to replace fossil fuels and chemicals. We combine expertise in thermochemical conversion, catalysis, process development and techno-economic evaluation to support customers in commercializing innovations.",
             "gallery": [
                 {
@@ -570,7 +576,7 @@
             ],
             "hotspot": {
                 "hasHotspot": true,
-                "buttonText": "Thermochemistry",
+                "buttonText": "Thermochemical conversion",
                 "posX": 1403,
                 "posY": 1924
             },
@@ -653,18 +659,24 @@
             "gallery": [
                 {
                     "id": 0,
+                    "type": "video",
+                    "src": "Ubed1-d7u7s",
+                    "poster": "content/posters/2_films_and_coating_online_subs_31032020.png"
+                },                
+                {
+                    "id": 1,
                     "type": "image",
                     "alt": "Foam extrusion in polymer pilot",
                     "src": "content/img/foam_extrusion_in_polymer_pilot.jpg"
                 },
                 {
-                    "id": 1,
+                    "id": 2,
                     "type": "image",
                     "alt": "Feeding thermoplastic material into process",
                     "src": "content/img/feeding_thermoplastic_material_into_process.jpg"
                 },
                 {
-                    "id": 2,
+                    "id": 3,
                     "type": "image",
                     "alt": "Compounding process control",
                     "src": "content/img/compounding_process_control.jpg"
@@ -729,7 +741,7 @@
         {
             "id": 20,
             "title": "Millimetre wave technologies to RF solutions and antennas",
-            "description": "VTT develops antennas for RF communication and sensing applications. Based on <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'>millimetre wave technology</a>, our development work benefits customers from early product phases to final product optimisations.<br><br>Antennas and RF components are the crucial parts of wireless systems, affecting connectivity performance. They enable stable connections from personal wellbeing applications and public safety solutions to autonomous cars, radars, drones and flight systems.<br><br>Our comprehensive expertise can be utilised also in future satellite links, ground segment and in scientific space missions.<br><br>VTT’s satellite image analysis tools and platform support sustainable use of natural resources globally. Most up to date machine learning algorithms are used to bring intelligence from the data. <a class='link' href='https://www.vttresearch.com/en/ourservices/earth-observation' target='_blank'>Read more about Earth observation.</a>",
+            "description": "VTT develops <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'>millimetre wave technology</a> for RF communication and sensing applications. Target applications are from active phased arrays to imaging radars and radiometers. Our customers benefit from our development work all the way from early product phases to final product optimisation.<br><br>Millimeter waves covers frequencies from 30 GHz to 300 GHz and are interesting as they can provide information for example about the Earth’s atmosphere for more accurate weather forecasts. Millimeter waves can also provide large bandwidths that enable wireless broadband connectivity for example in 5G and satellite communication.<br><br>Thanks to its comprehensive expertise, VTT can participate in the development of future satellite links, ground segments and scientific space missions. Also, VTT’s platform and tools for satellite image analysis support global sustainable use of natural resources. We use the most up to date machine learning algorithms to bring intelligence from raw data.<br><br><a class='link' href='https://www.vttresearch.com/en/ourservices/earth-observation' target='_blank'>Read more about Earth observation.</a>",
             "gallery": [
                 {
                     "id": 0,
@@ -746,19 +758,19 @@
                 {
                     "id": 2,
                     "type": "image",
-                    "alt": "mMWave technology, 1",
+                    "alt": "Large Anechoic Chamber",
                     "src": "content/img/mmwave_technology_1.jpg"
                 },
                 {
                     "id": 3,
                     "type": "image",
-                    "alt": "mmWave technology, 2",
+                    "alt": "Large Anechoic Chamber",
                     "src": "content/img/mmwave_technology_2.jpg"
                 },
                 {
                     "id": 4,
                     "type": "image",
-                    "alt": "W-Cube nanosatellite",
+                    "alt": "W-Cube-nanosatellite with W- and Q-band radiobeagon as payload",
                     "src": "content/img/w-cube_nanosatellite.jpg"
                 },
                 {
@@ -787,7 +799,7 @@
         {
             "id": 21,
             "title": "Silicon Photonics",
-            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'>Silicon photonics technology</a> is revolutionising optical systems, ranging from communication to sensing. It enables extremely dense integration, scalability and low-cost mass production.<br><br>VTT’s unique thick-SOI technology includes features such as ultra-wide bandwidth, high tolerance and low losses. We offer design, fabrication and testing services.<br><br>Silicon photonics can be used for data transfer, lidar technology, medical imaging and gas sensing. Optical circuits support energy efficiency for ICT and cloud services, and improve safety by providing more reliable tools for gas sensing. Also, the technology has an important role in autonomous cars and drone technology development.",
+            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'>Silicon photonics technology</a> is revolutionising optical systems, ranging from communication to sensing. It enables extremely dense integration, scalability and low-cost mass production.<br><br>VTT’s unique thick-SOI technology includes features such as ultra-wide bandwidth, high tolerance, and low losses. We offer design, fabrication and testing services.<br><br>Silicon photonics can be used for data transfer, lidar technology, medical imaging and gas sensing. Optical circuits support energy efficiency for ICT and cloud services, and improve safety by providing more reliable tools for gas sensing. Also, the technology has an important role in autonomous cars and drone technology development.",
             "gallery": [
                 {
                     "id": 0,
@@ -798,7 +810,7 @@
                 {
                     "id": 1,
                     "type": "image",
-                    "alt": "Silicon photonics",
+                    "alt": "Schematic illustration of silicon waveguides on an SOI chip",
                     "src": "content/img/silicon_photonics.jpg"
                 }
             ],
@@ -815,7 +827,7 @@
         {
             "id": 22,
             "title": "Microsystems",
-            "description": "The main topics in VTT’s microsystems research are silicon photonics, radio, MEMS, quantum and hyperspectral technologies, as well as various applications related to these technologies.<br><br>Our main customer segments include telecom and consumer electronics, space and NewSpace, industrial sensing and measurement, and defense and security. We have an IPR portfolio that includes over 100 patent families related to <a class='link' href='https://www.vttresearch.com/en/ourservices/microelectronics' target='_blank'>microelectronics</a>.<br><br>Our R&D ecosystem includes Micronova, Finland’s national research infrastructure for micro- and nanotechnology, operated together with Aalto University.<br><br>Read more: <a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'>Silicon photonics</a>, <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'>Quantum technology</a>, <a class='link' href='https://www.vttresearch.com/en/ourservices/hyperspectral-technologies' target='_blank'>Hyperspectral technologies</a>",
+            "description": "The main topics in VTT’s microsystems research include silicon photonics, RF, MEMS and ASICs, quantum technology, CMOS post-processing and hyperspectral technology, as well as various applications related to these technologies.<br><br>Our main customer segments include telecom and consumer electronics companies, space and NewSpace companies, companies developing industrial sensing and measurement solutions, as well as the defense and security sector. We have an IPR portfolio that includes over 100 patent families related to microelectronics.<br><br>Our R&D ecosystem includes Micronova, Finland’s national research infrastructure for micro- and nanotechnology, which VTT operates together with Aalto University.<br><br>Read more: <a class='link' href='https://www.vttresearch.com/en/ourservices/silicon-photonics' target='_blank'>Silicon photonics</a>, <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'>Quantum technology</a>, <a class='link' href='https://www.vttresearch.com/en/ourservices/hyperspectral-technologies' target='_blank'>Hyperspectral technologies</a>",
             "gallery": [
                 {
                     "id": 0,
@@ -826,7 +838,7 @@
                 {
                     "id": 1,
                     "type": "image",
-                    "alt": "Mount for hybrid laser integration for silicon photonics",
+                    "alt": "Mount of hybrid laser integration for silicon photonics",
                     "src": "content/img/mount_for_hybrid_laser_integration_for_silicon_photonics.jpg"
                 },
                 {
@@ -850,7 +862,7 @@
                 {
                     "id": 5,
                     "type": "image",
-                    "alt": "Squid array section from a superconducting magnetometer for brain imaging",
+                    "alt": "SQUID-array sectin from a superconducting magnetometer for brain imaging",
                     "src": "content/img/squid_array_section_from_a_superconducting_magnetometer_for_brain_imaging.jpg"
                 },
                 {
@@ -873,7 +885,7 @@
         {
             "id": 23,
             "title": "Quantum",
-            "description": "VTT’s <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'>Quantum Technology platform</a> helps customers develop quantum technologies into profitable business cases.<br><br>We provide services to fulfil our customers´ application needs, ranging from process development, device design and prototyping to small-scale manufacturing and system integration. The platform includes state-of-the-art quantum characterisation and metrology facilities.<br><br>We develop solutions for interfacing and controlling quantum systems, and superconducting 3D integration to scale up the systems, for example in three European Quantum Technology Flagship projects.<br><br>We have unique in-house technologies that can be integrated to create unprecedented systems: superconductors, semiconductors, and silicon photonics. We aim to become a leading foundry for quantum technologies and provide the full spectrum of quantum services.",
+            "description": "VTT’s <a class='link' href='https://www.vttresearch.com/en/ourservices/quantum-technology' target='_blank'>Quantum Technology platform</a> helps customers develop quantum technologies into profitable business cases.<br><br>We provide services to fulfil our customers´ application needs, ranging from process development, device design and prototyping to small-scale manufacturing and system integration. The platform includes state-of-the-art quantum characterisation and metrology facilities.<br><br>We develop solutions for interfacing and controlling quantum systems, as well as 3D integration methods, enabling the scale up of quantum computing systems in the future. We develop these in three European Quantum Technology Flagship projects, among others.<br><br>We have advanced in-house technologies that can be integrated to create unprecedented systems leveraging quantum effects: superconductors, semiconductors, MEMS, and silicon photonics. We aim to become a leading foundry for quantum technologies and provide the full spectrum of quantum services.",
             "gallery": [
                 {
                     "id": 0,
@@ -925,7 +937,7 @@
         {
             "id": 24,
             "title": "MilliLab",
-            "description": "MilliLab supplies services related to millimeter wave and THz frequencies for industry and academia. <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'>MilliLab is the ESA external Laboratory on millimetre wave technology for RF testing and development.</a><br><br>MilliLab is a joint laboratory with VTT and Aalto University School of Electrical Engineering. We collaborate worldwide with top universities, research organisations and companies.<br><br>Our comprehensive knowledge on millimetre wave technology is utilised for developing future technologies to be used in the European space programmes and for improving competitiveness of the European space industry.",
+            "description": "MilliLab is a joint laboratory between VTT and Aalto University School of Electrical Engineering. <a class='link' href='https://www.vttresearch.com/en/ourservices/millimeter-wave-technologies' target='_blank'>MilliLab is an ESA external Laboratory for millimetre wave technology for RF testing and development</a>. MilliLab supplies services related to millimeter wave and THz frequencies for industry and academia. We collaborate worldwide with top universities, research organisations and companies.<br><br>Our comprehensive knowledge of millimetre wave technology is utilised for developing future technologies to be used in the European space programmes, as well as for improving competitiveness of the European space industry.",
             "gallery": [
                 {
                     "id": 0,
@@ -936,7 +948,7 @@
                 {
                     "id": 1,
                     "type": "image",
-                    "alt": "MilliLab laboratory on millimetre wave technology",
+                    "alt": "On wafer testing of millimetrewave components",
                     "src": "content/img/414S6394.jpg"
                 },
                 {
@@ -954,7 +966,7 @@
                 {
                     "id": 4,
                     "type": "image",
-                    "alt": "W-Cube nanosatellite",
+                    "alt": "W-Cube-nanosatellite with W- and Q-band radiobeagon as payload",
                     "src": "content/img/w-cube_nanosatellite.jpg"
                 },
                 {
@@ -1224,13 +1236,13 @@
                 {
                     "id": 4,
                     "type": "image",
-                    "alt": "VTT test network in Oulu",
+                    "alt": "Telecommunication network research and performance analysis",
                     "src": "content/img/vtt_network_and_test_environment_in_oulu.jpg"
                 },
                 {
                     "id": 5,
                     "type": "image",
-                    "alt": "Energy efficient telecommunication systems",
+                    "alt": "Wireless networks, reliablity and interoperability",
                     "src": "content/img/vtt_test_network_in_oulu.jpg"
                 }
             ],
@@ -1280,7 +1292,7 @@
                 {
                     "id": 1,
                     "type": "image",
-                    "alt": "Data center",
+                    "alt": "Platform security",
                     "src": "content/img/data_center.jpg"
                 }
             ],
@@ -1297,7 +1309,7 @@
         {
             "id": 33,
             "title": "Micronova",
-            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/micronova' target='_blank'>Micronova</a> is the largest R&D cleanroom in the Nordic countries and a central hub for the Finnish electronics industry ecosystem. It offers two cleanroom and processing lines for silicon CMOS, MEMS, III-V optoelectronics and thin film devices.<br><br>Located at the Otaniemi Technology Campus, Micronova brings together 350 professionals as well as industry. Micronova has the R&D infrastructure to develop, for example, optical and wireless sensors, microelectronics and microfluids, nanoelectronics and quantum devices, radiation detectors and instruments for space technology.",
+            "description": "<a class='link' href='https://www.vttresearch.com/en/ourservices/micronova' target='_blank'>Micronova</a> is part of  Finland’s national research infrastructure for micro-, nano- and quantum technology - OtaNano. Micronova features the largest R&D cleanroom in the Nordic countries. The facility is run jointly by VTT and Aalto University. We develop innovative enabling technologies, and apply them to practical micro- and nanosystems.<br><br>We have processing capabilities for silicon CMOS, MEMS, silicon photonics, 3D integration, III-V optoelectronics and thin film components.<br><br>Micronova brings together 350 professionals from several companies and industries. We offer cleanroom services and the entire development cycle of micro- and nanofabrication from fundamental research to small-scale production.",
             "gallery": [
                 {
                     "id": 0,
@@ -1320,43 +1332,43 @@
                 {
                     "id": 3,
                     "type": "image",
-                    "alt": "VTT clean room facility",
+                    "alt": "Micronova facilities",
                     "src": "content/img/vtt_micronova.jpg"
                 },
                 {
                     "id": 6,
                     "type": "image",
-                    "alt": "Clean room",
+                    "alt": "Cleanroom finger",
                     "src": "content/img/vtt_cleanroom_3.jpg"
                 },
                 {
                     "id": 7,
                     "type": "image",
-                    "alt": "Clean room",
+                    "alt": "Silicon photonics wafer",
                     "src": "content/img/vtt_cleanroom_4.jpg"
                 },
                 {
                     "id": 8,
                     "type": "image",
-                    "alt": "Clean room",
+                    "alt": "Cleanroom finger",
                     "src": "content/img/vtt_cleanroom_5.jpg"
                 },
                 {
                     "id": 9,
                     "type": "image",
-                    "alt": "Clean room",
+                    "alt": "Cleanroom",
                     "src": "content/img/vtt_cleanroom_6.jpg"
                 },
                 {
                     "id": 10,
                     "type": "image",
-                    "alt": "Clean room",
+                    "alt": "Cleanroom",
                     "src": "content/img/vtt_cleanroom_7.jpg"
                 },
                 {
                     "id": 11,
                     "type": "image",
-                    "alt": "Clean room",
+                    "alt": "Lithography area",
                     "src": "content/img/P1377783_b.jpg"
                 }
             ],
