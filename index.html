@@ -52,7 +52,7 @@
 
         </script>
         <!--End Google Tag Manager -->
-        <link href="dist/style.4d19b8786f2c3e2e284e.css" rel="stylesheet">
+        <link href="css/style.5b59d1986000826b7a92.css" rel="stylesheet">
     </head>
 
     <body>
@@ -66,11 +66,26 @@
         <header id="top" class="uk-container uk-container-xlarge">
             <a class="skip-main" href="#content">Skip to main content</a>
 
-            <div class="uk-position-fixed uk-transform-origin-top-left uk-position-z-index">
-                <div id="logo" class="uk-transform-origin-top-left">
-                    <a href="https://www.vttresearch.com/en">
-                        <img src="assets/vttlogo.svg" alt="Homepage - VTT" width="180" height="120">
+            <div class="uk-position-fixed uk-position-z-index uk-grid-small" uk-grid>
+
+                <div class="uk-transform-origin-top-left">
+                    <a class="no-border" href="https://www.vttresearch.com/en">
+                        <img class="logo" src="assets/vttlogo.svg" alt="Homepage - VTT">
                     </a>
+                </div>
+
+                <div id="language" class="uk-transform-origin-top-left">
+
+                    <button id="language-dropdown" class="uk-button language" aria-haspopup="true" aria-expanded="false">
+                        <span class="visually-hidden">Switch language, current language: English </span>
+                        <span aria-hidden="true"> EN </span>
+                    </button>
+
+                    <div uk-dropdown="mode: click;offset: 0;pos: bottom-left" role="menu" aria-labelledby="language-dropdown">
+                        <ul class="uk-nav uk-dropdown-nav" role="menu">
+                            <li hreflang="fi"><a href="index-fi.html" role="menuitem" aria-label="Finish" hreflang="fi"> FI </a></li>
+                        </ul>
+                    </div>
                 </div>
             </div>
 
@@ -96,30 +111,30 @@
                         Pinch to zoom out.
                     </p>
 
-                    <img data-src="assets/gestures.png" width="1800" height="1200" alt="Touchscreen gestures" uk-img>
+                    <img data-src="assets/gestures.png" width="1800" height="1200" alt="Touchscreen gestures" data-uk-img>
                     <form>
                         <div id="checkboxdiv" class="uk-width-medium uk-margin uk-margin-auto uk-margin-small-bottom uk-margin-medium-top">
                             <label>
-                                <input id="checkbox" class="uk-checkbox" type="checkbox"> Don't show this again.
+                                <input id="checkbox" class="uk-checkbox" type="checkbox">Don't show this again.
                             </label>
                         </div>
                     </form>
                     <div class="uk-width-medium uk-margin uk-margin-auto uk-margin-small-top uk-margin-small-bottom">
                         <button class="uk-button uk-button-primary uk-modal-close uk-width-1-1" type="button">Ok</button>
                     </div>
-
                 </div>
+            </div>
         </section>
 
         <main id="main-content" aria-labelledby="mainLabel" class="uk-container uk-container-expand uk-padding-remove">
 
             <div id="content" class="uk-width-auto uk-inline-clip uk-text-nowrap">
-                <h1 id="mainLabel" class="visually-hidden"> Welcome to VTT World</h1>
+                <h1 id="mainLabel" class="visually-hidden">Welcome to VTT World</h1>
 
                 <canvas aria-hidden="true" width="768" height="1296" class="canvas uk-hidden@s"></canvas>
                 <canvas aria-hidden="true" width="1920" height="3240" class="canvas uk-visible@s"></canvas>
 
-                <video tabindex="-1" autoplay muted loop id="bg" class="uk-position-absolute" style="left: 0%; top: 0%" playsinline poster="assets/bg-min.jpg" aria-label="VTT World presents all VTT key technology platforms and infrastructures.">
+                <video tabindex="-1" autoplay muted loop id="bg" class="uk-position-absolute" style="left: 0%; top: 0%" playsinline poster="assets/bg-mobile.jpg" aria-label="VTT World presents all VTT key technology platforms and infrastructures.">
                     <!-- <source type="video/mp4" src="assets/bg.mp4"/>-->
                 </video>
 
@@ -233,7 +248,7 @@
         </section>
 
         <script src="https://unpkg.com/focus-visible@latest/dist/focus-visible.min.js"></script>
-        <script type="text/javascript" src="dist/app.54ce7e48efd1c13d032a.js"></script>
+        <script type="text/javascript" src="js/app.255f335367b30deaede1.js"></script>
     </body>
 
 </html>

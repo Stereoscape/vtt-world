@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="fi" dir="ltr">
+
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>VTT World</title>
+        <link rel="canonical" href="https://www.vttresearch.com/fi/vtt-world">
+
+        <!-- Primary Meta Tags -->
+        <meta name="title" content="VTT World">
+        <meta name="description" content="VTT World presents all VTT key technology platforms and infrastructures.">
+
+        <!-- Open Graph / Facebook -->
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.vttresearch.com/fi/vtt-world/">
+        <meta property="og:title" content="Welcome to VTT World">
+        <meta property="og:description" content="VTT World presents all VTT key technology platforms and infrastructures.">
+        <meta property="og:image" content="https://www.vttresearch.com/en/vtt-world/assets/vtt-world-card.jpg">
+        <meta property="og:site_name" content="VTT World">
+
+        <!-- Twitter -->
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://www.vttresearch.com/fi/vtt-world/">
+        <meta property="twitter:title" content="Welcome to VTT World">
+        <meta property="twitter:description" content="VTT World presents all VTT key technology platforms and infrastructures.">
+        <meta property="twitter:image" content="https://www.vttresearch.com/en/vtt-world/assets/vtt-world-card.jpg">
+        <meta name="twitter:site" content="@VTTFinland">
+
+        <meta name="viewport" content="initial-scale=1, width=device-width" />
+        <meta name="HandheldFriendly" content="true">
+
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <link rel="shortcut icon" type="image/x-icon" href="assets/favicon/favicon-32x32.png" />
+        <!--Google Tag Manager -->
+        <script>
+            (function(w, d, s, l, i) {
+                w[l] = w[l] || [];
+                w[l].push({
+                    'gtm.start': new Date().getTime(),
+                    event: 'gtm.js'
+                });
+                var f = d.getElementsByTagName(s)[0],
+                    j = d.createElement(s),
+                    dl = l != 'dataLayer' ? '&l=' + l : '';
+                j.async = true;
+                j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+                f.parentNode.insertBefore(j, f);
+            })(window, document, 'script', 'dataLayer', 'GTM-WGW3LXZ');
+
+        </script>
+        <!--End Google Tag Manager -->
+        <link href="css/style.5b59d1986000826b7a92.css" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <!--Google Tag Manager (noscript) -->
+        <noscript aria-hidden="true"><iframe title="Google tag manager" src="https://www.googletagmanager.com/ns.html?id=GTM-WGW3LXZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!--End Google Tag Manager (noscript) -->
+
+        <noscript aria-hidden="true">Olemme pahoillamme, mutta VTT-maailma tarvitsee JavaScriptin käyttöön. Ota se käyttöön jatkaaksesi.</noscript>
+
+        <header id="top" class="uk-container uk-container-xlarge">
+            <a class="skip-main" href="#content">Siirry pääsisältöön</a>
+
+            <div class="uk-position-fixed uk-position-z-index uk-grid-small" uk-grid>
+
+                <div class="uk-transform-origin-top-left">
+                    <a class="no-border" href="https://www.vttresearch.com/en">
+                        <img class="logo" src="assets/vttlogo.svg" alt="Homepage - VTT">
+                    </a>
+                </div>
+
+                <div id="language" class="uk-transform-origin-top-left">
+
+                    <button id="language-dropdown" class="uk-button language" aria-haspopup="true" aria-expanded="false">
+                        <span class="visually-hidden">Vaihda kieltä, nykyinen kieli: suomi</span>
+                        <span class="" aria-hidden="true"> FI </span>
+                    </button>
+
+                    <div uk-dropdown="mode: click;offset: 0;pos: bottom-left" role="menu" aria-labelledby="language-dropdown">
+                        <ul class="uk-nav uk-dropdown-nav" role="menu">
+                            <li hreflang="en"><a href="index.html" role="menuitem" aria-label="Englanti" hreflang="en"> EN </a></li>
+                        </ul>
+                    </div>
+
+                </div>
+            </div>
+
+        </header>
+
+        <section id="instructionsContainer" role="dialog" aria-modal="true" class="uk-modal-container uk-flex-top" data-uk-modal>
+
+            <div role="document" class="uk-modal-dialog uk-margin-auto-vertical uk-background-cover uk-background-bottom-left">
+
+                <button id="instructionsClose" class="uk-modal-close-default uk-modal-close-full uk-close-large" type="button" data-uk-close>
+                    <span id="instructionClosetext" class="visually-hidden">
+                        Sulje valintaikkuna
+                    </span>
+                </button>
+
+                <div id="instructionsHeader" class="uk-modal-header">
+                    <h1 aria-live="polite" id="instructionsTitle" class="uk-text-bold" style="width: 80%">
+                        Ohjeet
+                    </h1>
+
+                    <p id="popup" class="uk-helvetica description uk-text-secondary">
+                        Nipistä sormilla ulospäin zoomataksesi lähemmäs.<br>
+                        Nipistä sormilla sisäänpäin zoomataksesi kauemmas.
+                    </p>
+
+                    <img data-src="assets/gestures.png" width="1800" height="1200" alt="Touchscreen gestures" data-uk-img>
+                    <form>
+                        <div id="checkboxdiv" class="uk-width-medium uk-margin uk-margin-auto uk-margin-small-bottom uk-margin-medium-top">
+                            <label>
+                                <input id="checkbox" class="uk-checkbox" type="checkbox">Älä näytä tätä uudelleen.
+                            </label>
+                        </div>
+                    </form>
+                    <div class="uk-width-medium uk-margin uk-margin-auto uk-margin-small-top uk-margin-small-bottom">
+                        <button class="uk-button uk-button-primary uk-modal-close uk-width-1-1" type="button">Ok</button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <main id="main-content" aria-labelledby="mainLabel" class="uk-container uk-container-expand uk-padding-remove">
+
+            <div id="content" class="uk-width-auto uk-inline-clip uk-text-nowrap">
+                <h1 id="mainLabel" class="visually-hidden">Tervetuloa VTT World:iin</h1>
+
+                <canvas aria-hidden="true" width="768" height="1296" class="canvas uk-hidden@s"></canvas>
+                <canvas aria-hidden="true" width="1920" height="3240" class="canvas uk-visible@s"></canvas>
+
+                <video tabindex="-1" autoplay muted loop id="bg" class="uk-position-absolute" style="left: 0%; top: 0%" playsinline poster="assets/bg-mobile.jpg" aria-label="VTT World esittelee kaikki VTT:n tärkeimmät teknologia-alustat ja infrastruktuurit.">
+                    <!-- <source type="video/mp4" src="assets/bg.mp4"/>-->
+                </video>
+
+                <nav id="hotspotsNav" aria-labelledby="hotspotsNavLabel">
+                    <h1 id="hotspotsNavLabel" class="visually-hidden uk-position-top">Tärkeimmät teknologia-alustat</h1>
+                    <ul id="hotspotsNavUL" class="uk-padding-remove uk-margin-remove" style="list-style-type:none;"></ul>
+                </nav>
+
+                <div id="some-element"></div>
+
+            </div>
+        </main>
+
+        <section id="infocardContainer" role="dialog" aria-modal="true" class="uk-modal-container uk-flex-top" data-uk-modal>
+
+            <div role="document" class="uk-modal-dialog uk-margin-auto-vertical uk-background-cover uk-background-bottom-left" style="background-image: url(assets/infocard-background.svg)">
+
+                <button id="infocardClose" class="uk-modal-close-default uk-modal-close-full uk-close-large" type="button" data-uk-close>
+                    <span id="infocardClosetext" class="visually-hidden">
+                        Sulje valintaikkuna
+                    </span>
+                </button>
+
+                <div id="infocardHeader" class="uk-modal-header">
+                    <h1 aria-live="polite" id="infocardTitle" class="uk-text-bold" style="width: 80%">
+                        Infocard Title
+                    </h1>
+                </div>
+
+                <div id="infocardBody" class="uk-modal-body uk-padding-remove-vertical">
+                    <div class="uk-flex-top" data-uk-grid>
+                        <div class="uk-width-1-2@m">
+                            <p aria-live="polite" id="infocardDescription" class="uk-helvetica description uk-text-secondary">
+                                The demand for sustainable and renewable materials is increasing. We create new bio-based
+                                materials viable for the circular economy and methods for manufacturing them more
+                                efficiently.<br><br>We research alternatives to fossil-based plastics and develop bio-based
+                                composites that combine properties of natural fibres and thermoplastic materials to create
+                                novel materials for applications, including packaging, furniture and construction. We also
+                                use foam-forming technology to create recyclable and sustainable materials that can be used
+                                for applications such as packaging and construction, lightweight boards, wipes, filters and
+                                hygiene products. Foam forming technology expands the range of raw materials and enables the
+                                production of new, value-added structures. Our unique infrastructure includes multiple
+                                piloting capabilities for these technologies.
+                            </p>
+                        </div>
+                        <div class="uk-width-1-2@m">
+                            <h2 class="visually-hidden">
+                                Karuselli, joka sisältää aiheeseen liittyviä kuvia ja videoita
+                            </h2>
+
+                            <!-- UIKIT working slider BEGIN -->
+
+                            <div id="gallery" class="" data-uk-slideshow="ratio: 16:9">
+
+                                <div id="carousel" aria-live="polite" aria-roledescription="carousel">
+
+                                    <ul id="galleryItems" class="uk-slideshow-items">
+                                        <li>
+                                            <span class="visually-hidden">Slide 1 of 3</span>
+                                            <img width="1280" height="720" src="assets/pixel.jpg" data-src="assets/placeholder_1280x720.jpg" alt="IntelligentEnergy test bed">
+                                        </li>
+                                        <li>
+                                            <span class="visually-hidden">Slide 2 of 3</span>
+                                            <img width="1280" height="720" src="assets/pixel.jpg" data-src="assets/placeholder_1280x720.jpg" alt="Space satellite">
+                                        </li>
+                                        <li>
+                                            <span class="visually-hidden">Slide 3 of 3</span>
+                                            <img width="1280" height="720" src="assets/pixel.jpg" data-src="assets/placeholder_1280x720.jpg" alt="Cleanroom lab worker">
+                                        </li>
+                                    </ul>
+
+                                    <fieldset>
+                                        <legend class="visually-hidden">Karusellin ohjaus</legend>
+
+                                        <div class="uk-text-center uk-grid-collapse" data-uk-grid>
+                                            <div class="uk-width-auto">
+                                                <a aria-label="Edellinen dia" aria-controls="carousel" class="uk-slidenav-large" href="#" data-uk-slidenav-previous data-uk-slideshow-item="previous"></a>
+                                            </div>
+                                            <div class="uk-width-expand">
+                                                <div class="uk-card">
+                                                    <ul id="dotNav" class="uk-flex-center uk-flex-middle uk-dotnav padding-top" aria-label="Karusellin ohjaus" aria-controls="carousel"></ul>
+                                                </div>
+                                            </div>
+                                            <div class="uk-width-auto">
+                                                <a aria-label="Seuraava dia" aria-controls="carousel" class="uk-slidenav-large" href="#" data-uk-slidenav-next data-uk-slideshow-item="next"></a>
+                                            </div>
+                                        </div>
+                                    </fieldset>
+
+                                </div>
+
+                            </div>
+
+                            <!-- UIKIT working slider END-->
+                        </div>
+                    </div>
+                </div>
+
+                <div id="infocardFooter" class="uk-modal-footer uk-text-left">
+                    <div data-uk-grid>
+                        <nav aria-labelledby="tagsLabel" class="uk-width-expand">
+                            <h2 id="tagsLabel" class="uk-margin-small uk-text-bold">
+                                Aiheeseen liittyvät teknologia-alustat
+                            </h2>
+                            <ul id="tagContainer" class="uk-navbar-nav uk-navbar-left uk-margin-small-top uk-margin-small-bottom">
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <script src="https://unpkg.com/focus-visible@latest/dist/focus-visible.min.js"></script>
+        <script type="text/javascript" src="js/app.255f335367b30deaede1.js"></script>
+    </body>
+
+</html>
