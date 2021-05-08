@@ -1,0 +1,40 @@
+﻿WEBVTT
+
+00:00:06.280 --> 00:00:10.110
+"JARNO" rider HMI with odometry.
+
+00:00:16.290 --> 00:00:25.110
+V2X based collision avoidance - LTE/5G.
+
+00:00:27.230 --> 00:00:36.080
+Automated vehicle sends position and route.
+
+00:00:40.230 --> 00:00:47.130
+Motorcycle receives vehicle route
+and warns wider for collision risk.
+
+00:00:55.090 --> 00:01:04.130
+User interface for motorcycle speed and safety margin -
+data received and processed from V2X gateway.
+
+00:01:04.160 --> 00:01:12.290
+Left turning in intersection -
+motorcycle receives warning message.
+
+00:01:13.240 --> 00:01:18.210
+Connected road side unit
+
+00:01:19.130 --> 00:01:22.260
+Connected motorcycle
+
+00:01:22.260 --> 00:01:31.260
+Intelligence road side unit calculates collision
+risk based on vehicle route and motorcycle odometry.
+
+00:01:36.010 --> 00:01:40.030
+Radar based front vehicle
+detection in adverse weather.
+
+00:01:44.200 --> 00:01:52.010
+Motorcycle estimate driver intention from rider
+interaction (turning sign, brake force/acceleration).
