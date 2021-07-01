@@ -1,8 +1,8 @@
 { 
-  "version": "0.9.3",
+  "version": "0.9.4",
   
   "productName": "VTT World",
-  "description": "VTT World offline version with Github-based auto-update",
+  "description": "VTT World offline version with Github-based auto-update ",
   "name": "vtt-world-builder",
   "private": true,
   "author": "Stereoscape <info@stereoscape.com>",
